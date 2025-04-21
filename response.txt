@@ -1,0 +1,340 @@
+What is the purpose of updating the travel expense regulations? || chunk_1
+What is the previous travel expense regulations described as? || chunk_1
+What law references the exemplary function of state administration regarding climate protection? || chunk_1
+
+What is the focus of the revised State Travel Expense Act? || chunk_2
+What happens to the per diem allowance if complimentary meals are provided? || chunk_2
+What happens to the State Foreign Travel Expense Regulation? || chunk_2
+What is newly anchored as a statutory payment for official flights? || chunk_2
+What does the Act address regarding expenses during an extended stay? || chunk_2
+What does the Act address regarding rarely occurring special regulations? || chunk_2
+
+What does the State Travel Expense Act state regarding alternatives? || chunk_3
+
+What is the estimated additional cost resulting from the climate compensation payment for officially required flights? || chunk_4
+
+What are the costs for private individuals? || chunk_5
+
+Who is eligible for travel expense reimbursement under this Act? || chunk_6
+What does this Act regulate? || chunk_6
+What types of trips are covered by this Act? || chunk_6
+What is also regulated besides travel expense reimbursement? || chunk_6
+
+What costs are included in travel expense reimbursement? || chunk_7
+What is covered by the mileage allowance? || chunk_7
+What is covered by the per diem allowance? || chunk_7
+What is covered by the accommodation allowance? || chunk_7
+What expenses are reimbursed for extended stays? || chunk_7
+What is covered by expense and lump sum reimbursement? || chunk_7
+What other costs are reimbursed? || chunk_7
+
+What constitutes an "official trip" according to this Act? || chunk_8
+How must an order or approval for an official trip be given? || chunk_8
+Under what circumstances is an order or approval *not* required for an official trip? || chunk_8
+Does travel from a temporary residence to a work location qualify as an official trip? || chunk_8
+What condition must be met for travel from a temporary residence to qualify as an official trip? || chunk_8
+When should an official trip *not* be carried out? || chunk_8
+
+What constitutes an "official errand"? || chunk_9
+When is an order or approval *not* required for official errands? || chunk_9
+Is a temporary residence considered the same as a place of residence? || chunk_9
+Who must order or approve journeys for official business? || chunk_9
+
+Do judges require an order or approval for official trips to carry out judicial duties? || chunk_10
+Do state commissioners for data protection require an order or approval for official trips? || chunk_10
+Do government commissioners for the concerns of people with disabilities require an order or approval for official trips? || chunk_10
+
+Who is eligible for travel expense reimbursement? || chunk_11
+What is required to receive travel expense reimbursement? || chunk_11
+What type of expenses are eligible for reimbursement? || chunk_11
+
+Who determines the starting and ending points of a trip generally? || chunk_12
+Under what condition may a superior designate official premises as the starting or ending point? || chunk_12
+What determines reimbursement or mileage allowance when a trip starts or ends at a traveler’s residence? || chunk_12
+Which residence is decisive if a traveler has several? || chunk_12
+
+Are travelers generally free to choose the means of transport? || chunk_13
+Will travel costs be reimbursed if a complimentary mode of transport is available? || chunk_13
+Must travelers consider climate protection requirements when choosing transport? || chunk_13
+Are economic considerations a factor in choosing transport? || chunk_13
+
+Within what timeframe must I apply for travel expense reimbursement? || chunk_14
+How long after the application can authorities request cost receipts? || chunk_14
+What happens if I don't submit requested receipts within one month? || chunk_14
+How long am I required to keep cost receipts after reimbursement? || chunk_14
+In what form must a waiver of reimbursement be declared? || chunk_14
+
+What happens to benefits received from third parties during official travel? || chunk_15
+
+Under what circumstances are travelers entitled to reimbursement under this Act? || chunk_16
+Is reimbursement allowed if another body covers the same trip? || chunk_16
+Does waiving a claim against another body affect eligibility for reimbursement under this Act? || chunk_16
+
+Can I waive my travel expense reimbursement? || chunk_17
+Is a written declaration required to waive reimbursement? || chunk_17
+Is an electronic declaration acceptable to waive reimbursement? || chunk_17
+Can I waive only part of my travel expenses? || chunk_17
+
+What travel class costs are reimbursed for public transport? || chunk_18
+Are there situations where flight costs beyond the lowest class may be reimbursed? || chunk_18
+Who can permit exceptions to the lowest travel class reimbursement? || chunk_18
+Who may determine exceptions regarding flight costs? || chunk_18
+
+What percentage disability degree qualifies an official traveler for reimbursement of a higher class of travel? || chunk_19
+What travel costs are reimbursed according to the State Travel Expense Act (LRKG)? || chunk_19
+Under what condition may official travelers *without* a disability degree be reimbursed for a higher class of travel? || chunk_19
+
+Under what circumstances will rental car or taxi costs be reimbursed? || chunk_20
+What is the reimbursement limit if public transport is not used and a compelling reason does not exist? || chunk_20
+Will car-sharing membership fees be reduced due to personal use? || chunk_20
+
+Who is required to make annual climate compensation payments? || chunk_21
+For what types of flights are climate compensation payments required? || chunk_21
+Where do the climate compensation payments go? || chunk_21
+Which entities, besides state government members, are required to make these payments? || chunk_21
+Can public universities make these payments? || chunk_21
+
+What is the mileage allowance per kilometer traveled? || chunk_22
+
+What is the mileage allowance in cents per kilometer traveled? || chunk_23
+What is the surcharge amount in cents per kilometer? || chunk_23
+Under what conditions may a surcharge be granted? || chunk_23
+What is required to receive a surcharge for mileage allowance? || chunk_23
+
+What is the per diem allowance for a full calendar day of an official trip? || chunk_24
+What is the per diem allowance for a trip lasting less than a full calendar day with a duration of more than [hours]? || chunk_24
+What is the per diem allowance for a trip lasting less than a full calendar day with a duration of more than [hours]? || chunk_24
+
+How is the duration of an official trip determined? || chunk_25
+
+Is there a per diem allowance for official errands? || chunk_26
+Is meal expense reimbursement available for errands lasting more than eight hours? || chunk_26
+What determines the amount of meal expense reimbursement for long errands? || chunk_26
+
+What percentage of the per diem is withheld for breakfast if complimentary meals are received? || chunk_27
+What percentage of the per diem is withheld for lunch if complimentary meals are received? || chunk_27
+What percentage of the per diem is withheld for dinner if complimentary meals are received? || chunk_27
+What happens to the per diem if meals are provided by a third party and included in reimbursable expenses? || chunk_27
+What happens to the per diem if complimentary meals are not taken without a compelling reason? || chunk_27
+
+What is the accommodation allowance for a necessary overnight stay domestically? || chunk_28
+What is the accommodation allowance for a necessary overnight stay abroad? || chunk_28
+Is reimbursement for accommodation costs possible even if they exceed the allowance? || chunk_28
+Where can I find information about the maximum amount considered necessary for accommodation costs? || chunk_28
+
+Is accommodation allowance granted during the use of a means of transport? || chunk_29
+Is accommodation allowance granted for stays in the traveler’s own residence? || chunk_29
+Under what conditions is accommodation allowance *not* granted when accommodation is provided free of charge for official purposes? || chunk_29
+Is accommodation allowance granted if accommodation costs are already included in reimbursable travel costs? || chunk_29
+When might an overnight stay, and thus accommodation allowance, be granted even with included accommodation costs? || chunk_29
+
+From what day onward is reimbursement granted as if it were a secondment? || chunk_30
+What counts as days of stay? || chunk_30
+
+Who determines if an expense allowance will be used? || chunk_31
+What expenses does an expense allowance cover in lieu of other reimbursements? || chunk_31
+What type of travelers may be compensated with an expense allowance? || chunk_31
+Where can I find information regarding expenses under §? || chunk_31
+
+Can a lump sum reimbursement be granted for official trips? || chunk_32
+Who can authorize a lump sum reimbursement? || chunk_32
+Is a lump sum reimbursement an alternative to travel expense reimbursement? || chunk_32
+How is the amount of a lump sum reimbursement determined? || chunk_32
+Can a lump sum reimbursement cover individual components of travel expenses? || chunk_32
+
+What types of expenses are reimbursable as incidental expenses? || chunk_33
+
+Under what circumstances will expenses incurred in preparation for a trip be reimbursed? || chunk_34
+What act governs the reimbursement of travel expenses? || chunk_34
+If a trip is canceled due to reasons not attributable to the traveler, are expenses eligible for reimbursement? || chunk_34
+
+What trips qualify for per diem allowance under LRKG C? || chunk_35
+When does the per diem allowance end? || chunk_35
+What allowance is granted in addition to the per diem allowance under specific circumstances? || chunk_35
+What is referenced as § G? || chunk_35
+What is referenced as § ? || chunk_35
+
+What percentage of expenses may be reimbursed for officials mentioned in §()? || chunk_36
+What is required to receive reimbursement for trips partially in the official interest? || chunk_36
+Under what circumstances may the reduction in reimbursement be waived? || chunk_36
+Who can grant consent for reimbursement of trips partially in the official interest? || chunk_36
+
+What happens to travel expense reimbursement if an official trip is combined with a private trip? || chunk_37
+What is the maximum amount of travel expense reimbursement in cases where an official trip is combined with a personal trip? || chunk_37
+
+If a trip starts at a vacation location, how is travel expense reimbursement calculated? || chunk_38
+If a trip ends at a vacation location, how is travel expense reimbursement calculated? || chunk_38
+What paragraph applies accordingly when a trip commences or concludes at a vacation location? || chunk_38
+What does the State Travel Expense Act (LRKG) determine? || chunk_38
+
+Under what circumstances is the return journey reimbursed as an official trip? || chunk_39
+
+Are expenses reimbursable if a business trip interrupts a vacation? || chunk_40
+Are expenses reimbursable if a business trip causes early termination of a private trip? || chunk_40
+Are unused expenses reimbursable due to trip interruption or termination? || chunk_40
+Does this act cover expenses for accompanying persons? || chunk_40
+
+What expenses are reimbursed for official travelers admitted to a hospital? || chunk_41
+For how many days are accommodation expenses reimbursed during a hospital stay? || chunk_41
+What is the name of the act governing travel expense reimbursement? || chunk_41
+
+Are travel costs reimbursable for journeys between my residence and regular official premises? || chunk_42
+
+What constitutes an official trip abroad? || chunk_43
+
+What sections apply mutatis mutandis to official trips abroad? || chunk_44
+
+What regulations govern per diem and accommodation allowances for official trips abroad? || chunk_45
+What documents specify the current version of allowances used? || chunk_45
+
+Where is per diem and accommodation allowance determined? || chunk_46
+What determines when foreign per diem is granted during a trip abroad? || chunk_46
+What happens if domestic territory is reached last before midnight? || chunk_46
+What happens if a country is reached last before midnight local time? || chunk_46
+
+When is a country deemed reached for air travel? || chunk_47
+What happens if a stopover necessitates an overnight stay? || chunk_47
+What applies to sea travel, according to this act? || chunk_47
+
+How many days does a stay at the same foreign business location need to last to trigger a per diem reduction? || chunk_48
+By what percentage is the foreign per diem reduced from the specified day onward? || chunk_48
+From which day onward is documented accommodation cost reimbursement required instead of a lump sum allowance? || chunk_48
+Who can waive the per diem reduction? || chunk_48
+
+Who receives a separation allowance? || chunk_49
+What happens when there is no promise of moving expense reimbursement? || chunk_49
+What does a secondment equate to? || chunk_49
+Who issues the regulation governing the separation allowance? || chunk_49
+
+What percentage of compensation do officials on probation receive during secondments for training? || chunk_50
+Where is the official place of duty determined for training purposes? || chunk_50
+What applies to secondments within the framework of training or induction service? || chunk_50
+Under what circumstances may the highest competent authority refrain from reducing compensation? || chunk_50
+
+Who is authorized to adjust expense amounts? || chunk_51
+What sections can have their amounts adjusted? || chunk_51
+What is the name of the act governing travel expenses? || chunk_51
+
+Who issues the general administrative regulations for the Travel Expense Act (LRKG)? || chunk_52
+
+When does this Act enter into force? || chunk_53
+What version of the State Travel Expense Act will lapse with this Act? || chunk_53
+When was the State Travel Expense Act last amended? || chunk_53
+What is the official gazette page number for the May UUG version of the State Travel Expense Act? || chunk_53
+What is the official gazette page number for the December Act amending the State Travel Expense Act? || chunk_53
+When was the State Foreign Travel Expense Regulation last amended? || chunk_53
+What is the official gazette page number for the State Foreign Travel Expense Regulation? || chunk_53
+When was the Regulation of the Ministry of Finance on Travel Expense Reimbursement in Special Cases last amended? || chunk_53
+What is the official gazette page number for Article of the Regulation of December U? || chunk_53
+Where was this document issued from? || chunk_53
+
+What is the objective of revising the State Travel Expense Act? || chunk_54
+What was the previous state of travel expense law regarding regulation density? || chunk_54
+What is the goal regarding climate protection and state administration? || chunk_54
+What was the previous travel expense law lacking? || chunk_54
+
+What is the result of the revision to the State Travel Expense Act? || chunk_55
+What happens to the per diem when complimentary meals are provided? || chunk_55
+What happens to the State Foreign Travel Expense Regulation? || chunk_55
+What is reimbursed for extended stays instead of a lump-sum compensation? || chunk_55
+For how long is a lump sum for additional meal expenses reimbursed during an extended stay? || chunk_55
+What new payment is statutorily anchored for official flights? || chunk_55
+
+None || chunk_56
+
+What is the estimated cost resulting from climate compensation payments for officially required flights? || chunk_57
+What travel class eligibility is being restricted? || chunk_57
+What happens to the per diem in the case of complimentary meals? || chunk_57
+Are there any additional implementation efforts required? || chunk_57
+
+Are there any other costs associated with this trip? || chunk_58
+
+What does the personal scope correspond to? || chunk_59
+
+What does this provision summarize and regulate? || chunk_60
+What type of information is listed conclusively regarding travel expense reimbursement? || chunk_60
+To what previous section does this regulation correspond? || chunk_60
+
+Is an examination of less costly means required before ordering or approving an official trip? || chunk_61
+
+Where can I find the economic principles specified in this regulation? || chunk_62
+
+What is the intended purpose of defining residence for travel expense law? || chunk_63
+
+What is the reasoning behind allowing official travelers free choice of transport? || chunk_64
+When is the CO₂ balance of the state administration compiled? || chunk_64
+What do the current regulations correspond to? || chunk_64
+What should generally be prioritized on long journeys? || chunk_64
+
+What class of travel will be reimbursed in principle? || chunk_65
+Is first class travel permissible? || chunk_65
+Who can permit exceptions to the standard travel class? || chunk_65
+What regulation previously differentiated air travel costs based on salary? || chunk_65
+Is there a stipulated distance for second class train travel? || chunk_65
+Is there a stipulated travel time for second class train travel? || chunk_65
+
+What paragraph does this memorandum detail explanations for? || chunk_66
+What regulation corresponds to the previous §()? || chunk_66
+
+Is there a reduction of the membership fee for car-sharing models if there is possible private use? || chunk_67
+
+Is climate compensation mandatory for officially required flights? || chunk_68
+Is public university travel recommended to include climate compensation? || chunk_68
+What is the intended outcome of climate compensation for official flights? || chunk_68
+
+What are the two new rates for motor vehicle use? || chunk_69
+What was the previous additional allowance for accompanying persons? || chunk_69
+Is approval of one’s own vehicle for official travel still required? || chunk_69
+What rate applies to bicycle or e-bike use? || chunk_69
+Is it still required that the traveler owns the vehicle used for mileage allowance? || chunk_69
+What determined the three previous rates for motor vehicle use? || chunk_69
+What engine capacity differentiated the previous rates? || chunk_69
+When did the law change regarding vehicle approval? || chunk_69
+
+What is the minimum trip duration, in hours, required to claim per diem? || chunk_70
+What section of a previous regulation does this correspond to? || chunk_70
+What is the intention of increasing the minimum duration from eight to more than eight hours? || chunk_70
+
+What previous section does the regulation correspond to? || chunk_71
+What term has been clarified? || chunk_71
+
+What regulation corresponds to the previous § LRKG? || chunk_72
+
+Where were withholding provisions previously regulated? || chunk_73
+
+Is accommodation allowance granted for stays that are not overnight? || chunk_74
+Is the LRKG still relevant regarding time conditions for accommodation allowance? || chunk_74
+What regulation establishes guidelines for reimbursable costs? || chunk_74
+
+What percentage of the full per diem will be withheld for breakfast? || chunk_75
+Where are all exclusion criteria now listed? || chunk_75
+What regulation regarding accommodation costs including breakfast has changed? || chunk_75
+
+What regulations correspond to the previous § LRKG? || chunk_76
+What was rendered unnecessary by the revision of the State Separation Allowance Regulation? || chunk_76
+
+What regulation corresponds to the previous §() LRKG? || chunk_77
+
+What regulation corresponds to the previous § LRKG? || chunk_78
+
+What regulation corresponds to the previous § LRKG? || chunk_79
+
+What costs are to be declared as incidental expenses? || chunk_80
+
+What regulations are simplified and incorporated into the Act and the administrative regulation of the Ministry of Finance on the State Travel Expense Act? || chunk_81
+What regulation is repealed? || chunk_81
+What is the aim of the authorization to refrain from a reduction in the training area? || chunk_81
+
+Is the previous restriction for officials engaged in cross-border activities eliminated? || chunk_82
+
+What regulations correspond to the previous State Foreign Travel Expense Regulation? || chunk_83
+What happens to the previous State Foreign Travel Expense Regulation? || chunk_83
+Where are the regulations now simplified and incorporated? || chunk_83
+What ministry's regulation is relevant to the State Travel Expense Act? || chunk_83
+What is adjusted dynamically to federal regulations? || chunk_83
+
+What regulation does this correspond to? || chunk_84
+What is the intention of the authorization to refrain from a reduction in the training area? || chunk_84
+
+What provision corresponds to the previous § LRKG? || chunk_85
+
