@@ -43,6 +43,9 @@ Who must order or approve journeys for official business? || chunk_9
 Do judges require an order or approval for official trips to carry out judicial duties? || chunk_10
 Do state commissioners for data protection require an order or approval for official trips? || chunk_10
 Do government commissioners for the concerns of people with disabilities require an order or approval for official trips? || chunk_10
+What types of trips are exempt from requiring an order or approval for judges? || chunk_10
+What types of trips are exempt from requiring an order or approval for state commissioners for data protection? || chunk_10
+What types of trips are exempt from requiring an order or approval for government commissioners for the concerns of people with disabilities? || chunk_10
 
 Who is eligible for travel expense reimbursement? || chunk_11
 What is required to receive travel expense reimbursement? || chunk_11
@@ -62,7 +65,7 @@ Within what timeframe must I apply for travel expense reimbursement? || chunk_14
 How long after the application can authorities request cost receipts? || chunk_14
 What happens if I don't submit requested receipts within one month? || chunk_14
 How long am I required to keep cost receipts after reimbursement? || chunk_14
-In what form must a waiver of reimbursement be declared? || chunk_14
+How must a waiver of reimbursement be declared? || chunk_14
 
 What happens to benefits received from third parties during official travel? || chunk_15
 
@@ -115,7 +118,7 @@ What percentage of the per diem is withheld for breakfast if complimentary meals
 What percentage of the per diem is withheld for lunch if complimentary meals are received? || chunk_27
 What percentage of the per diem is withheld for dinner if complimentary meals are received? || chunk_27
 What happens to the per diem if meals are provided by a third party and included in reimbursable expenses? || chunk_27
-What happens to the per diem if complimentary meals are not taken without a compelling reason? || chunk_27
+What happens to the per diem if complimentary meals are not consumed without a compelling reason? || chunk_27
 
 What is the accommodation allowance for a necessary overnight stay domestically? || chunk_28
 What is the accommodation allowance for a necessary overnight stay abroad? || chunk_28
@@ -154,10 +157,11 @@ What allowance is granted in addition to the per diem allowance under specific c
 What is referenced as § G? || chunk_35
 What is referenced as § ? || chunk_35
 
-What percentage of expenses may be reimbursed for officials mentioned in §()? || chunk_36
+What percentage of expenses may be reimbursed for officials mentioned in § ()? || chunk_36
 What is required to receive reimbursement for trips partially in the official interest? || chunk_36
-Under what circumstances may the reduction in reimbursement be waived? || chunk_36
-Who can grant consent for reimbursement of trips partially in the official interest? || chunk_36
+Who can consent to reimbursement for trips partially in the official interest? || chunk_36
+Under what conditions are costs reimbursed for education or training trips? || chunk_36
+Can the highest competent authority waive the reduction mentioned in sentence 2? || chunk_36
 
 What happens to travel expense reimbursement if an official trip is combined with a private trip? || chunk_37
 What is the maximum amount of travel expense reimbursement in cases where an official trip is combined with a personal trip? || chunk_37
@@ -165,7 +169,7 @@ What is the maximum amount of travel expense reimbursement in cases where an off
 If a trip starts at a vacation location, how is travel expense reimbursement calculated? || chunk_38
 If a trip ends at a vacation location, how is travel expense reimbursement calculated? || chunk_38
 What paragraph applies accordingly when a trip commences or concludes at a vacation location? || chunk_38
-What does the State Travel Expense Act (LRKG) determine? || chunk_38
+What does the Act state about travel expense reimbursement when ordered or approved to start/end at a vacation location, compared to paragraph 1? || chunk_38
 
 Under what circumstances is the return journey reimbursed as an official trip? || chunk_39
 
@@ -228,10 +232,10 @@ When was the Regulation of the Ministry of Finance on Travel Expense Reimburseme
 What is the official gazette page number for Article of the Regulation of December U? || chunk_53
 Where was this document issued from? || chunk_53
 
-What is the objective of revising the State Travel Expense Act? || chunk_54
-What was the previous state of travel expense law regarding regulation density? || chunk_54
+What is the objective of revising the State Travel Expense Act (LRKG)? || chunk_54
+What was the previous state of travel expense law regarding density of regulation? || chunk_54
 What is the goal regarding climate protection and state administration? || chunk_54
-What was the previous travel expense law lacking? || chunk_54
+What is the State Travel Expense Act abbreviated as? || chunk_54
 
 What is the result of the revision to the State Travel Expense Act? || chunk_55
 What happens to the per diem when complimentary meals are provided? || chunk_55
@@ -255,7 +259,7 @@ What does this provision summarize and regulate? || chunk_60
 What type of information is listed conclusively regarding travel expense reimbursement? || chunk_60
 To what previous section does this regulation correspond? || chunk_60
 
-Is an examination of less costly means required before ordering or approving an official trip? || chunk_61
+Is an examination of less costly means required before approving an official trip? || chunk_61
 
 Where can I find the economic principles specified in this regulation? || chunk_62
 
@@ -279,8 +283,8 @@ What regulation corresponds to the previous §()? || chunk_66
 Is there a reduction of the membership fee for car-sharing models if there is possible private use? || chunk_67
 
 Is climate compensation mandatory for officially required flights? || chunk_68
-Is public university travel recommended to include climate compensation? || chunk_68
-What is the intended outcome of climate compensation for official flights? || chunk_68
+Is there a recommendation for public universities regarding climate compensation? || chunk_68
+What is the intended outcome of performing climate compensation for flights? || chunk_68
 
 What are the two new rates for motor vehicle use? || chunk_69
 What was the previous additional allowance for accompanying persons? || chunk_69
