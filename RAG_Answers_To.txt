@@ -1,0 +1,105 @@
+Question 1 (Original Chunk ID: chunk_8)
+Top-k Chunks Used: ['chunk_8', 'chunk_9', 'chunk_10']
+Question: What is an official trip?
+Answer: According to the State Travel Expense Act (LRKG) §, an official trip is a journey undertaken to conduct official business outside the usual place of work, which has been ordered or approved by the responsible superior, unless an order or approval is not applicable due to the nature of the official’s office or the nature of the official business. The order or approval must be given in writing or electronically. Official trips also include journeys from a location serving as a temporary residence to the place of work, provided that certain conditions are met. Additionally, a less costly method of conducting the official business must not be possible or reasonable.
+
+Question 2 (Original Chunk ID: chunk_8)
+Top-k Chunks Used: ['chunk_8', 'chunk_9', 'chunk_10']
+Question: Could you please define what constitutes an “official trip”?
+Answer: According to the State Travel Expense Act (LRKG) § , an official trip is a journey undertaken to conduct official business outside the usual place of work, which has been ordered or approved by the responsible superior, unless an order or approval is not applicable due to the nature of the official’s office or the nature of the official business. The order or approval must be given in writing or electronically. Official trips also include journeys from a location serving as a temporary residence to the place of work, provided that certain conditions are met, and only if a less costly method of conducting the official business is not possible or reasonable.
+
+Question 3 (Original Chunk ID: chunk_8)
+Top-k Chunks Used: ['chunk_8', 'chunk_61', 'chunk_10']
+Question: The order of approval for an official trip should be submitted manually only?
+Answer: No. The order or approval must be given in writing **or electronically**.
+
+Question 4 (Original Chunk ID: chunk_8)
+Top-k Chunks Used: ['chunk_8', 'chunk_10', 'chunk_3']
+Question: Is a paper submission required for all travel approvals?
+Answer: No, a paper submission is not required for all travel approvals. The Act states the order or approval "must be given in writing or electronically."
+
+Question 5 (Original Chunk ID: Chunk_9)
+Top-k Chunks Used: ['chunk_9', 'chunk_8', 'chunk_10']
+Question: What is an official errand?
+Answer: According to the State Travel Expense Act (LRKG) § Official Trips and Errands, an official errand is a journey undertaken to conduct official business at the place of work or residence outside the official premises, which has been ordered or approved by the responsible superior, unless an order or approval is not applicable due to the nature of the official’s office or the nature of the official business. The place of residence is deemed equivalent to a temporary residence.
+
+Question 6 (Original Chunk ID: Chunk_9)
+Top-k Chunks Used: ['chunk_50', 'chunk_8', 'chunk_9']
+Question: Could you explain what constitutes a legitimate, authorized task or duty?
+Answer: Based on the provided text, a legitimate, authorized task or duty is one undertaken to conduct official business either:
+
+1. **Outside the usual place of work** (an official trip - §2) ordered or approved by a responsible superior (unless not required due to the nature of the office or business).
+2. **At the place of work or residence outside official premises** (an official errand - §3) ordered or approved by a responsible superior (unless not required due to the nature of the office or business).
+
+Question 7 (Original Chunk ID: Chunk_10)
+Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_9']
+Question: Is an order or approval required for a judge's official trip?
+Answer: No order or approval is required for official trips by a judge to carry out judicial duties or to participate in a meeting of the presidium or another comparable constitutional body of the court to which they belong.
+
+Question 8 (Original Chunk ID: Chunk_10)
+Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_50']
+Question: Does a judge need to obtain permission or a directive before traveling for official duties?
+Answer: According to the State Travel Expense Act (LRKG) § Official Trips and Errands, no order or approval is required for official trips by a judge to carry out judicial duties or to participate in a meeting of the presidium or another comparable constitutional body of the court to which they belong.
+
+Question 9 (Original Chunk ID: Chunk_10)
+Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_64']
+Question: Is an order or approval required for a state commissioner’s official trip?
+Answer: According to the State Travel Expense Act (LRKG) § Official Trips and Errands, no order or approval is required for official trips by the state commissioner for data protection to perform his or her duties under the State Data Protection Act.
+
+Question 10 (Original Chunk ID: Chunk_10)
+Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_64']
+Question: Does a state commissioner need to obtain permission or follow a specific process before taking an official trip?
+Answer: According to the State Travel Expense Act (LRKG) § Official Trips and Errands, no order or approval is required for official trips by the state commissioner for data protection to perform his or her duties under the State Data Protection Act.
+
+Question 11 (Original Chunk ID: Chunk_10)
+Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_64']
+Question: Is an order or approval required for a government commissioner's official trip?
+Answer: According to the State Travel Expense Act (LRKG) § Official Trips and Errands, no order or approval is required for official trips by the government commissioner for the concerns of people with disabilities to perform his or her duties under the State Equal Opportunities for People with Disabilities Act.
+
+Question 12 (Original Chunk ID: Chunk_10)
+Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_64']
+Question: Does a government commissioner need to obtain permission or a directive before traveling for official business?
+Answer: According to the State Travel Expense Act (LRKG) § Official Trips and Errands, no order or approval is required for official trips by the government commissioner for the concerns of people with disabilities to perform his or her duties under the State Equal Opportunities for People with Disabilities Act.
+
+Question 13 (Original Chunk ID: Chunk_11)
+Top-k Chunks Used: ['chunk_7', 'chunk_40', 'chunk_16']
+Question: Will travelers receive reimbursement for additional expenses?
+Answer: Travelers will receive reimbursement for “Necessary additional expenses on official errands” (§ G) and “Reimbursement of other costs” (§ ).
+
+Question 14 (Original Chunk ID: Chunk_11)
+Top-k Chunks Used: ['chunk_5', 'chunk_3', 'chunk_2']
+Question: Are travelers eligible for expense coverage beyond what was originally planned?
+Answer: Based on the provided text, travelers are **not** eligible for expense coverage beyond what was originally planned. 
+
+Page E states: "Costs for Private Individuals None" and Page C states: "Alternatives None".
+
+Question 15 (Original Chunk ID: Chunk_12)
+Top-k Chunks Used: ['chunk_12', 'chunk_64', 'chunk_8']
+Question: Is the traveler free to choose the starting and end points of the trip?
+Answer: According to § LRKG, the starting and ending points of an official trip are generally determined by the traveler in accordance with the principle of cost-effectiveness. However, the official superior may designate the official premises as the starting and/or ending point if the travel route runs immediately past them.
+
+Question 16 (Original Chunk ID: Chunk_12)
+Top-k Chunks Used: ['chunk_47', 'chunk_64', 'chunk_12']
+Question: Does the traveler have control over where the journey begins and finishes?
+Answer: The traveler generally determines the starting and ending points of an official trip in accordance with the principle of cost-effectiveness. However, the official superior may designate the official premises as the starting and/or ending point if the travel route runs immediately past them. If commencing/concluding at residence, reimbursement is based on distance from residence *unless* official premises are designated as the start/end point.
+
+Question 17 (Original Chunk ID: Chunk_12)
+Top-k Chunks Used: ['chunk_12', 'chunk_8', 'chunk_47']
+Question: What happens when the official trip is commenced and/or concluded at the traveler’s residence?
+Answer: In the case of an official trip that is commenced and/or concluded at the traveler’s residence, the reimbursement of travel costs (§ ) or the mileage allowance (§ ) shall be based on the distance from or to the residence, unless the official premises have been designated as the starting and/or ending point.
+
+Question 18 (Original Chunk ID: Chunk_12)
+Top-k Chunks Used: ['chunk_8', 'chunk_12', 'chunk_30']
+Question: How are travel arrangements affected when a business trip begins or ends at the traveler's home?
+Answer: When an official trip commences and/or concludes at the traveler’s residence, the reimbursement of travel costs (§ ) or the mileage allowance (§ ) shall be based on the distance from or to the residence, unless the official premises have been designated as the starting and/or ending point.
+
+Question 19 (Original Chunk ID: Chunk_12)
+Top-k Chunks Used: ['chunk_12', 'chunk_64', 'chunk_63']
+Question: If the traveler has several residences which one should be chosen as start/end points?
+Answer: In the presence of several residences or accommodations, the one nearest to the official premises shall be decisive.
+
+Question 20 (Original Chunk ID: Chunk_12)
+Top-k Chunks Used: ['chunk_12', 'chunk_64', 'chunk_43']
+Question: How do you determine the origin and destination when a person has multiple homes?
+Answer: In the presence of several residences or accommodations, the one nearest to the official premises shall be decisive.
+
