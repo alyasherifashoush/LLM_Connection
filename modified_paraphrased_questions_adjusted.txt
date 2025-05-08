@@ -10,7 +10,7 @@ Q5 Paraphrased: Are judges required to obtain permission before traveling for of
 
 Q6 Paraphrased: Are there required authorizations for official travel when serving as a state commissioner?
 
-Q7 Paraphrased: Are there required authorizations for government-related travel when you hold a commissioner position?
+Q7 Paraphrased: Are there required authorizations for government-related travel when you hold a government commissioner position?
 
 Q8 Paraphrased: Are the trip's beginning and ending locations flexible?
 
@@ -26,123 +26,125 @@ Q13 Paraphrased: What's the last day to turn in proof of payment?
 
 Q14 Paraphrased: Are you able to discard receipts once they’ve been submitted?
 
-Q15 Paraphrased: How do outside benefits impact the process of getting reimbursed for my travel costs?
+Q15 Paraphrased: Are digital waiver submissions permitted?
 
-Q16 Paraphrased: Are travel costs covered when the trip is primarily for something other than work?
+Q16 Paraphrased: How do outside benefits impact the process of getting reimbursed for my travel costs?
 
-Q17 Paraphrased: If I choose not to seek payment from a different entity, does that affect my eligibility for reimbursement under these rules, or would that other entity be considered my primary coverage?
+Q17 Paraphrased: Are travel costs covered when the trip is primarily for something other than work?
 
-Q18 Paraphrased: Am I allowed to decline a portion of my travel expense reimbursement?
+Q18 Paraphrased: If I choose not to seek payment from a different entity, does that affect my eligibility for reimbursement under these rules, or would that other entity be considered my primary coverage?
 
-Q19 Paraphrased: Are expenses for typical public transportation reimbursable?
+Q19 Paraphrased: Are you able to accept less than the full amount for your travel costs?
 
-Q20 Paraphrased: Could you please explain the situations that allow for approval of travel expenses beyond standard class?
+Q20 Paraphrased: Are expenses for typical public transportation reimbursable?
 
-Q21 Paraphrased: Are rental car or taxi expenses covered?
+Q21 Paraphrased: Could you please explain the situations that allow for approval of travel expenses beyond standard class?
 
-Q22 Paraphrased: Could you please clarify the extra cost added to mileage reimbursement when driving on challenging roads?
+Q22 Paraphrased: Are rental car or taxi expenses covered?
 
-Q23 Paraphrased: What is the daily allowance amount, in euros, for official travel covering a complete 24-hour period?
+Q23 Paraphrased: Could you please clarify the extra cost added to mileage reimbursement when driving on challenging roads?
 
-Q24 Paraphrased: What is the daily expense rate for business travel that doesn't span a complete 24-hour period?
+Q24 Paraphrased: What is the daily allowance amount, in euros, for official travel covering a complete 24-hour period?
 
-Q25 Paraphrased: What factors decide how long the business travel will last?
+Q25 Paraphrased: What is the daily expense rate for business travel that doesn't span a complete 24-hour period?
 
-Q26 Paraphrased: Are employees reimbursed for expenses incurred while completing work-related tasks away from their usual work location?
+Q26 Paraphrased: What factors decide how long the business travel will last?
 
-Q27 Paraphrased: When is per diem authorized for official travel?
-Q27 Paraphrased: What determines eligibility for per diem reimbursement on work-related trips?
-Q27 Paraphrased: What are the rules regarding per diem and official business?
+Q27 Paraphrased: Are employees reimbursed for expenses incurred while completing work-related tasks away from their usual work location?
 
-Q28 Paraphrased: How is my daily allowance reduced when meals are provided for free?
+Q28 Paraphrased: When is per diem authorized for official travel?
+Q28 Paraphrased: What determines eligibility for per diem reimbursement on work-related trips?
+Q28 Paraphrased: What are the rules regarding per diem and official business?
 
-Q29 Paraphrased: How much money is provided to cover the cost of required overnight accommodations?
+Q29 Paraphrased: How is my daily allowance reduced when meals are provided for free?
 
-Q30 Paraphrased: Could you clarify the implications of a business trip exceeding a week in duration?
+Q30 Paraphrased: How much money is provided to cover the cost of required overnight accommodations?
 
-Q31 Paraphrased: Under what circumstances during work travel would I get one payment to cover all costs, rather than being reimbursed individually for things like food and lodging?
+Q31 Paraphrased: Could you clarify the implications of a business trip exceeding a week in duration?
 
-Q32 Paraphrased: Under what circumstances is a single payment used to cover travel costs, rather than standard expense reporting?
+Q32 Paraphrased: Under what circumstances during work travel would I get one payment to cover all costs, rather than being reimbursed individually for things like food and lodging?
 
-Q33 Paraphrased: Could you please define what falls under the category of incidental expenses?
+Q33 Paraphrased: Under what circumstances is a single payment used to cover travel costs, rather than standard expense reporting?
 
-Q34 Paraphrased: Will I be able to get my money back for expenses already incurred if my travel plans are called off?
+Q34 Paraphrased: Could you please define what falls under the category of incidental expenses?
 
-Q35 Paraphrased: How long does the daily allowance continue to be paid when someone is transferred, moved on secondment, or their secondment ends?
+Q35 Paraphrased: Will I be able to get my money back for expenses already incurred if my travel plans are called off?
 
-Q36 Paraphrased: What is the amount of daily expense reimbursement given when beginning a work assignment in a new location?
+Q36 Paraphrased: How long does the daily allowance continue to be paid when someone is transferred, moved on secondment, or their secondment ends?
 
-Q37 Paraphrased: If a business trip is combined with personal travel, will expenses be reimbursed for the entire trip?
+Q37 Paraphrased: On the arrival date at a new workplace, for what length of time is the per diem allowance applicable?
 
-Q38 Paraphrased: How are travel costs handled when a business trip starts or ends at the same place as a personal vacation?
+Q38 Paraphrased: If a business trip is combined with personal travel, will expenses be reimbursed for the entire trip?
 
-Q39 Paraphrased: Would travel expenses for the return trip be reimbursed if a trip is cut short due to work-related issues?
+Q39 Paraphrased: How are travel costs handled when a business trip starts or ends at the same place as a personal vacation?
 
-Q40 Paraphrased: When a trip is cut short, does coverage extend to the costs of those traveling with me, or just my own?
+Q40 Paraphrased: Would travel expenses for the return trip be reimbursed if a trip is cut short due to work-related issues?
 
-Q41 Paraphrased: Who is financially responsible for hospital bills incurred while traveling for work?
-Q41 Paraphrased: What happens with medical costs if I require hospitalization on a business trip?
-Q41 Paraphrased: Will my company/travel insurance cover hospitalization expenses during work travel?
-:
-Q42 Paraphrased: Is travel between an employee's home and their usual work location eligible for expense coverage?
+Q41 Paraphrased: When a trip is cut short, does coverage extend to the costs of those traveling with me, or just my own?
 
-Q43 Paraphrased: Could you please define what qualifies as official international travel?
+Q42 Paraphrased: Who is financially responsible for hospital bills incurred while traveling for work?
+Q42 Paraphrased: What happens with medical costs if I require hospitalization on a business trip?
+Q42 Paraphrased: Will my company/travel insurance cover hospitalization expenses during work travel?
 
-Q44 Paraphrased: Could you clarify which nation will have per diem and lodging expenses covered for official international travel?
+Q43 Paraphrased: Is travel between an employee's home and their usual work location eligible for expense coverage?
 
-Q45 Paraphrased: If my international work trip ends with a late-night arrival back home, do I still qualify for the full per diem of the foreign country for that final day?
+Q44 Paraphrased: Could you please define what qualifies as official international travel?
 
-Q46 Paraphrased: When does arrival in a country officially occur for those traveling by plane?
+Q45 Paraphrased: Could you clarify which nation will have per diem and lodging expenses covered for official international travel?
 
-Q47 Paraphrased: Could you clarify the circumstances that would qualify an airplane layover for expense coverage under the travel reimbursement act?
+Q46 Paraphrased: Do I still receive the daily allowance for the country I was working in, even if my return flight lands very late on your last day there?
 
-Q48 Paraphrased: If someone remains at the same business location overseas for an extended period, is the daily allowance adjusted?
+Q47 Paraphrased: When does arrival in a country officially occur for those traveling by plane?
 
-Q49 Paraphrased: When traveling for an extended period, on what date does the daily allowance decrease?
+Q48 Paraphrased: Could you clarify the circumstances that would qualify an airplane layover for expense coverage under the travel reimbursement act?
 
-Q50 Paraphrased: What are the eligibility requirements for a separation allowance?
-Q50 Paraphrased: To whom is a separation allowance provided?
-Q50 Paraphrased: Who qualifies for a separation allowance?
+Q49 Paraphrased: If someone remains at the same business location overseas for an extended period, is the daily allowance adjusted?
 
-Q51 Paraphrased: Are individuals on probationary status within a preparatory service eligible for a separation allowance?
+Q50 Paraphrased: When traveling for an extended period, on what date does the daily allowance decrease?
 
-Q52 Paraphrased: When does the new travel expense act go into effect?
-Q52 Paraphrased: What is the effective date of this new travel expense act?
-Q52 Paraphrased: When will the new travel expense act be implemented?
+Q51 Paraphrased: What are the eligibility requirements for a separation allowance?
+Q51 Paraphrased: To whom is a separation allowance provided?
+Q51 Paraphrased: Who qualifies for a separation allowance?
 
-Q53 Paraphrased: Could you explain the reasons for the increased expenses outlined in the updated travel policy?
+Q52 Paraphrased: Are individuals on probationary status within a preparatory service eligible for a separation allowance?
 
-Q54 Paraphrased: Could you explain the justification behind changes such as limiting first-class train use and modifying daily allowance amounts?
+Q53 Paraphrased: When does the new travel expense act go into effect?
+Q53 Paraphrased: What is the effective date of this new travel expense act?
+Q53 Paraphrased: When will the new travel expense act be implemented?
 
-Q55 Paraphrased: Could you explain the potential changes to personal vehicle mileage reimbursement rates?
+Q54 Paraphrased: Could you explain the reasons for the increased expenses outlined in the updated travel policy?
 
-Q56 Paraphrased: What will the number of future mileage rates be?
+Q55 Paraphrased: Could you explain the justification behind changes such as limiting first-class train use and modifying daily allowance amounts?
 
-Q57 Paraphrased: Could you clarify what mileage rate was authorized for official use of a personally owned vehicle that received approval prior to January 1, 2018?
+Q56 Paraphrased: Could you tell me about the previous number of different standard mileage rates?
 
-Q58 Paraphrased: What is the mileage reimbursement rate for someone unable to walk due to a leg disability?
+Q57 Paraphrased: What will the number of future mileage rates be?
 
-Q59 Paraphrased: Are travelers sharing a ride still subject to a charge of 2 cents per kilometer under this updated rule?
+Q58 Paraphrased: Could you clarify what mileage rate was authorized for official use of a personally owned vehicle that received approval prior to January 1, 2018?
 
-Q60 Paraphrased: Are bicycle trips eligible for the same mileage reimbursement rate as other work travel?
+Q59 Paraphrased: What is the mileage reimbursement rate for someone unable to walk due to a leg disability?
 
-Q61 Paraphrased: Does my personal vehicle still need to go through a formal approval process for me to use it for work trips?
+Q60 Paraphrased: Are travelers sharing a ride still subject to a charge of 2 cents per kilometer under this updated rule?
 
-Q62 Paraphrased: Are there changes to the requirements for vehicle ownership and mileage reimbursement for work-related travel?
+Q61 Paraphrased: Are bicycle trips eligible for the same mileage reimbursement rate as other work travel?
 
-Q63 Paraphrased: What's the shortest an official work trip can be to qualify for daily expense reimbursement?
-Q63 Paraphrased: How long does a trip need to be now to get per diem?
-Q63 Paraphrased: What is the updated trip duration requirement for per diem eligibility?
+Q62 Paraphrased: Are there established procedures for authorizing the use of personally owned vehicles for work-related trips?
 
-Q64 Paraphrased: Could you explain the justification behind lengthening the required time for official travel before per diem can be claimed?
+Q63 Paraphrased: Are there changes to the requirements for vehicle ownership and mileage reimbursement for work-related travel?
 
-Q65 Paraphrased: Why are tax-related amounts not typically expected to happen frequently?
+Q64 Paraphrased: What's the shortest an official work trip can be to qualify for daily expense reimbursement?
+Q64 Paraphrased: How long does a trip need to be now to get per diem?
+Q64 Paraphrased: What is the updated trip duration requirement for per diem eligibility?
 
-Q66 Paraphrased: Are meals in the morning covered by the price of the room?
+Q65 Paraphrased: Could you explain the justification behind lengthening the required time for official travel before per diem can be claimed?
 
-Q67 Paraphrased: Does the daily allowance include money for breakfast?
-Q67 Paraphrased: Is breakfast covered by the per diem rate?
-Q67 Paraphrased: Will the per diem payments include a breakfast expense?
+Q66 Paraphrased: Why are tax-related amounts not typically expected to happen frequently?
 
-Q68 Paraphrased: Does the updated policy necessitate a new application to maintain separation allowance payments beyond the initial period?
+Q67 Paraphrased: Are meals in the morning covered by the price of the room?
+
+Q68 Paraphrased: Does the daily allowance include money for breakfast?
+Q68 Paraphrased: Is breakfast covered by the per diem rate?
+Q68 Paraphrased: Will the per diem payments include a breakfast expense?
+
+Q69 Paraphrased: Does the updated policy necessitate a new application to maintain separation allowance payments beyond the initial period?
 

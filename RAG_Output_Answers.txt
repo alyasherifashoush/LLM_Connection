@@ -1,27 +1,31 @@
 Question 1 (Original Chunk ID: chunk_8)
-Top-k Chunks Used: ['chunk_8', 'chunk_9', 'chunk_10', 'chunk_43', 'chunk_64', 'chunk_47', 'chunk_25', 'chunk_12', 'chunk_37', 'chunk_54']
 Question: What is an official trip?
+Top-k Chunks Used: ['chunk_8', 'chunk_9', 'chunk_10', 'chunk_43', 'chunk_64', 'chunk_47', 'chunk_25', 'chunk_12', 'chunk_37', 'chunk_54']
 Answer: According to the State Travel Expense Act (LRKG), an official trip is a journey undertaken to conduct official business outside the usual place of work, which has been ordered or approved by the responsible superior, unless an order or approval is not applicable due to the nature of the official’s office or the nature of the official business. The order or approval must be given in writing or electronically. 
 
-Official trips also include journeys from a location serving as a temporary residence to the place of work, provided that certain conditions are met (specifically, the conditions of unspecified sentences 1 and 2).
+Official trips also include journeys from a location serving as a temporary residence to the place of work, provided that certain conditions are met (specifically, the conditions of unspecified sentences are met).
 
-Furthermore, for a judge carrying out judicial duties, the state commissioner for data protection performing their duties, or the government commissioner for the concerns of people with disabilities performing their duties, no order or approval is required for their official trips.
+Additionally, for a judge carrying out judicial duties, the state commissioner for data protection performing their duties, or the government commissioner for the concerns of people with disabilities performing their duties, no order or approval is required for their official trips.
 
 Finally, trips between the domestic territory and foreign countries, or within foreign countries with at least one business location abroad, are considered official trips abroad.
 
 Question 2 (Original Chunk ID: chunk_8)
-Top-k Chunks Used: ['chunk_8', 'chunk_9', 'chunk_10', 'chunk_64', 'chunk_43', 'chunk_61', 'chunk_47', 'chunk_12', 'chunk_2', 'chunk_6']
 Question: Could you please define what constitutes an “official trip”?
+Top-k Chunks Used: ['chunk_8', 'chunk_9', 'chunk_10', 'chunk_64', 'chunk_43', 'chunk_61', 'chunk_47', 'chunk_12', 'chunk_2', 'chunk_6']
 Answer: According to the State Travel Expense Act (LRKG), an “official trip” is:
 
-*   **Journeys undertaken to conduct official business outside the usual place of work**, which have been ordered or approved by the responsible superior, unless an order or approval is not applicable due to the nature of the official’s office or the nature of the official business. This order or approval must be given in writing or electronically.
-*   **Journeys from a location serving as a temporary residence to the place of work**, provided the conditions mentioned above are otherwise met.
-*   Specifically, **no order or approval is required for official trips by a judge** to carry out judicial duties or participate in meetings, **the state commissioner for data protection** performing their duties, or **the government commissioner for the concerns of people with disabilities** performing their duties. 
-*   Finally, an “official trip abroad” is defined as **trips between the domestic territory and foreign countries, or within foreign countries, with at least one business location located abroad.**
+*   Journeys undertaken to conduct official business outside the usual place of work, which have been ordered or approved by the responsible superior, unless an order or approval is not applicable due to the nature of the official’s office or the nature of the official business. The order or approval must be given in writing or electronically.
+*   Journeys from a location serving as a temporary residence to the place of work, provided that certain conditions are met (specifically, the conditions of unspecified sentences 1 and 2).
+*   For judges, trips to carry out judicial duties or participate in meetings of relevant court bodies require no order or approval. This also applies to the state commissioner for data protection and the government commissioner for the concerns of people with disabilities when performing their duties.
+*   Trips between the domestic territory and foreign countries, or within foreign countries, where at least one business location is abroad (defined as an “official trip abroad”).
+
+
+
+It’s also important to note that official trips should only be carried out if a less costly method of conducting the business is not possible or reasonable.
 
 Question 3 (Original Chunk ID: chunk_8)
-Top-k Chunks Used: ['chunk_8', 'chunk_10', 'chunk_9', 'chunk_3', 'chunk_5', 'chunk_54', 'chunk_64', 'chunk_61', 'chunk_1', 'chunk_52']
 Question: Does the approval for official travel have to be submitted as a physical document?
+Top-k Chunks Used: ['chunk_8', 'chunk_10', 'chunk_9', 'chunk_3', 'chunk_5', 'chunk_54', 'chunk_64', 'chunk_61', 'chunk_1', 'chunk_52']
 Answer: No, the approval for official travel does *not* have to be submitted as a physical document. 
 
 According to the State Travel Expense Act (LRKG) § , the order or approval “must be given in writing **or electronically**.” 
@@ -29,82 +33,82 @@ According to the State Travel Expense Act (LRKG) § , the order or approval “m
 This explicitly states electronic approval is sufficient.
 
 Question 4 (Original Chunk ID: chunk_8)
-Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_16', 'chunk_5', 'chunk_3', 'chunk_17', 'chunk_9', 'chunk_52', 'chunk_11', 'chunk_15']
 Question: Is a hard copy required for travel authorization?
+Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_16', 'chunk_5', 'chunk_3', 'chunk_17', 'chunk_9', 'chunk_52', 'chunk_11', 'chunk_15']
 Answer: According to the State Travel Expense Act (LRKG) § Official Trips and Errands, the order or approval for official trips “must be given in writing or electronically.” 
 
 Therefore, a hard copy is **not** strictly *required*, as electronic approval is sufficient. However, written approval is also acceptable, meaning a hard copy *could* be used.
 
 Question 5 (Original Chunk ID: Chunk_8)
-Top-k Chunks Used: ['chunk_34', 'chunk_8', 'chunk_18', 'chunk_36', 'chunk_48', 'chunk_2', 'chunk_55', 'chunk_16', 'chunk_39', 'chunk_3']
 Question: If there is a less expensive method for me to do my job, my official trip can get cancelled?
+Top-k Chunks Used: ['chunk_34', 'chunk_8', 'chunk_18', 'chunk_36', 'chunk_48', 'chunk_2', 'chunk_55', 'chunk_16', 'chunk_39', 'chunk_3']
 Answer: Yes, according to the State Travel Expense Act (LRKG) § Official Trips and Errands, official trips “should only be carried out if a less costly method of conducting the official business is not possible or reasonable.” This implies a trip could be cancelled if a less expensive alternative exists.
 
 Question 6 (Original Chunk ID: Chunk_8)
-Top-k Chunks Used: ['chunk_8', 'chunk_34', 'chunk_14', 'chunk_3', 'chunk_36', 'chunk_16', 'chunk_2', 'chunk_18', 'chunk_55', 'chunk_1']
 Question: Could an approved work trip be rescinded if a cheaper way to complete the necessary tasks becomes available?
-Answer: Yes, an approved work trip could be rescinded if a cheaper way to complete the necessary tasks becomes available.
+Top-k Chunks Used: ['chunk_8', 'chunk_34', 'chunk_14', 'chunk_3', 'chunk_36', 'chunk_16', 'chunk_2', 'chunk_18', 'chunk_55', 'chunk_1']
+Answer: Yes, an approved work trip could be rescinded if a cheaper way to complete the necessary tasks becomes available. 
 
-According to State Travel Expense Act (LRKG) § Official Trips and Errands, official trips “should only be carried out if a less costly method of conducting the official business is not possible or reasonable.” 
+According to **State Travel Expense Act (LRKG) § Official Trips and Errands ()**, official trips “should only be carried out if a less costly method of conducting the official business is not possible or reasonable.” 
 
-This implies that if a less costly method *does* become possible or reasonable after a trip has been approved, the trip could be reconsidered or rescinded.
+This implies that if a cheaper method *does* become possible or reasonable after a trip has been approved, the trip could be reconsidered or rescinded.
 
 Question 7 (Original Chunk ID: Chunk_9)
-Top-k Chunks Used: ['chunk_9', 'chunk_8', 'chunk_10', 'chunk_26', 'chunk_80', 'chunk_12', 'chunk_32', 'chunk_55', 'chunk_6', 'chunk_35']
 Question: What is an official errand?
+Top-k Chunks Used: ['chunk_9', 'chunk_8', 'chunk_10', 'chunk_26', 'chunk_80', 'chunk_12', 'chunk_32', 'chunk_55', 'chunk_6', 'chunk_35']
 Answer: According to the State Travel Expense Act (LRKG), official errands are journeys undertaken to conduct official business at the place of work or residence outside the official premises, which have been ordered or approved by the responsible superior, unless an order or approval is not applicable due to the nature of the official’s office or the nature of the official business. The place of residence is deemed equivalent to a temporary residence.
 
 Question 8 (Original Chunk ID: Chunk_9)
-Top-k Chunks Used: ['chunk_50', 'chunk_8', 'chunk_9', 'chunk_10', 'chunk_84', 'chunk_61', 'chunk_56', 'chunk_16', 'chunk_6', 'chunk_36']
 Question: Could you explain what constitutes a legitimate, authorized task or duty?
+Top-k Chunks Used: ['chunk_50', 'chunk_8', 'chunk_9', 'chunk_10', 'chunk_84', 'chunk_61', 'chunk_56', 'chunk_16', 'chunk_6', 'chunk_36']
 Answer: Based on the provided text, a legitimate, authorized task or duty is one that falls into several categories:
 
 1. **Ordered or Approved Official Business:** Tasks or journeys specifically “ordered or approved by the responsible superior” (LRKG §2). This applies to both “official trips” (outside the usual place of work) and “official errands” (at the place of work or residence outside official premises). However, this requirement is waived for certain officials like judges and data protection commissioners when performing specific duties (LRKG §3).
-2. **Judicial Duties/Specific Roles:** Duties related to a judge’s role in carrying out judicial duties or participating in court meetings are considered legitimate without needing prior order or approval (LRKG §3). Similarly, duties of the state commissioner for data protection and the government commissioner for the concerns of people with disabilities fall into this category.
-3. **Training/Education:** Trips undertaken “for the purpose of education or training” are covered under the Act (LRKG §1), and expenses can be reimbursed, potentially with a reduction for officials on probation (LRKG §1).
-4. **Secondary Activity at Request of Authority:** Official trips undertaken for a secondary activity *at the request, suggestion, or instigation of the competent authority* are also legitimate, though reimbursement is contingent on other bodies not already covering the costs (LRKG §5).
+2. **Judicial Duties/Specific Legal Roles:** Duties directly related to a judge’s role (carrying out judicial duties, attending court meetings) or the state commissioner for data protection/government commissioner for the concerns of people with disabilities performing their duties under relevant acts (LRKG §3).
+3. **Training/Education (with stipulations):** Trips undertaken “for the purpose of education or training” are covered, especially those “necessary for obtaining the qualifications for a career” (LRKG §1). Reimbursement for these trips can be reduced, but the highest competent authority can waive that reduction for “special official reasons”. Partial official interest in training can also lead to reimbursement with consent.
+4. **Secondary Activity (at request of authority):** Official trips undertaken for a secondary activity *at the request, suggestion, or instigation of the competent authority* are eligible for reimbursement, provided no other body is already covering the costs (LRKG §5).
 
 
 
-Essentially, if a superior *orders or approves* the task, or if it falls within the specifically defined duties of certain roles (like judges), or is related to official training, it's considered a legitimate, authorized task or duty under this Act. The Explanatory Memorandum for §2 also emphasizes the need to consider if a less costly method exists before authorizing a trip, indicating a duty to be economically mindful.
+Essentially, a task is legitimate if it’s connected to an official’s job, explicitly authorized, or related to required training/education, and falls within the scope of the Act as it applies to state officials, judges, and related personnel (LRKG §6). The Explanatory Memorandum regarding §2 also emphasizes the need to consider if a less costly method of achieving the business objective exists before authorizing a trip, reinforcing responsible use of public funds.
 
 Question 9 (Original Chunk ID: Chunk_10)
-Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_9', 'chunk_38', 'chunk_12', 'chunk_61', 'chunk_16', 'chunk_3', 'chunk_39', 'chunk_5']
 Question: As a judge, do I need an order or approval for my official trip?
+Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_9', 'chunk_38', 'chunk_12', 'chunk_61', 'chunk_16', 'chunk_3', 'chunk_39', 'chunk_5']
 Answer: According to the State Travel Expense Act (LRKG) § Official Trips and Errands, no order or approval is required for official trips by a judge to carry out judicial duties or to participate in a meeting of the presidium or another comparable constitutional body of the court to which they belong.
 
 Question 10 (Original Chunk ID: Chunk_10)
-Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_50', 'chunk_64', 'chunk_9', 'chunk_49', 'chunk_6', 'chunk_16', 'chunk_47', 'chunk_1']
 Question: Are judges required to obtain permission before traveling for official duties?
+Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_50', 'chunk_64', 'chunk_9', 'chunk_49', 'chunk_6', 'chunk_16', 'chunk_47', 'chunk_1']
 Answer: According to § Official Trips and Errands of the State Travel Expense Act (LRKG), no order or approval is required for official trips by a judge to carry out judicial duties or to participate in a meeting of the presidium or another comparable constitutional body of the court to which they belong. 
 
 Therefore, judges are **not** required to obtain permission for these specific official duties.
 
 Question 11 (Original Chunk ID: Chunk_10)
-Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_64', 'chunk_3', 'chunk_9', 'chunk_5', 'chunk_54', 'chunk_38', 'chunk_6', 'chunk_12']
 Question: As a state commissioner, do I need an order or approval for my official trip?
+Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_64', 'chunk_3', 'chunk_9', 'chunk_5', 'chunk_54', 'chunk_38', 'chunk_6', 'chunk_12']
 Answer: According to the State Travel Expense Act (LRKG) § Official Trips and Errands, no order or approval is required for official trips by the state commissioner for data protection to perform his or her duties under the State Data Protection Act.
 
 Question 12 (Original Chunk ID: Chunk_10)
-Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_5', 'chunk_3', 'chunk_64', 'chunk_9', 'chunk_6', 'chunk_54', 'chunk_52', 'chunk_2']
 Question: Are there required authorizations for official travel when serving as a state commissioner?
+Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_5', 'chunk_3', 'chunk_64', 'chunk_9', 'chunk_6', 'chunk_54', 'chunk_52', 'chunk_2']
 Answer: According to the context provided, no order or approval is required for official trips by the state commissioner for data protection **to perform his or her duties under the State Data Protection Act.** (§ Official Trips and Errands)
 
 Question 13 (Original Chunk ID: Chunk_10)
-Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_64', 'chunk_9', 'chunk_61', 'chunk_3', 'chunk_54', 'chunk_18', 'chunk_5', 'chunk_52']
 Question: As a government commissioner, do I need an order or approval for my official trip?
+Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_64', 'chunk_9', 'chunk_61', 'chunk_3', 'chunk_54', 'chunk_18', 'chunk_5', 'chunk_52']
 Answer: According to the State Travel Expense Act (LRKG) § Official Trips and Errands, no order or approval is required for official trips by the government commissioner for the concerns of people with disabilities **to perform his or her duties under the State Equal Opportunities for People with Disabilities Act.**
 
 Question 14 (Original Chunk ID: Chunk_10)
-Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_64', 'chunk_49', 'chunk_71', 'chunk_52', 'chunk_9', 'chunk_6', 'chunk_16', 'chunk_3']
-Question: Are there required authorizations for government-related travel when you hold a commissioner position?
-Answer: According to the State Travel Expense Act (LRKG), no order or approval is required for official trips undertaken by the state commissioner for data protection to perform their duties under the State Data Protection Act, and by the government commissioner for the concerns of people with disabilities to perform their duties under the State Equal Opportunities for People with Disabilities Act (§ Official Trips and Errands).
+Question: Are there required authorizations for government-related travel when you hold a government commissioner position?
+Top-k Chunks Used: ['chunk_10', 'chunk_8', 'chunk_64', 'chunk_52', 'chunk_49', 'chunk_9', 'chunk_6', 'chunk_71', 'chunk_16', 'chunk_3']
+Answer: According to the State Travel Expense Act (LRKG) § Official Trips and Errands, no order or approval is required for official trips by the government commissioner for the concerns of people with disabilities *to perform his or her duties under the State Equal Opportunities for People with Disabilities Act*. 
 
-However, for other officials, official trips generally *do* require an order or approval from a responsible superior, unless the nature of the office or business makes that unnecessary (§ Official Trips and Errands).
+However, the general rule (LRKG § Official Trips and Errands) is that official trips require an order or approval from a responsible superior, *unless* it’s not applicable due to the nature of the official’s office or the nature of the official business. So, while some trips are automatically authorized due to the commissioner's role, others may still require approval.
 
 Question 15 (Original Chunk ID: Chunk_12)
-Top-k Chunks Used: ['chunk_12', 'chunk_25', 'chunk_8', 'chunk_38', 'chunk_64', 'chunk_13', 'chunk_35', 'chunk_46', 'chunk_30', 'chunk_39']
 Question: Am I free to choose the starting and end points of the trip?
+Top-k Chunks Used: ['chunk_12', 'chunk_25', 'chunk_8', 'chunk_38', 'chunk_64', 'chunk_13', 'chunk_35', 'chunk_46', 'chunk_30', 'chunk_39']
 Answer: According to State Travel Expense Act (LRKG) § Entitlement to Travel Expense Reimbursement, the starting and ending points of an official trip are **generally** determined by the traveler in accordance with the principle of cost-effectiveness. 
 
 However, there are exceptions:
@@ -113,8 +117,8 @@ However, there are exceptions:
 *   If the trip commences and/or concludes at the traveler’s residence, reimbursement is based on distance from/to the residence, *unless* the official premises have been designated as the starting/ending point.
 
 Question 16 (Original Chunk ID: Chunk_12)
-Top-k Chunks Used: ['chunk_12', 'chunk_8', 'chunk_47', 'chunk_30', 'chunk_38', 'chunk_9', 'chunk_39', 'chunk_43', 'chunk_64', 'chunk_25']
 Question: Are the trip's beginning and ending locations flexible?
+Top-k Chunks Used: ['chunk_12', 'chunk_8', 'chunk_47', 'chunk_30', 'chunk_38', 'chunk_9', 'chunk_39', 'chunk_43', 'chunk_64', 'chunk_25']
 Answer: Yes, the trip's beginning and ending locations are flexible, but with stipulations.
 
 According to §1, the starting and ending points of an official trip are generally determined by the traveler based on cost-effectiveness. However, a superior can designate the official premises as the starting and/or ending point if the route passes by them. Additionally, if the trip commences or concludes at the traveler’s residence, reimbursement is based on the distance from/to the residence *unless* the official premises have been designated as the starting/ending point. §5 further states that if ordered, the trip can commence or conclude at a vacation location, and reimbursement is calculated accordingly. 
@@ -122,15 +126,15 @@ According to §1, the starting and ending points of an official trip are general
 §9 clarifies that the duration of the trip (and therefore per diem allowance) is determined from departure/arrival at the residence *unless* it begins or ends at the official premises (or is ordered to do so).
 
 Question 17 (Original Chunk ID: Chunk_12)
-Top-k Chunks Used: ['chunk_12', 'chunk_40', 'chunk_37', 'chunk_7', 'chunk_35', 'chunk_42', 'chunk_38', 'chunk_39', 'chunk_4', 'chunk_36']
 Question: In case an official trip begins or ends at my residence rather than the official workplace, on what basis is travel cost reimbursement calculated?
+Top-k Chunks Used: ['chunk_12', 'chunk_40', 'chunk_37', 'chunk_7', 'chunk_35', 'chunk_42', 'chunk_38', 'chunk_39', 'chunk_4', 'chunk_36']
 Answer: According to State Travel Expense Act (LRKG) § , when an official trip is commenced and/or concluded at the traveler’s residence, the reimbursement of travel costs (§ ) or the mileage allowance (§ ) shall be based on the distance from or to the residence, **unless** the official premises have been designated as the starting and/or ending point. 
 
 Additionally, in the presence of several residences or accommodations, the one nearest to the official premises shall be decisive.
 
 Question 18 (Original Chunk ID: Chunk_12)
-Top-k Chunks Used: ['chunk_8', 'chunk_12', 'chunk_2', 'chunk_40', 'chunk_39', 'chunk_9', 'chunk_6', 'chunk_38', 'chunk_35', 'chunk_49']
 Question: How are travel expenses covered when official travel doesn't start and stop at the normal work location?
+Top-k Chunks Used: ['chunk_8', 'chunk_12', 'chunk_2', 'chunk_40', 'chunk_39', 'chunk_9', 'chunk_6', 'chunk_38', 'chunk_35', 'chunk_49']
 Answer: Here's how travel expenses are covered when official travel doesn't start and stop at the normal work location, based on the provided text:
 
 *   **Residence as Starting/Ending Point:** If an official trip commences and/or concludes at the traveler’s residence, reimbursement is based on the distance from or to that residence, *unless* the official superior designates the official premises as the starting/ending point. (§)
@@ -141,49 +145,49 @@ Answer: Here's how travel expenses are covered when official travel doesn't star
 *   **Separation Allowance:** If seconded to a location without moving expense reimbursement, a separation allowance covers necessary expenses, considering savings at home. (§)
 
 Question 19 (Original Chunk ID: Chunk_14)
-Top-k Chunks Used: ['chunk_14', 'chunk_16', 'chunk_40', 'chunk_39', 'chunk_38', 'chunk_36', 'chunk_1', 'chunk_17', 'chunk_12', 'chunk_34']
 Question: When is the deadline for the entitlement to travel expense reimbursement?
+Top-k Chunks Used: ['chunk_14', 'chunk_16', 'chunk_40', 'chunk_39', 'chunk_38', 'chunk_36', 'chunk_1', 'chunk_17', 'chunk_12', 'chunk_34']
 Answer: According to State Travel Expense Act (LRKG) § Entitlement to Travel Expense Reimbursement, the entitlement to travel expense reimbursement expires if it is not applied for in writing or electronically within a **limitation period of six months after the end of the official trip**. 
 
 The period begins the day after the end of the trip; in cases under § (), it ends on the day the trip would have ended.
 
 Question 20 (Original Chunk ID: Chunk_14)
-Top-k Chunks Used: ['chunk_14', 'chunk_38', 'chunk_39', 'chunk_40', 'chunk_35', 'chunk_30', 'chunk_1', 'chunk_53', 'chunk_37', 'chunk_34']
 Question: What is the last date to submit a request for travel expense reimbursement?
+Top-k Chunks Used: ['chunk_14', 'chunk_38', 'chunk_39', 'chunk_40', 'chunk_35', 'chunk_30', 'chunk_1', 'chunk_53', 'chunk_37', 'chunk_34']
 Answer: According to State Travel Expense Act (LRKG) § Entitlement to Travel Expense Reimbursement, the entitlement to travel expense reimbursement expires if it is not applied for in writing or electronically within a **limitation period of six months after the end of the official trip**. 
 
 The period begins the day after the end of the trip; in cases under § (), it ends on the day the trip would have ended.
 
 Question 21 (Original Chunk ID: Chunk_14)
-Top-k Chunks Used: ['chunk_14', 'chunk_38', 'chunk_30', 'chunk_35', 'chunk_39', 'chunk_12', 'chunk_40', 'chunk_36', 'chunk_53', 'chunk_7']
 Question: When does the six-month period deadline for applying to the travel expense reimbursement begin?
+Top-k Chunks Used: ['chunk_14', 'chunk_38', 'chunk_30', 'chunk_35', 'chunk_39', 'chunk_12', 'chunk_40', 'chunk_36', 'chunk_53', 'chunk_7']
 Answer: According to State Travel Expense Act (LRKG) § , the six-month period begins the day after the end of the trip. In cases under § (), it ends on the day the trip would have ended.
 
 Question 22 (Original Chunk ID: Chunk_14)
-Top-k Chunks Used: ['chunk_14', 'chunk_12', 'chunk_38', 'chunk_35', 'chunk_30', 'chunk_25', 'chunk_39', 'chunk_53', 'chunk_40', 'chunk_37']
 Question: How is the start date determined for the six-month window to submit travel expense reimbursements?
+Top-k Chunks Used: ['chunk_14', 'chunk_12', 'chunk_38', 'chunk_35', 'chunk_30', 'chunk_25', 'chunk_39', 'chunk_53', 'chunk_40', 'chunk_37']
 Answer: According to State Travel Expense Act (LRKG) § , the six-month window to apply for travel expense reimbursement begins “the day after the end of the trip.” In cases where the trip would have ended on a specific date due to other circumstances (as outlined in § ()), the period ends on that date.
 
 Question 23 (Original Chunk ID: Chunk_14)
-Top-k Chunks Used: ['chunk_14', 'chunk_40', 'chunk_38', 'chunk_16', 'chunk_7', 'chunk_33', 'chunk_37', 'chunk_39', 'chunk_36', 'chunk_34']
 Question: Is the submission of receipts required for the travel expense reimbursement application?
+Top-k Chunks Used: ['chunk_14', 'chunk_40', 'chunk_38', 'chunk_16', 'chunk_7', 'chunk_33', 'chunk_37', 'chunk_39', 'chunk_36', 'chunk_34']
 Answer: Yes, the submission of receipts may be required. According to § , the competent authorities may require the submission of relevant cost receipts up to six months after the application. If these receipts are not submitted within one month upon request, the reimbursement application may be rejected to that extent.
 
 Question 24 (Original Chunk ID: Chunk_14)
-Top-k Chunks Used: ['chunk_14', 'chunk_40', 'chunk_38', 'chunk_7', 'chunk_16', 'chunk_33', 'chunk_39', 'chunk_37', 'chunk_15', 'chunk_13']
 Question: Does the travel expense reimbursement application need receipts to be submitted with it?
+Top-k Chunks Used: ['chunk_14', 'chunk_40', 'chunk_38', 'chunk_7', 'chunk_16', 'chunk_33', 'chunk_39', 'chunk_37', 'chunk_15', 'chunk_13']
 Answer: According to State Travel Expense Act (LRKG) § Entitlement to Travel Expense Reimbursement, the competent authorities *may* require the submission of relevant cost receipts up to six months after the application. However, the application itself doesn’t necessarily *need* receipts submitted with it initially; they can be requested later. If receipts aren’t submitted within one month of a request, the reimbursement application *may* be rejected to that extent.
 
 Question 25 (Original Chunk ID: Chunk_14)
-Top-k Chunks Used: ['chunk_14', 'chunk_53', 'chunk_38', 'chunk_70', 'chunk_12', 'chunk_26', 'chunk_25', 'chunk_39', 'chunk_35', 'chunk_80']
 Question: When is the deadline for submitting payment receipts?
+Top-k Chunks Used: ['chunk_14', 'chunk_53', 'chunk_38', 'chunk_70', 'chunk_12', 'chunk_26', 'chunk_25', 'chunk_39', 'chunk_35', 'chunk_80']
 Answer: Here's the answer to your question, based solely on the provided text:
 
 The competent authorities may require the submission of relevant cost receipts **up to six months after the application** for travel expense reimbursement. If these receipts are not submitted within **one month upon request**, the reimbursement application may be rejected to that extent. Additionally, the official traveler is obliged to keep the cost receipts for **one year after the reimbursement** for purposes of audit and to present them upon request.
 
 Question 26 (Original Chunk ID: Chunk_14)
-Top-k Chunks Used: ['chunk_14', 'chunk_30', 'chunk_53', 'chunk_25', 'chunk_46', 'chunk_70', 'chunk_12', 'chunk_35', 'chunk_74', 'chunk_38']
 Question: What's the last day to turn in proof of payment?
+Top-k Chunks Used: ['chunk_14', 'chunk_30', 'chunk_53', 'chunk_25', 'chunk_46', 'chunk_70', 'chunk_12', 'chunk_35', 'chunk_74', 'chunk_38']
 Answer: Here's the answer, based solely on the provided text:
 
 The competent authorities may require the submission of relevant cost receipts **up to six months after the application**. If these receipts are not submitted within **one month upon request**, the reimbursement application may be rejected to that extent.
@@ -191,37 +195,51 @@ The competent authorities may require the submission of relevant cost receipts *
 Additionally, the official traveler is obliged to keep the cost receipts for **one year after the reimbursement** for purposes of audit.
 
 Question 27 (Original Chunk ID: Chunk_14)
-Top-k Chunks Used: ['chunk_14', 'chunk_16', 'chunk_34', 'chunk_26', 'chunk_27', 'chunk_33', 'chunk_39', 'chunk_55', 'chunk_40', 'chunk_17']
 Question: Can I throw away my receipts after submitting them?
+Top-k Chunks Used: ['chunk_14', 'chunk_16', 'chunk_34', 'chunk_26', 'chunk_27', 'chunk_33', 'chunk_39', 'chunk_55', 'chunk_40', 'chunk_17']
 Answer: No, you cannot throw away your receipts after submitting them. The text states: "The official traveler is obliged to keep the cost receipts for one year after the reimbursement for purposes of audit and to present them upon request."
 
 Question 28 (Original Chunk ID: Chunk_14)
-Top-k Chunks Used: ['chunk_14', 'chunk_34', 'chunk_16', 'chunk_17', 'chunk_49', 'chunk_73', 'chunk_26', 'chunk_55', 'chunk_27', 'chunk_38']
 Question: Are you able to discard receipts once they’ve been submitted?
+Top-k Chunks Used: ['chunk_14', 'chunk_34', 'chunk_16', 'chunk_17', 'chunk_49', 'chunk_73', 'chunk_26', 'chunk_55', 'chunk_27', 'chunk_38']
 Answer: According to State Travel Expense Act (LRKG) § , the official traveler is obliged to keep the cost receipts for **one year after the reimbursement** for purposes of audit and to present them upon request. 
 
 Therefore, you are not able to discard receipts immediately after submission; you must keep them for one year after reimbursement.
 
-Question 29 (Original Chunk ID: Chunk_15)
-Top-k Chunks Used: ['chunk_15', 'chunk_16', 'chunk_40', 'chunk_13', 'chunk_36', 'chunk_20', 'chunk_7', 'chunk_31', 'chunk_55', 'chunk_6']
+Question 29 (Original Chunk ID: Chunk_14)
+Question: Can I submit a waiver electronically?
+Top-k Chunks Used: ['chunk_17', 'chunk_14', 'chunk_10', 'chunk_16', 'chunk_53', 'chunk_52', 'chunk_3', 'chunk_8', 'chunk_45', 'chunk_74']
+Answer: Yes, you can submit a waiver electronically. 
+
+The text states: “The traveler may waive all or part of the travel expense reimbursement and reimbursement of expenses. Such a waiver must be declared **in writing or electronically**.”
+
+Question 30 (Original Chunk ID: Chunk_14)
+Question: Are digital waiver submissions permitted?
+Top-k Chunks Used: ['chunk_17', 'chunk_84', 'chunk_10', 'chunk_45', 'chunk_14', 'chunk_16', 'chunk_74', 'chunk_81', 'chunk_3', 'chunk_78']
+Answer: Yes, digital waiver submissions are permitted. 
+
+The text states in multiple sections regarding entitlement to travel expense reimbursement: "Such a waiver must be declared in **writing or electronically**."
+
+Question 31 (Original Chunk ID: Chunk_15)
 Question: I have benefits from third parties, how does this affect my travel expense reimbursement?
+Top-k Chunks Used: ['chunk_15', 'chunk_16', 'chunk_40', 'chunk_13', 'chunk_36', 'chunk_20', 'chunk_7', 'chunk_31', 'chunk_55', 'chunk_6']
 Answer: According to State Travel Expense Act (LRKG) § , benefits that official travelers receive in the exercise of their office from third parties on the occasion of an official trip **shall be credited against the travel expense reimbursement.**
 
-Question 30 (Original Chunk ID: Chunk_15)
-Top-k Chunks Used: ['chunk_57', 'chunk_13', 'chunk_40', 'chunk_36', 'chunk_7', 'chunk_19', 'chunk_15', 'chunk_18', 'chunk_37', 'chunk_20']
+Question 32 (Original Chunk ID: Chunk_15)
 Question: How do outside benefits impact the process of getting reimbursed for my travel costs?
+Top-k Chunks Used: ['chunk_57', 'chunk_13', 'chunk_40', 'chunk_36', 'chunk_7', 'chunk_19', 'chunk_15', 'chunk_18', 'chunk_37', 'chunk_20']
 Answer: According to State Travel Expense Act (LRKG) § , “Benefits that official travelers receive in the exercise of their office from third parties on the occasion of an official trip shall be credited against the travel expense reimbursement.”
 
 This means any benefits you receive from outside sources during your official trip will reduce the amount you are reimbursed for your travel expenses.
 
-Question 31 (Original Chunk ID: Chunk_16)
-Top-k Chunks Used: ['chunk_16', 'chunk_40', 'chunk_37', 'chunk_34', 'chunk_36', 'chunk_7', 'chunk_39', 'chunk_14', 'chunk_13', 'chunk_38']
+Question 33 (Original Chunk ID: Chunk_16)
 Question: In case of a trip done for a secondary activity, am I still entitled to travel expense reimbursement?
-Answer: According to State Travel Expense Act (LRKG) § Entitlement to Travel Expense Reimbursement, travelers are only entitled to reimbursement for trips undertaken for a secondary activity **to the extent that no other body provides reimbursement for the same trip**. This applies even if the traveler has waived their claim against that other body.
+Top-k Chunks Used: ['chunk_16', 'chunk_40', 'chunk_37', 'chunk_34', 'chunk_36', 'chunk_7', 'chunk_39', 'chunk_14', 'chunk_13', 'chunk_38']
+Answer: According to State Travel Expense Act (LRKG) § Entitlement to Travel Expense Reimbursement, travelers are only entitled to reimbursement for trips undertaken for a secondary activity **to the extent that no other body provides reimbursement for the same trip.** This applies even if the traveler has waived their claim against that other body.
 
-Question 32 (Original Chunk ID: Chunk_16)
-Top-k Chunks Used: ['chunk_2', 'chunk_8', 'chunk_13', 'chunk_7', 'chunk_5', 'chunk_18', 'chunk_40', 'chunk_57', 'chunk_20', 'chunk_37']
+Question 34 (Original Chunk ID: Chunk_16)
 Question: Are travel costs covered when the trip is primarily for something other than work?
+Top-k Chunks Used: ['chunk_2', 'chunk_8', 'chunk_13', 'chunk_7', 'chunk_5', 'chunk_18', 'chunk_40', 'chunk_57', 'chunk_20', 'chunk_37']
 Answer: Based on the provided text, travel costs *are* covered, to an extent, when the trip is combined with a private trip (like a vacation). Specifically:
 
 * **§ 12 (Determination of the Travel Expense Reimbursement in Special Cases)** states that if an official trip is combined with a vacation or other private trip, the reimbursement is calculated "as if only the official trip were undertaken." 
@@ -230,54 +248,47 @@ Answer: Based on the provided text, travel costs *are* covered, to an extent, wh
 
 However, the act prioritizes official business. **§ 1 (Official Trips)** states official trips should only be undertaken if a less costly method of conducting the business is not possible or reasonable.
 
-Question 33 (Original Chunk ID: Chunk_16)
-Top-k Chunks Used: ['chunk_16', 'chunk_17', 'chunk_81', 'chunk_6', 'chunk_76', 'chunk_14', 'chunk_34', 'chunk_36', 'chunk_39', 'chunk_7']
+Question 35 (Original Chunk ID: Chunk_16)
 Question: If I waive my right to reimbursement from another organization, can I still receive reimbursement under this regulation, or am I considered to be covered by the other organization?
+Top-k Chunks Used: ['chunk_16', 'chunk_17', 'chunk_81', 'chunk_6', 'chunk_76', 'chunk_14', 'chunk_34', 'chunk_36', 'chunk_39', 'chunk_7']
 Answer: According to State Travel Expense Act (LRKG) § Entitlement to Travel Expense Reimbursement, travelers are entitled to reimbursement under this Act *to the extent that no other body provides reimbursement for the same trip*. Critically, this applies **even if the traveler has waived his or her claim against that body.**
 
-Therefore, waiving your right to reimbursement from another organization does **not** automatically disqualify you from receiving reimbursement under this regulation. You are still eligible for reimbursement under the LRKG to the extent the other body *would have* provided it, despite your waiver. However, if the other body *does* provide reimbursement, even if you waive your claim, you won’t receive it under the LRKG.
+Therefore, waiving your right to reimbursement from another organization does **not** automatically disqualify you from receiving reimbursement under this regulation. You are still eligible for reimbursement under the LRKG to the extent the other body *would have* provided it, despite your waiver. However, if the other body *does* provide reimbursement, even if you waive your claim, you won’t receive it under this Act.
 
-Question 34 (Original Chunk ID: Chunk_16)
-Top-k Chunks Used: ['chunk_50', 'chunk_81', 'chunk_44', 'chunk_66', 'chunk_59', 'chunk_45', 'chunk_58', 'chunk_60', 'chunk_80', 'chunk_85']
-Question: Here's a paraphrase of your question
-Answer: Please provide the question. I need the question to be able to answer it using only the provided context. 
-
-I am ready when you are! Just paste the question here.
-
-Question 35 (Original Chunk ID: Chunk_16)
-Top-k Chunks Used: ['chunk_16', 'chunk_60', 'chunk_55', 'chunk_18', 'chunk_13', 'chunk_12', 'chunk_19', 'chunk_40', 'chunk_34', 'chunk_36']
+Question 36 (Original Chunk ID: Chunk_16)
 Question: If I choose not to seek payment from a different entity, does that affect my eligibility for reimbursement under these rules, or would that other entity be considered my primary coverage?
-Answer: According to § (Entitlement to Travel Expense Reimbursement), travelers are entitled to reimbursement under this Act *to the extent that no other body provides reimbursement for the same trip*. Critically, this applies **even if the traveler has waived his or her claim against that body.**
+Top-k Chunks Used: ['chunk_16', 'chunk_60', 'chunk_55', 'chunk_18', 'chunk_13', 'chunk_12', 'chunk_19', 'chunk_40', 'chunk_34', 'chunk_36']
+Answer: According to **State Travel Expense Act (LRKG) § Entitlement to Travel Expense Reimbursement**, travelers are entitled to reimbursement under this Act *only to the extent that no other body provides reimbursement for the same trip*. Crucially, this applies **even if the traveler has waived his or her claim against that body.**
 
-Therefore, whether you *choose* not to seek payment from another entity is irrelevant. The existence of another potential source of reimbursement – and whether it *would* provide it – is what matters. That other entity is considered your primary coverage, and your reimbursement under the LRKG is limited accordingly.
-
-Question 36 (Original Chunk ID: Chunk_17)
-Top-k Chunks Used: ['chunk_16', 'chunk_17', 'chunk_14', 'chunk_40', 'chunk_34', 'chunk_7', 'chunk_36', 'chunk_37', 'chunk_18', 'chunk_19']
-Question: Can I partially waive my travel expense reimbursement?
-Answer: Yes, you can partially waive your travel expense reimbursement. 
-
-The text states under State Travel Expense Act (LRKG) § Entitlement to Travel Expense Reimbursement: "The traveler may waive all or *part* of the travel expense reimbursement and reimbursement of expenses." and again, "Reimbursement of travel expenses and expenses incurred may be waived in *whole or in part*."
+Therefore, whether you *choose* not to seek payment from another entity is irrelevant. The existence of another potential payer – and their potential to reimburse – is what matters. That other entity *would* be considered your primary coverage, and your reimbursement under this Act would be reduced or eliminated accordingly.
 
 Question 37 (Original Chunk ID: Chunk_17)
-Top-k Chunks Used: ['chunk_18', 'chunk_48', 'chunk_2', 'chunk_55', 'chunk_13', 'chunk_28', 'chunk_57', 'chunk_5', 'chunk_7', 'chunk_26']
+Question: Can I partially waive my travel expense reimbursement?
+Top-k Chunks Used: ['chunk_16', 'chunk_17', 'chunk_14', 'chunk_40', 'chunk_34', 'chunk_7', 'chunk_36', 'chunk_37', 'chunk_18', 'chunk_19']
+Answer: Yes, you can partially waive your travel expense reimbursement. 
+
+The text states under State Travel Expense Act (LRKG) § Entitlement to Travel Expense Reimbursement: "The traveler may waive all or *part* of the travel expense reimbursement and reimbursement of expenses." and again states "Reimbursement of travel expenses and expenses incurred may be waived in *whole or in part*."
+
+Question 38 (Original Chunk ID: Chunk_17)
 Question: Are you able to accept less than the full amount for your travel costs?
+Top-k Chunks Used: ['chunk_18', 'chunk_48', 'chunk_2', 'chunk_55', 'chunk_13', 'chunk_28', 'chunk_57', 'chunk_5', 'chunk_7', 'chunk_26']
 Answer: Yes, according to the State Travel Expense Act (LRKG) § 2, official travelers are generally free to choose the means of transport, but must consider climate protection and economic considerations. Furthermore, § 1 states the costs of the lowest travel/flight class shall be reimbursed *in principle*, implying acceptance of a lower cost option is possible. Finally, § 6 states higher accommodation costs shall be reimbursed to the necessary extent, implying lower costs are acceptable.
 
-Question 38 (Original Chunk ID: Chunk_18)
-Top-k Chunks Used: ['chunk_18', 'chunk_13', 'chunk_34', 'chunk_20', 'chunk_1', 'chunk_36', 'chunk_7', 'chunk_33', 'chunk_40', 'chunk_5']
-Question: Will I be refunded for costs related to using regular public transport?
-Answer: Yes, necessary costs incurred for journeys using regularly scheduled public transport shall be reimbursed up to the cost of the lowest travel class (LRKG §).
-
 Question 39 (Original Chunk ID: Chunk_18)
-Top-k Chunks Used: ['chunk_18', 'chunk_13', 'chunk_20', 'chunk_33', 'chunk_7', 'chunk_5', 'chunk_36', 'chunk_40', 'chunk_34', 'chunk_31']
+Question: Will I be refunded for costs related to using regular public transport?
+Top-k Chunks Used: ['chunk_18', 'chunk_13', 'chunk_34', 'chunk_20', 'chunk_1', 'chunk_36', 'chunk_7', 'chunk_33', 'chunk_40', 'chunk_5']
+Answer: Yes, costs incurred for journeys using regularly scheduled public transport will be reimbursed up to the cost of the lowest travel class. (LRKG §)
+
+Question 40 (Original Chunk ID: Chunk_18)
 Question: Are expenses for typical public transportation reimbursable?
+Top-k Chunks Used: ['chunk_18', 'chunk_13', 'chunk_20', 'chunk_33', 'chunk_7', 'chunk_5', 'chunk_36', 'chunk_40', 'chunk_34', 'chunk_31']
 Answer: Yes, expenses for typical public transportation are reimbursable. 
 
 According to State Travel Expense Act (LRKG) § , “Necessary costs incurred for journeys using regularly scheduled public transport shall be reimbursed up to the cost of the lowest travel class.”
 
-Question 40 (Original Chunk ID: Chunk_19)
-Top-k Chunks Used: ['chunk_36', 'chunk_19', 'chunk_65', 'chunk_18', 'chunk_16', 'chunk_13', 'chunk_1', 'chunk_6', 'chunk_40', 'chunk_2']
+Question 41 (Original Chunk ID: Chunk_19)
 Question: What are the circumstances in which reimbursement for a higher class of travel is permitted?
+Top-k Chunks Used: ['chunk_36', 'chunk_19', 'chunk_65', 'chunk_18', 'chunk_16', 'chunk_13', 'chunk_1', 'chunk_6', 'chunk_40', 'chunk_2']
 Answer: Here's a breakdown of the circumstances where reimbursement for a higher class of travel is permitted, based solely on the provided text:
 
 1. **Disability:** If an official traveler has a disability degree of at least 50 percent, they are reimbursed for the next higher class of travel (LRKG § 2).
@@ -285,86 +296,83 @@ Answer: Here's a breakdown of the circumstances where reimbursement for a higher
 3. **Exceptions by Authority:** The highest competent authority or its authorized subordinate authority may permit exceptions to the rule of reimbursing only the lowest travel class for both train and air travel (LRKG § 3).
 4. **Official/Economic Reasons for Flights:** Flight costs (and potentially a higher class) are reimbursable if official or economic reasons for using air travel outweigh climate protection considerations (LRKG § 3).
 
-Question 41 (Original Chunk ID: Chunk_19)
-Top-k Chunks Used: ['chunk_65', 'chunk_36', 'chunk_18', 'chunk_2', 'chunk_8', 'chunk_6', 'chunk_55', 'chunk_81', 'chunk_19', 'chunk_13']
+Question 42 (Original Chunk ID: Chunk_19)
 Question: Could you please explain the situations that allow for approval of travel expenses beyond standard class?
+Top-k Chunks Used: ['chunk_65', 'chunk_36', 'chunk_18', 'chunk_2', 'chunk_8', 'chunk_6', 'chunk_55', 'chunk_81', 'chunk_19', 'chunk_13']
 Answer: Here's an explanation of the situations allowing for approval of travel expenses beyond standard class, based solely on the provided text:
 
 **Train Travel:**
 
 *   **General Principle:** While second class is the standard, the "highest competent authority may permit exceptions for its area of responsibility." This allows for flexibility based on needs.
-*   **Acceptability:** The text states that using second class is acceptable "even over longer distances, with the current travel comfort."
+*   **Acceptability:** The text states that using second class is "acceptable even over longer distances" with current travel comfort.
+*   **Departmental Discretion:** This strengthens departments’ self-responsibility and enables needs-based handling.
 
-**Air Travel:**
+**Flight Travel:**
 
 *   **No Salary-Based Differentiation:** The previous system based on salary groups is abolished.
-*   **Official/Economic Reasons:** Flight costs are reimbursable if "official or economic reasons for using air travel outweigh the climate protection considerations." This implies a higher class might be approved if justified by the nature of the trip or cost-effectiveness.
-*   **Ministry of Finance Discretion:** The Ministry of Finance can determine exceptions via administrative regulation.
+*   **Official/Economic Reasons:** Flight costs are reimbursable if "official or economic reasons for using air travel outweigh the climate protection considerations." While it doesn’t explicitly state higher class, this opens the door for justifying a more expensive flight if necessary.
+*   **Ministry of Finance Exceptions:** The Ministry of Finance can determine exceptions via administrative regulation.
 
-**Disability/Health Conditions:**
+**Disability/Health:**
 
-*   **Disability Degree:** Officials with a disability degree of at least 70% are automatically eligible for reimbursement of the next higher class.
-*   **Physical/Health Condition:** Other officials may be granted the same concession if their "physical or health condition justifies the use of this class."
-
-**Training/Education:**
-
-*   **Attractiveness of Training:** The highest competent authority can refrain from reducing reimbursement for training-related travel to "increase the attractiveness of training in the public service."
+*   **Disability Degree:** If an official traveler has a disability degree of at least 70 percent, expenses for the *next higher class* shall be reimbursed.
+*   **Physical/Health Condition:** The same concession (reimbursement of a higher class) may be granted to other official travelers if their physical or health condition justifies it.
 
 
 
-In all cases, the key is that approval rests with the "highest competent authority" or their delegated subordinate, and is based on specific justifications—needs, economic factors, health, or encouraging professional development.
-
-Question 42 (Original Chunk ID: Chunk_20)
-Top-k Chunks Used: ['chunk_20', 'chunk_18', 'chunk_7', 'chunk_13', 'chunk_42', 'chunk_36', 'chunk_40', 'chunk_31', 'chunk_12', 'chunk_34']
-Question: Is the cost of a rental car or taxi reimbursed?
-Answer: According to State Travel Expense Act (LRKG) § Reimbursement of Travel and Flight Costs, the cost of a rental car or taxi *is* reimbursed **if, for a compelling reason**, it is used. If no compelling reason exists, reimbursement is limited to the cost of public transport.
+In essence, exceptions are possible at the discretion of higher authorities (highest competent authority, Ministry of Finance) based on need, economic factors, official reasons, or health/disability considerations.
 
 Question 43 (Original Chunk ID: Chunk_20)
-Top-k Chunks Used: ['chunk_20', 'chunk_7', 'chunk_29', 'chunk_13', 'chunk_23', 'chunk_18', 'chunk_31', 'chunk_33', 'chunk_40', 'chunk_5']
+Question: Is the cost of a rental car or taxi reimbursed?
+Top-k Chunks Used: ['chunk_20', 'chunk_18', 'chunk_7', 'chunk_13', 'chunk_42', 'chunk_36', 'chunk_40', 'chunk_31', 'chunk_12', 'chunk_34']
+Answer: According to State Travel Expense Act (LRKG) § Reimbursement of Travel and Flight Costs, the cost of a rental car or taxi *is* reimbursed **if, for a compelling reason**, it is used. If no compelling reason exists, reimbursement is limited to the cost of public transport.
+
+Question 44 (Original Chunk ID: Chunk_20)
 Question: Are rental car or taxi expenses covered?
+Top-k Chunks Used: ['chunk_20', 'chunk_7', 'chunk_29', 'chunk_13', 'chunk_23', 'chunk_18', 'chunk_31', 'chunk_33', 'chunk_40', 'chunk_5']
 Answer: Yes, rental car or taxi expenses are covered, but with conditions. According to State Travel Expense Act (LRKG) § Reimbursement of Travel and Flight Costs, these costs will be reimbursed “if, for a compelling reason, a rental car or taxi is used.” If no compelling reason exists, reimbursement is limited to the cost of public transport.
 
-Question 44 (Original Chunk ID: Chunk_23)
-Top-k Chunks Used: ['chunk_23', 'chunk_22', 'chunk_69', 'chunk_20', 'chunk_7', 'chunk_12', 'chunk_65', 'chunk_18', 'chunk_26', 'chunk_36']
+Question 45 (Original Chunk ID: Chunk_23)
 Question: How much is the surcharge of mileage allowance in case of difficult roads?
-Answer: According to State Travel Expense Act (LRKG) § , the surcharge for the mileage allowance when journeys are regularly required on unpaved roads or difficult-to-drive field or forest tracks amounts to **cents per kilometer**.
+Top-k Chunks Used: ['chunk_23', 'chunk_22', 'chunk_69', 'chunk_20', 'chunk_7', 'chunk_12', 'chunk_65', 'chunk_18', 'chunk_26', 'chunk_36']
+Answer: According to State Travel Expense Act (LRKG) § , the surcharge for the mileage allowance is **cents per kilometer** when journeys are regularly required on unpaved roads or difficult-to-drive field or forest tracks.
 
 The exact number of cents is not provided in the text. It only states "cents per kilometer."
 
-Question 45 (Original Chunk ID: Chunk_23)
-Top-k Chunks Used: ['chunk_23', 'chunk_20', 'chunk_22', 'chunk_7', 'chunk_36', 'chunk_18', 'chunk_57', 'chunk_12', 'chunk_4', 'chunk_13']
+Question 46 (Original Chunk ID: Chunk_23)
 Question: Could you please clarify the extra cost added to mileage reimbursement when driving on challenging roads?
+Top-k Chunks Used: ['chunk_23', 'chunk_20', 'chunk_22', 'chunk_7', 'chunk_36', 'chunk_18', 'chunk_57', 'chunk_12', 'chunk_4', 'chunk_13']
 Answer: According to State Travel Expense Act (LRKG) § Mileage Allowance, a surcharge may be granted for the mileage allowance if, due to the nature of the official business, journeys on unpaved roads or difficult-to-drive field or forest tracks are regularly required. This surcharge amounts to **cents per kilometer**. 
 
 (The exact number of cents is missing from the provided text – it’s left blank in the document.)
 
-Question 46 (Original Chunk ID: Chunk_24)
-Top-k Chunks Used: ['chunk_24', 'chunk_26', 'chunk_27', 'chunk_25', 'chunk_35', 'chunk_57', 'chunk_48', 'chunk_46', 'chunk_55', 'chunk_28']
+Question 47 (Original Chunk ID: Chunk_24)
 Question: How much euros is the per diem allowance for a full calendar day of an official trip?
+Top-k Chunks Used: ['chunk_24', 'chunk_26', 'chunk_27', 'chunk_25', 'chunk_35', 'chunk_57', 'chunk_48', 'chunk_46', 'chunk_55', 'chunk_28']
 Answer: According to State Travel Expense Act (LRKG) § C Per Diem Allowance (), a per diem allowance of **euros** is granted for each full calendar day of an official trip.
 
 **Note:** The exact amount is missing from the provided text. The text states "euros" but doesn't specify a number.
 
-Question 47 (Original Chunk ID: Chunk_24)
-Top-k Chunks Used: ['chunk_24', 'chunk_28', 'chunk_57', 'chunk_26', 'chunk_22', 'chunk_23', 'chunk_35', 'chunk_55', 'chunk_48', 'chunk_2']
+Question 48 (Original Chunk ID: Chunk_24)
 Question: What is the daily allowance amount, in euros, for official travel covering a complete 24-hour period?
+Top-k Chunks Used: ['chunk_24', 'chunk_28', 'chunk_57', 'chunk_26', 'chunk_22', 'chunk_23', 'chunk_35', 'chunk_55', 'chunk_48', 'chunk_2']
 Answer: The context states: "For each full calendar day of an official trip, a per diem allowance of **euros** is granted to compensate for additional expenses for meals."
 
 However, the actual amount in euros is **not provided** in the text. The text only states that a per diem allowance of "euros" is granted, leaving the specific amount blank.
 
-Question 48 (Original Chunk ID: Chunk_24)
-Top-k Chunks Used: ['chunk_24', 'chunk_26', 'chunk_25', 'chunk_70', 'chunk_27', 'chunk_35', 'chunk_48', 'chunk_46', 'chunk_55', 'chunk_2']
+Question 49 (Original Chunk ID: Chunk_24)
 Question: In case of an official trip lasting less than one full calendar day, how much is the per diem allowance?
+Top-k Chunks Used: ['chunk_24', 'chunk_26', 'chunk_25', 'chunk_70', 'chunk_27', 'chunk_35', 'chunk_48', 'chunk_46', 'chunk_55', 'chunk_2']
 Answer: According to State Travel Expense Act (LRKG) § C Per Diem Allowance (), for an official trip lasting less than one full calendar day, the per diem allowance is:
 
 *   **G euros** for a duration of more than **[some number of]** hours.
 *   **[some number of]** euros for a duration of more than **[some number of]** hours.
 
-**Note:** The exact number of hours are not provided in the text. The context only states "...G euros for a duration of more than [hours], and [euros] for a duration of more than [hours]."
+**Note:** The exact number of hours for each allowance is not provided in the text. The text only states "more than [hours]" and "more than [hours]" leaving those values unspecified.
 
-Question 49 (Original Chunk ID: Chunk_24)
-Top-k Chunks Used: ['chunk_30', 'chunk_48', 'chunk_2', 'chunk_5', 'chunk_7', 'chunk_28', 'chunk_24', 'chunk_18', 'chunk_25', 'chunk_35']
+Question 50 (Original Chunk ID: Chunk_24)
 Question: What is the daily expense rate for business travel that doesn't span a complete 24-hour period?
+Top-k Chunks Used: ['chunk_30', 'chunk_48', 'chunk_2', 'chunk_5', 'chunk_7', 'chunk_28', 'chunk_24', 'chunk_18', 'chunk_25', 'chunk_35']
 Answer: According to State Travel Expense Act (LRKG) § C Per Diem Allowance, for an official trip lasting less than one full calendar day, the per diem allowance on the day of departure and the day of return of a multi-day trip is:
 
 *   **G euros** for a duration of more than 8 hours, and
@@ -372,14 +380,14 @@ Answer: According to State Travel Expense Act (LRKG) § C Per Diem Allowance, fo
 
 (Note: The exact amount for the second bullet point is missing from the provided text.)
 
-Question 50 (Original Chunk ID: Chunk_25)
-Top-k Chunks Used: ['chunk_25', 'chunk_70', 'chunk_30', 'chunk_64', 'chunk_14', 'chunk_8', 'chunk_47', 'chunk_46', 'chunk_12', 'chunk_9']
+Question 51 (Original Chunk ID: Chunk_25)
 Question: How is the duration of the official trip determined?
+Top-k Chunks Used: ['chunk_25', 'chunk_70', 'chunk_30', 'chunk_64', 'chunk_14', 'chunk_8', 'chunk_47', 'chunk_46', 'chunk_12', 'chunk_9']
 Answer: According to LRKG § C, the duration of the official trip is determined from the time of departure from and arrival at the residence, unless the trip begins or ends at the official premises or the beginning and/or end has been ordered at the official premises. In the case of several residences or accommodations, the one nearest to the official premises shall be decisive.
 
-Question 51 (Original Chunk ID: Chunk_25)
-Top-k Chunks Used: ['chunk_64', 'chunk_30', 'chunk_25', 'chunk_8', 'chunk_14', 'chunk_48', 'chunk_70', 'chunk_47', 'chunk_12', 'chunk_54']
+Question 52 (Original Chunk ID: Chunk_25)
 Question: What factors decide how long the business travel will last?
+Top-k Chunks Used: ['chunk_64', 'chunk_30', 'chunk_25', 'chunk_8', 'chunk_14', 'chunk_48', 'chunk_70', 'chunk_47', 'chunk_12', 'chunk_54']
 Answer: According to the provided text, several factors decide how long a business travel will last:
 
 * **The nature of the official’s office or the nature of the official business:** An order or approval for the trip might not be required if the trip is inherent to the role or task. (§)
@@ -389,16 +397,16 @@ Answer: According to the provided text, several factors decide how long a busine
 * **Length of stay abroad:** For stays abroad (excluding departure and return days) lasting longer than a specified number of days, per diem allowances are reduced. (§)
 * **Whether a less costly method of conducting official business is possible or reasonable:** Official trips should only be carried out if a less costly method isn’t feasible. (§)
 
-Question 52 (Original Chunk ID: Chunk_26)
-Top-k Chunks Used: ['chunk_26', 'chunk_24', 'chunk_27', 'chunk_35', 'chunk_25', 'chunk_46', 'chunk_48', 'chunk_70', 'chunk_45', 'chunk_55']
+Question 53 (Original Chunk ID: Chunk_26)
 Question: Am I entitled to a per diem allowance when going on an official errand?
+Top-k Chunks Used: ['chunk_26', 'chunk_24', 'chunk_27', 'chunk_35', 'chunk_25', 'chunk_46', 'chunk_48', 'chunk_70', 'chunk_45', 'chunk_55']
 Answer: According to the State Travel Expense Act (LRKG) § C, there is **no entitlement** to a per diem allowance for official errands unless they last **more than eight hours**. In that case, necessary documented expenses for meals will be reimbursed *up to* the amount of the per diem allowance applicable for an official trip.
 
 The Explanatory Memorandum B also clarifies that the minimum duration justifying a claim to per diem was *increased* from exactly eight hours to **more than eight hours** to avoid administrative burdens related to taxation.
 
-Question 53 (Original Chunk ID: Chunk_26)
-Top-k Chunks Used: ['chunk_12', 'chunk_40', 'chunk_7', 'chunk_39', 'chunk_16', 'chunk_38', 'chunk_14', 'chunk_34', 'chunk_33', 'chunk_36']
+Question 54 (Original Chunk ID: Chunk_26)
 Question: Are employees reimbursed for expenses incurred while completing work-related tasks away from their usual work location?
+Top-k Chunks Used: ['chunk_12', 'chunk_40', 'chunk_7', 'chunk_39', 'chunk_16', 'chunk_38', 'chunk_14', 'chunk_34', 'chunk_33', 'chunk_36']
 Answer: Yes, employees are reimbursed for expenses incurred while completing work-related tasks away from their usual work location. 
 
 Here's how the provided text supports this:
@@ -415,14 +423,14 @@ Here's how the provided text supports this:
 
 These all point to covering costs associated with being away from one’s usual work location to perform official duties. Additionally, several sections detail reimbursements in *special cases* of travel, further reinforcing the overall principle of expense coverage for work-related travel.
 
-Question 54 (Original Chunk ID: Chunk_26)
-Top-k Chunks Used: ['chunk_26', 'chunk_24', 'chunk_35', 'chunk_27', 'chunk_25', 'chunk_46', 'chunk_70', 'chunk_48', 'chunk_55', 'chunk_45']
+Question 55 (Original Chunk ID: Chunk_26)
 Question: Under what condition can an official errand be covered by per diem allowance?
+Top-k Chunks Used: ['chunk_26', 'chunk_24', 'chunk_35', 'chunk_27', 'chunk_25', 'chunk_46', 'chunk_70', 'chunk_48', 'chunk_55', 'chunk_45']
 Answer: According to the State Travel Expense Act (LRKG) § C Per Diem Allowance, for official errands lasting **more than eight hours**, the necessary documented expenses for meals shall be reimbursed up to the amount of the per diem allowance applicable for an official trip.
 
-Question 55 (Original Chunk ID: Chunk_26)
-Top-k Chunks Used: ['chunk_46', 'chunk_25', 'chunk_26', 'chunk_35', 'chunk_24', 'chunk_70', 'chunk_48', 'chunk_45', 'chunk_27', 'chunk_14']
+Question 56 (Original Chunk ID: Chunk_26)
 Question: When is per diem authorized for official travel?
+Top-k Chunks Used: ['chunk_46', 'chunk_25', 'chunk_26', 'chunk_35', 'chunk_24', 'chunk_70', 'chunk_48', 'chunk_45', 'chunk_27', 'chunk_14']
 Answer: Here's a breakdown of when per diem is authorized for official travel, based solely on the provided text:
 
 *   **General Rule:** For each full calendar day of an official trip, a per diem allowance is granted to compensate for additional expenses for meals. (§ C)
@@ -433,74 +441,72 @@ Answer: Here's a breakdown of when per diem is authorized for official travel, b
 *   **Longer Stays Abroad:** For stays at the same foreign business location longer than 7 days, the per diem is reduced by 20% from the 8th day onward. (§ Official Trips Abroad)
 *   **Following a Separation Allowance:** Per diem is granted until the end of the day of arrival if, from the following day onward, a separation allowance for staying away is received. (§ Determination of the Travel Expense Reimbursement in Special Cases C)
 
-Question 56 (Original Chunk ID: Chunk_26)
-Top-k Chunks Used: ['chunk_35', 'chunk_26', 'chunk_24', 'chunk_27', 'chunk_25', 'chunk_55', 'chunk_7', 'chunk_48', 'chunk_16', 'chunk_36']
+Question 57 (Original Chunk ID: Chunk_26)
 Question: What determines eligibility for per diem reimbursement on work-related trips?
+Top-k Chunks Used: ['chunk_35', 'chunk_26', 'chunk_24', 'chunk_27', 'chunk_25', 'chunk_55', 'chunk_7', 'chunk_48', 'chunk_16', 'chunk_36']
 Answer: Eligibility for per diem reimbursement on work-related trips is determined by several factors, according to the provided text:
 
 *   **Official Trips:** A per diem allowance is granted for each full calendar day of an *official trip* to compensate for additional expenses for meals (§ C).
 *   **Duration:** The amount of the per diem varies depending on the trip's duration. For trips lasting less than a full calendar day, it depends on whether the duration exceeds 6 or 8 hours (§ C).
 *   **Transfer/Secondment:** For trips related to a transfer, secondment, or termination of a secondment, the per diem is granted until arrival at the new place of work (§ C).
 *   **Official Errands:** For official errands lasting more than eight hours, documented meal expenses are reimbursed *up to* the amount of the applicable per diem allowance (§ C).
-*   **Complimentary Meals:** The per diem is reduced if complimentary meals are received, with specific percentages withheld for breakfast, lunch, and dinner (§ C). This reduction also applies if meals are provided by a third party or if the traveler doesn’t partake in complimentary meals without justification.
+*   **Complimentary Meals:** The per diem is reduced if complimentary meals are received, with specific percentages withheld for breakfast, lunch, and dinner (§ C). This reduction also applies if meals are provided by a third party or if the traveler doesn’t partake in complimentary meals without a compelling reason.
 *   **Foreign Travel:** For stays at the same foreign business location exceeding 3 days, the foreign per diem is reduced by 20% from the 4th day onward (§ ).
-*   **Secondary Activity:** For trips undertaken for a secondary activity at the request of the authority, reimbursement is only granted to the extent another body doesn’t already cover it (§ ).
-*   **Education/Training:** For trips partially in the official interest (education/training), reimbursement is possible with consent, but may be limited to 80% for certain officials (§ ).
+*   **Secondary Activity:** For trips undertaken for a secondary activity at the request of the authority, reimbursement is only granted if no other body provides it (§ ).
+*   **Education/Training:** For trips partially in the official interest (education/training), reimbursement is possible with consent, potentially reduced to 80% for certain officials (§ ).
 
-Question 57 (Original Chunk ID: Chunk_26)
-Top-k Chunks Used: ['chunk_24', 'chunk_27', 'chunk_46', 'chunk_26', 'chunk_25', 'chunk_70', 'chunk_35', 'chunk_55', 'chunk_48', 'chunk_75']
+Question 58 (Original Chunk ID: Chunk_26)
 Question: What are the rules regarding per diem and official business?
+Top-k Chunks Used: ['chunk_24', 'chunk_27', 'chunk_46', 'chunk_26', 'chunk_25', 'chunk_70', 'chunk_35', 'chunk_55', 'chunk_48', 'chunk_75']
 Answer: Here's a breakdown of the rules regarding per diem and official business, based solely on the provided text:
 
 **1. Basic Per Diem Allowance (§ C):**
 
-*   A full calendar day of an official trip grants a per diem to cover meal expenses (the specific amount in euros is not stated, only that it *is* granted).
-*   For trips less than a full day, the per diem is different on departure/return days:
+*   A full calendar day of an official trip grants a per diem to cover meal expenses (the specific euro amount is not provided in the text).
+*   For trips *less* than a full day, per diem is granted based on duration:
     *   More than X hours: G euros
-    *   More than Y hours: Z euros (X, Y, G, and Z are not defined in the text)
+    *   More than Y hours: Z euros (X, Y, Z and G are not defined in the text)
 
 **2. Complimentary/Provided Meals (§ C):**
 
 *   If meals are complimentary during official duties, or provided and included in other reimbursable expenses (travel, flight, accommodation), a percentage of the per diem is withheld:
-    *   Breakfast: X%
-    *   Lunch & Dinner: Y% each (X and Y are not defined in the text)
-*   This withholding *also* applies if the traveler declines complimentary meals without a valid reason.
+    *   Breakfast: X percent
+    *   Lunch: Y percent
+    *   Dinner: Y percent
+*   These percentages are *also* withheld if an official traveler declines complimentary meals without a compelling reason.
 
 **3. Official Trips Abroad (§ & § ):**
 
-*   Per diem and accommodation are based on the country reached *before midnight local time*.
-*   If a domestic location is reached last before midnight during a foreign trip, the foreign per diem applies to the last foreign business location.
-*   For stays longer than N days at the same foreign location (N is not defined in the text):
-    *   Per diem is reduced by M% from the (N+1)th day onward (M is not defined in the text).
-    *   Accommodation allowance switches from a lump sum to reimbursement of documented costs from the (N+1)th day onward.
+*   Per diem and accommodation are determined by the country reached before midnight local time. If domestic territory is reached last before midnight during a foreign trip, the foreign per diem applies to the last business location abroad.
+*   If a stay at the same foreign business location exceeds X days (the number is not provided), the per diem is reduced by Y percent (the percentage is not provided) from the Xth day onward. Accommodation allowance may shift to documented costs.
 
 **4. Official Errands (§ C):**
 
-*   No per diem for errands lasting eight hours or less.
-*   For errands lasting *more than* eight hours, documented meal expenses are reimbursed *up to* the amount of the standard per diem for a full trip.
+*   No per diem is granted for errands lasting eight hours or less.
+*   For errands *over* eight hours, documented meal expenses are reimbursed *up to* the amount of the per diem for a full official trip.
 
 **5. Trip Duration (§ C):**
 
-*   Trip duration is calculated from departure/arrival at the traveler’s residence (or nearest to official premises if multiple residences exist).
+*   Trip duration is calculated from departure/arrival at the residence, or official premises if the trip starts/ends there. The nearest residence/premises is used if multiple exist.
 
 **6. Transfers/Secondments (§ ):**
 
 *   Per diem is granted until arrival at the new place of work.
-*   If a separation allowance begins the day after arrival, per diem is granted until the end of the arrival day, *plus* an accommodation allowance.
+*   If a separation allowance begins the following day, per diem is granted until the end of the arrival day, *plus* an accommodation allowance.
 
-**7. General Changes & Explanations (Explanatory Memoranda):**
+**7. General Updates (Explanatory Memorandum A):**
 
-*   The Act aims to modernize travel expense regulations and align with tax laws.
-*   A minimum duration of *more than* eight hours is now required to claim per diem (previously exactly eight hours).
-*   Breakfast is now factored into the per diem by withholding X% (the percentage is mentioned elsewhere in the text).
+*   The Act aims to modernize travel expense regulations.
+*   Adjustments to per diem reductions for complimentary meals align with tax regulations.
+*   Foreign travel provisions are integrated into the Act, making previous regulations redundant.
 
 
 
-**Important Note:** The text frequently refers to specific amounts (euros, percentages, number of days) using variables (X, Y, G, N, M, Z) that are *not defined* within the provided context. Therefore, a complete understanding of the rules requires access to the full State Travel Expense Act.
+**Important Note:** The text refers to several unspecified amounts (euro values for per diem, X, Y, Z, percentages, number of days) which are not provided in the document.
 
-Question 58 (Original Chunk ID: Chunk_27)
-Top-k Chunks Used: ['chunk_27', 'chunk_26', 'chunk_75', 'chunk_24', 'chunk_55', 'chunk_35', 'chunk_31', 'chunk_25', 'chunk_48', 'chunk_70']
+Question 59 (Original Chunk ID: Chunk_27)
 Question: What is the percentage withheld from the entitled per diem allowance in case I receive complimentary meals?
+Top-k Chunks Used: ['chunk_27', 'chunk_26', 'chunk_75', 'chunk_24', 'chunk_55', 'chunk_35', 'chunk_31', 'chunk_25', 'chunk_48', 'chunk_70']
 Answer: According to State Travel Expense Act (LRKG) § C Per Diem Allowance (), the following percentages are withheld from the per diem allowance if official travelers receive complimentary meals:
 
 *   **Breakfast:** percent
@@ -509,9 +515,9 @@ Answer: According to State Travel Expense Act (LRKG) § C Per Diem Allowance (),
 
 Additionally, Explanatory Memorandum B states that breakfast as a meal component shall have **percent** of the full per diem withheld.
 
-Question 59 (Original Chunk ID: Chunk_27)
-Top-k Chunks Used: ['chunk_27', 'chunk_75', 'chunk_26', 'chunk_55', 'chunk_57', 'chunk_24', 'chunk_31', 'chunk_2', 'chunk_29', 'chunk_74']
+Question 60 (Original Chunk ID: Chunk_27)
 Question: How is my daily allowance reduced when meals are provided for free?
+Top-k Chunks Used: ['chunk_27', 'chunk_75', 'chunk_26', 'chunk_55', 'chunk_57', 'chunk_24', 'chunk_31', 'chunk_2', 'chunk_29', 'chunk_74']
 Answer: According to State Travel Expense Act (LRKG) § C Per Diem Allowance (), if official travelers receive complimentary meals, a percentage of the per diem is withheld. Specifically:
 
 *   **Breakfast:** percent of the per diem is withheld.
@@ -521,84 +527,66 @@ This withholding also applies if a third party provides the meals and the cost i
 
 Furthermore, Explanatory Memorandum B clarifies that breakfast is now specifically accounted for by withholding percent of the full per diem, as the previous regulation regarding breakfast included in accommodation costs is no longer in effect.
 
-Question 60 (Original Chunk ID: Chunk_28)
-Top-k Chunks Used: ['chunk_28', 'chunk_74', 'chunk_35', 'chunk_48', 'chunk_26', 'chunk_27', 'chunk_55', 'chunk_75', 'chunk_25', 'chunk_24']
+Question 61 (Original Chunk ID: Chunk_28)
 Question: What is the sum received for a necessary overnight stay?
+Top-k Chunks Used: ['chunk_28', 'chunk_74', 'chunk_35', 'chunk_48', 'chunk_26', 'chunk_27', 'chunk_55', 'chunk_75', 'chunk_25', 'chunk_24']
 Answer: According to the State Travel Expense Act (LRKG) § Accommodation Allowance, a lump sum of **euros domestically and euros abroad** is received for a necessary overnight stay.
 
-Question 61 (Original Chunk ID: Chunk_28)
-Top-k Chunks Used: ['chunk_28', 'chunk_74', 'chunk_29', 'chunk_55', 'chunk_57', 'chunk_26', 'chunk_31', 'chunk_41', 'chunk_7', 'chunk_48']
+Question 62 (Original Chunk ID: Chunk_28)
 Question: How much money is provided to cover the cost of required overnight accommodations?
+Top-k Chunks Used: ['chunk_28', 'chunk_74', 'chunk_29', 'chunk_55', 'chunk_57', 'chunk_26', 'chunk_31', 'chunk_41', 'chunk_7', 'chunk_48']
 Answer: According to the State Travel Expense Act (LRKG) § Accommodation Allowance (), official travelers receive a lump sum of euros domestically and euros abroad for a necessary overnight stay. However, higher accommodation costs shall be reimbursed to the necessary extent, as determined by an administrative regulation.
 
 Additionally, for stays abroad lasting longer than 3 days, the lump sum accommodation allowance is replaced with reimbursement of necessary documented accommodation costs from the 4th day onward (§ Official Trips Abroad()).
 
 For extended stays at the business location (e.g., due to illness or secondment), actual necessary accommodation costs are reimbursed (§ Expense and Lump Sum Reimbursement() and § Determination of the Travel Expense Reimbursement in Special Cases()).
 
-Question 62 (Original Chunk ID: Chunk_30)
-Top-k Chunks Used: ['chunk_30', 'chunk_48', 'chunk_46', 'chunk_25', 'chunk_70', 'chunk_74', 'chunk_47', 'chunk_9', 'chunk_35', 'chunk_14']
+Question 63 (Original Chunk ID: Chunk_30)
 Question: What happens when the stay at the same external business location lasts longer than seven days?
+Top-k Chunks Used: ['chunk_30', 'chunk_48', 'chunk_46', 'chunk_25', 'chunk_70', 'chunk_74', 'chunk_47', 'chunk_9', 'chunk_35', 'chunk_14']
 Answer: According to State Travel Expense Act (LRKG) §, if the stay at the same external business location lasts longer than seven days, from the eighth day onward the same reimbursement is granted as would be provided in the case of a secondment. All days between the day of arrival and the day of departure are counted as days of stay.
 
-Question 63 (Original Chunk ID: Chunk_30)
-Top-k Chunks Used: ['chunk_30', 'chunk_70', 'chunk_14', 'chunk_48', 'chunk_8', 'chunk_55', 'chunk_2', 'chunk_47', 'chunk_25', 'chunk_64']
+Question 64 (Original Chunk ID: Chunk_30)
 Question: Could you clarify the implications of a business trip exceeding a week in duration?
+Top-k Chunks Used: ['chunk_30', 'chunk_70', 'chunk_14', 'chunk_48', 'chunk_8', 'chunk_55', 'chunk_2', 'chunk_47', 'chunk_25', 'chunk_64']
 Answer: According to **State Travel Expense Act (LRKG) §**, if a stay at the same external business location lasts longer than seven days, from the eighth day onward the same reimbursement is granted as would be provided in the case of a secondment. 
 
-Additionally, the **Explanatory Memorandum A** states that for longer official trips and secondments, instead of a lump-sum compensation, the actual necessary accommodation costs and, for the first three months, a lump sum to compensate for additional meal expenses shall be reimbursed.
+Furthermore, the **Explanatory Memorandum A** states that for longer official trips and secondments, instead of a lump-sum compensation, the actual necessary accommodation costs and, for the first three months, a lump sum to compensate for additional meal expenses shall be reimbursed.
 
-Finally, regarding foreign trips (**State Travel Expense Act (LRKG) §**), if the stay at the same foreign business location (excluding departure and return days) lasts longer than days, the foreign per diem is reduced by percent from the th day onward, with potential for waiver by authorities and a shift to documented accommodation cost reimbursement from the th day onward.
-
-Question 64 (Original Chunk ID: Chunk_31)
-Top-k Chunks Used: ['chunk_55', 'chunk_26', 'chunk_27', 'chunk_2', 'chunk_31', 'chunk_28', 'chunk_24', 'chunk_7', 'chunk_35', 'chunk_57']
+Question 65 (Original Chunk ID: Chunk_31)
 Question: For official travel, when would I receive a single expense allowance instead of the usual separate payments for meals and hotels?
+Top-k Chunks Used: ['chunk_55', 'chunk_26', 'chunk_27', 'chunk_2', 'chunk_31', 'chunk_28', 'chunk_24', 'chunk_7', 'chunk_35', 'chunk_57']
 Answer: According to State Travel Expense Act (LRKG) § U Expense and Lump Sum Reimbursement, an expense allowance is granted “to official travelers, for whom generally lower expenses for meals and accommodation are incurred…in lieu of per diem, accommodation allowance, and reimbursement of expenses under § C.” 
 
 Therefore, you would receive a single expense allowance instead of separate payments for meals and hotels if the authorities determine you generally have lower expenses for those items.
 
-Question 65 (Original Chunk ID: Chunk_31)
-Top-k Chunks Used: ['chunk_50', 'chunk_81', 'chunk_44', 'chunk_66', 'chunk_59', 'chunk_45', 'chunk_58', 'chunk_60', 'chunk_80', 'chunk_85']
-Question: Here's a paraphrase of your question
-Answer: Please provide the question. I need the question to be able to answer it using only the provided context. 
-
-I am ready when you are! Just paste the question here.
-
 Question 66 (Original Chunk ID: Chunk_31)
-Top-k Chunks Used: ['chunk_55', 'chunk_31', 'chunk_7', 'chunk_2', 'chunk_57', 'chunk_26', 'chunk_40', 'chunk_18', 'chunk_13', 'chunk_16']
 Question: Under what circumstances during work travel would I get one payment to cover all costs, rather than being reimbursed individually for things like food and lodging?
+Top-k Chunks Used: ['chunk_55', 'chunk_31', 'chunk_7', 'chunk_2', 'chunk_57', 'chunk_26', 'chunk_40', 'chunk_18', 'chunk_13', 'chunk_16']
 Answer: According to the provided texts, you would get one payment to cover all costs – an “expense allowance” – instead of individual reimbursements for meals, accommodation, and other expenses **if** you are an official traveler for whom generally lower expenses for meals and accommodation are incurred. 
 
 This is determined by “the highest competent authority or its authorized subordinate authority” and corresponds to your “necessary expenses.” (See: State Travel Expense Act (LRKG) § U Expense and Lump Sum Reimbursement).
 
 Question 67 (Original Chunk ID: Chunk_32)
-Top-k Chunks Used: ['chunk_32', 'chunk_7', 'chunk_31', 'chunk_35', 'chunk_40', 'chunk_14', 'chunk_37', 'chunk_55', 'chunk_38', 'chunk_16']
 Question: When is a lump sum reimbursement granted instead of the travel expense reimbursement?
+Top-k Chunks Used: ['chunk_32', 'chunk_7', 'chunk_31', 'chunk_35', 'chunk_40', 'chunk_14', 'chunk_37', 'chunk_55', 'chunk_38', 'chunk_16']
 Answer: According to the State Travel Expense Act (LRKG) § , a lump sum reimbursement is granted in lieu of travel expense reimbursement or individual components thereof for **regular or similar official trips**, as determined by the highest competent authority or its authorized subordinate authority, based on the **average of the individual reimbursements** otherwise incurred in a certain period.
 
 Additionally, § states that official travelers, for whom **generally lower expenses for meals and accommodation are incurred**, may be compensated by an expense allowance (a type of lump sum) in lieu of per diem, accommodation allowance, and reimbursement of expenses under § .
 
 Question 68 (Original Chunk ID: Chunk_32)
-Top-k Chunks Used: ['chunk_50', 'chunk_81', 'chunk_44', 'chunk_66', 'chunk_59', 'chunk_45', 'chunk_58', 'chunk_60', 'chunk_80', 'chunk_85']
-Question: Here's a paraphrase of your question
-Answer: Please provide the question. I need the question to be able to answer it using only the provided context. 
-
-I am ready when you are! Just paste the question here.
-
-Question 69 (Original Chunk ID: Chunk_32)
-Top-k Chunks Used: ['chunk_2', 'chunk_55', 'chunk_7', 'chunk_5', 'chunk_13', 'chunk_40', 'chunk_37', 'chunk_31', 'chunk_18', 'chunk_4']
 Question: Under what circumstances is a single payment used to cover travel costs, rather than standard expense reporting?
-Answer: According to the State Travel Expense Act (LRKG) § U (Expense and Lump Sum Reimbursement), a single expense allowance is used *in lieu of* per diem, accommodation allowance, and reimbursement of expenses under § G for official travelers “for whom generally lower expenses for meals and accommodation are incurred.” This is determined by the highest competent authority or its authorized subordinate authority and corresponds to the necessary expenses. 
+Top-k Chunks Used: ['chunk_2', 'chunk_55', 'chunk_7', 'chunk_5', 'chunk_13', 'chunk_40', 'chunk_37', 'chunk_31', 'chunk_18', 'chunk_4']
+Answer: According to the State Travel Expense Act (LRKG) § U (Expense and Lump Sum Reimbursement), a single expense allowance is used *in lieu of* per diem, accommodation allowance, and reimbursement of expenses under § G for official travelers “for whom generally lower expenses for meals and accommodation are incurred.” This is determined by the highest competent authority or its authorized subordinate authority and corresponds to the necessary expenses.
 
-Essentially, if someone is expected to have significantly lower travel costs than the standard allowances cover, they can receive a single payment to cover those costs instead of submitting detailed expense reports for each item.
-
-Question 70 (Original Chunk ID: Chunk_33)
-Top-k Chunks Used: ['chunk_80', 'chunk_33', 'chunk_36', 'chunk_55', 'chunk_7', 'chunk_2', 'chunk_40', 'chunk_31', 'chunk_6', 'chunk_18']
+Question 69 (Original Chunk ID: Chunk_33)
 Question: What is considered incidental expenses?
+Top-k Chunks Used: ['chunk_80', 'chunk_33', 'chunk_36', 'chunk_55', 'chunk_7', 'chunk_2', 'chunk_40', 'chunk_31', 'chunk_6', 'chunk_18']
 Answer: According to the provided text, incidental expenses are “Necessary expenses incurred for the conduct of official business that are not reimbursable under §§ to U” (LRKG § ) and “These costs are to be systematically declared as incidental expenses” (Explanatory Memorandum B).
 
-Question 71 (Original Chunk ID: Chunk_33)
-Top-k Chunks Used: ['chunk_80', 'chunk_33', 'chunk_60', 'chunk_36', 'chunk_55', 'chunk_7', 'chunk_31', 'chunk_6', 'chunk_2', 'chunk_18']
+Question 70 (Original Chunk ID: Chunk_33)
 Question: Could you please define what falls under the category of incidental expenses?
+Top-k Chunks Used: ['chunk_80', 'chunk_33', 'chunk_60', 'chunk_36', 'chunk_55', 'chunk_7', 'chunk_31', 'chunk_6', 'chunk_2', 'chunk_18']
 Answer: According to the provided text, incidental expenses include:
 
 *   **Necessary expenses incurred for the conduct of official business that are not reimbursable under §§ 7 to 14 LRKG.**
@@ -606,214 +594,191 @@ Answer: According to the provided text, incidental expenses include:
 *   **Necessary additional expenses on official errands** (§ 7G LRKG).
 *   **Reimbursement of other costs** (§ 15 LRKG).
 
-Question 72 (Original Chunk ID: Chunk_34)
-Top-k Chunks Used: ['chunk_34', 'chunk_14', 'chunk_39', 'chunk_40', 'chunk_16', 'chunk_7', 'chunk_37', 'chunk_36', 'chunk_38', 'chunk_18']
+Question 71 (Original Chunk ID: Chunk_34)
 Question: If my trip is canceled, will I get reimbursed for necessary pre-trip expenses?
+Top-k Chunks Used: ['chunk_34', 'chunk_14', 'chunk_39', 'chunk_40', 'chunk_16', 'chunk_7', 'chunk_37', 'chunk_36', 'chunk_38', 'chunk_18']
 Answer: Yes, if official trips are canceled for reasons not attributable to the official traveler, the necessary expenses incurred in preparation, which are eligible for reimbursement under this Act, shall be reimbursed (LRKG § C ()).
 
-Question 73 (Original Chunk ID: Chunk_34)
-Top-k Chunks Used: ['chunk_50', 'chunk_81', 'chunk_44', 'chunk_66', 'chunk_59', 'chunk_45', 'chunk_58', 'chunk_60', 'chunk_80', 'chunk_85']
-Question: Here's a paraphrase of your question
-Answer: Please provide the question. I need the question to be able to answer it using only the provided context. 
-
-I am ready when you are! Just paste the question here.
-
-Question 74 (Original Chunk ID: Chunk_34)
-Top-k Chunks Used: ['chunk_34', 'chunk_39', 'chunk_40', 'chunk_14', 'chunk_16', 'chunk_37', 'chunk_38', 'chunk_36', 'chunk_7', 'chunk_35']
+Question 72 (Original Chunk ID: Chunk_34)
 Question: Will I be able to get my money back for expenses already incurred if my travel plans are called off?
+Top-k Chunks Used: ['chunk_34', 'chunk_39', 'chunk_40', 'chunk_14', 'chunk_16', 'chunk_37', 'chunk_38', 'chunk_36', 'chunk_7', 'chunk_35']
 Answer: Yes, according to State Travel Expense Act (LRKG) § Reimbursement of Other Costs C (), if official trips are canceled for reasons not attributable to the official traveler, the necessary expenses incurred in preparation, which are eligible for reimbursement under this Act, **shall be reimbursed.**
 
-Question 75 (Original Chunk ID: Chunk_35)
-Top-k Chunks Used: ['chunk_70', 'chunk_35', 'chunk_25', 'chunk_24', 'chunk_26', 'chunk_46', 'chunk_48', 'chunk_27', 'chunk_55', 'chunk_14']
+Question 73 (Original Chunk ID: Chunk_35)
 Question: In case of a transfer, secondment, or termination of a secondment, for how long is the per diem allowance granted?
+Top-k Chunks Used: ['chunk_70', 'chunk_35', 'chunk_25', 'chunk_24', 'chunk_26', 'chunk_46', 'chunk_48', 'chunk_27', 'chunk_55', 'chunk_14']
 Answer: According to State Travel Expense Act (LRKG) § C, the per diem allowance is granted for the period **until arrival at the new place of work**. It is granted until the end of the day of arrival if a separation allowance for staying away is received from the following day onward; in addition, an accommodation allowance is granted.
 
-Question 76 (Original Chunk ID: Chunk_35)
-Top-k Chunks Used: ['chunk_35', 'chunk_30', 'chunk_49', 'chunk_14', 'chunk_25', 'chunk_24', 'chunk_48', 'chunk_26', 'chunk_74', 'chunk_76']
+Question 74 (Original Chunk ID: Chunk_35)
 Question: How long does the daily allowance continue to be paid when someone is transferred, moved on secondment, or their secondment ends?
+Top-k Chunks Used: ['chunk_35', 'chunk_30', 'chunk_49', 'chunk_14', 'chunk_25', 'chunk_24', 'chunk_48', 'chunk_26', 'chunk_74', 'chunk_76']
 Answer: According to LRKG § C, the per diem allowance is granted for the period *until arrival at the new place of work*. It is granted until the end of the day of arrival, *if* from the following day onward a separation allowance for staying away is received; in addition, an accommodation allowance is granted.
 
-Question 77 (Original Chunk ID: Chunk_35)
-Top-k Chunks Used: ['chunk_70', 'chunk_26', 'chunk_25', 'chunk_24', 'chunk_35', 'chunk_46', 'chunk_27', 'chunk_48', 'chunk_30', 'chunk_55']
+Question 75 (Original Chunk ID: Chunk_35)
 Question: How long is the per diem allowance provided for on the day of arrival at a new place of work?
+Top-k Chunks Used: ['chunk_70', 'chunk_26', 'chunk_25', 'chunk_24', 'chunk_35', 'chunk_46', 'chunk_27', 'chunk_48', 'chunk_30', 'chunk_55']
 Answer: According to State Travel Expense Act (LRKG) § Determination of the Travel Expense Reimbursement in Special Cases C (), the per diem allowance (§ G) is granted for the period **until arrival at the new place of work**. Furthermore, it states the per diem is granted **until the end of the day of arrival** if a separation allowance for staying away is received from the following day onward.
 
-Question 78 (Original Chunk ID: Chunk_35)
-Top-k Chunks Used: ['chunk_12', 'chunk_35', 'chunk_7', 'chunk_30', 'chunk_38', 'chunk_14', 'chunk_40', 'chunk_37', 'chunk_49', 'chunk_26']
-Question: What is the amount of daily expense reimbursement given when beginning a work assignment in a new location?
-Answer: According to State Travel Expense Act (LRKG) § C, for official trips on the occasion of a transfer, secondment, or termination of a secondment, the **per diem allowance** (§ G) is granted for the period until arrival at the new place of work. 
+Question 76 (Original Chunk ID: Chunk_35)
+Question: On the arrival date at a new workplace, for what length of time is the per diem allowance applicable?
+Top-k Chunks Used: ['chunk_70', 'chunk_25', 'chunk_26', 'chunk_35', 'chunk_24', 'chunk_46', 'chunk_48', 'chunk_27', 'chunk_30', 'chunk_55']
+Answer: According to State Travel Expense Act (LRKG) § C Determination of the Travel Expense Reimbursement in Special Cases, the per diem allowance is granted for the period **until arrival at the new place of work**. Furthermore, it states the per diem is granted **until the end of the day of arrival** if a separation allowance for staying away is received from the following day onward.
 
-The per diem is granted until the end of the day of arrival, *if* from the following day onward a **separation allowance** for staying away is received; *in addition*, an **accommodation allowance** (§ ) is granted.
-
-The exact *amount* of the per diem and separation allowances is not specified in the provided text; it states the Ministry of Finance shall issue a regulation governing the separation allowance and refers to per diem allowance (§ G) without detailing its value.
-
-Question 79 (Original Chunk ID: Chunk_37)
-Top-k Chunks Used: ['chunk_37', 'chunk_16', 'chunk_40', 'chunk_7', 'chunk_39', 'chunk_34', 'chunk_2', 'chunk_36', 'chunk_55', 'chunk_38']
+Question 77 (Original Chunk ID: Chunk_37)
 Question: Will the travel expense reimbursement cover a vacation or another trip if I combine it with an official trip?
+Top-k Chunks Used: ['chunk_37', 'chunk_16', 'chunk_40', 'chunk_7', 'chunk_39', 'chunk_34', 'chunk_2', 'chunk_36', 'chunk_55', 'chunk_38']
 Answer: According to State Travel Expense Act (LRKG) § Determination of the Travel Expense Reimbursement in Special Cases, if an official trip is combined with a vacation or another private trip, the travel expense reimbursement shall be calculated *as if only the official trip were undertaken*. However, this reimbursement shall not exceed the travel expense reimbursement resulting from the actual course of the trip.
 
-Question 80 (Original Chunk ID: Chunk_37)
-Top-k Chunks Used: ['chunk_50', 'chunk_81', 'chunk_44', 'chunk_66', 'chunk_59', 'chunk_45', 'chunk_58', 'chunk_60', 'chunk_80', 'chunk_85']
-Question: Here's a paraphrase of your question
-Answer: Please provide the question. I need the question to be able to answer it using only the provided context. 
-
-I am ready when you are! Just paste the question here.
-
-Question 81 (Original Chunk ID: Chunk_37)
-Top-k Chunks Used: ['chunk_7', 'chunk_37', 'chunk_40', 'chunk_34', 'chunk_16', 'chunk_2', 'chunk_55', 'chunk_36', 'chunk_33', 'chunk_31']
+Question 78 (Original Chunk ID: Chunk_37)
 Question: If a business trip is combined with personal travel, will expenses be reimbursed for the entire trip?
+Top-k Chunks Used: ['chunk_7', 'chunk_37', 'chunk_40', 'chunk_34', 'chunk_16', 'chunk_2', 'chunk_55', 'chunk_36', 'chunk_33', 'chunk_31']
 Answer: No, expenses will not be reimbursed for the entire trip. According to State Travel Expense Act (LRKG) § Determination of the Travel Expense Reimbursement in Special Cases, if an official trip is combined with a vacation or another private trip, the travel expense reimbursement shall be calculated *as if only the official trip were undertaken*. Furthermore, the reimbursement shall not exceed what it would have been for the actual course of the trip.
 
-Question 82 (Original Chunk ID: Chunk_38)
-Top-k Chunks Used: ['chunk_12', 'chunk_38', 'chunk_37', 'chunk_40', 'chunk_39', 'chunk_14', 'chunk_35', 'chunk_7', 'chunk_34', 'chunk_42']
+Question 79 (Original Chunk ID: Chunk_38)
 Question: In case an official trip commences or concludes at the vacation location, how will the travel expense reimbursement be calculated?
-Answer: According to State Travel Expense Act (LRKG) § Determination of the Travel Expense Reimbursement in Special Cases (), if it is ordered or approved that the official trip is to commence or conclude at the vacation location, the travel expense reimbursement shall, contrary to paragraph , be calculated based on the departure from or arrival at that location. Paragraph , sentence applies accordingly.
+Top-k Chunks Used: ['chunk_12', 'chunk_38', 'chunk_37', 'chunk_40', 'chunk_39', 'chunk_14', 'chunk_35', 'chunk_7', 'chunk_34', 'chunk_42']
+Answer: According to State Travel Expense Act (LRKG) § , if it is ordered or approved that the official trip is to commence or conclude at the vacation location, the travel expense reimbursement shall be calculated based on the departure from or arrival at that location. Paragraph , sentence applies accordingly.
 
-Question 83 (Original Chunk ID: Chunk_38)
-Top-k Chunks Used: ['chunk_12', 'chunk_8', 'chunk_2', 'chunk_30', 'chunk_39', 'chunk_40', 'chunk_37', 'chunk_55', 'chunk_38', 'chunk_7']
+Question 80 (Original Chunk ID: Chunk_38)
 Question: How are travel costs handled when a business trip starts or ends at the same place as a personal vacation?
-Answer: According to § of the State Travel Expense Act (LRKG), if it is ordered or approved that the official trip is to commence or conclude at the vacation location, the travel expense reimbursement shall be calculated based on the departure from or arrival at that location, *contrary to paragraph 1*. Paragraph 2, sentence 2 applies accordingly.
+Top-k Chunks Used: ['chunk_12', 'chunk_8', 'chunk_2', 'chunk_30', 'chunk_39', 'chunk_40', 'chunk_37', 'chunk_55', 'chunk_38', 'chunk_7']
+Answer: According to § of the State Travel Expense Act (LRKG), if it is ordered or approved that the official trip is to commence or conclude at the vacation location, the travel expense reimbursement shall be calculated based on the departure from or arrival at that location, *contrary to paragraph 1*. Paragraph 2, sentence 1 applies accordingly.
 
-Essentially, normally travel costs would be calculated from the official premises or residence, but if specifically directed to start/end at the vacation location, the reimbursement is calculated *from/to* that vacation location instead.
+Essentially, normally travel costs would be calculated from/to the official premises or residence, but if specifically directed to start/end at the vacation location, the reimbursement is calculated *from/to the vacation location itself*.
 
-Question 84 (Original Chunk ID: Chunk_39)
-Top-k Chunks Used: ['chunk_39', 'chunk_14', 'chunk_12', 'chunk_34', 'chunk_40', 'chunk_38', 'chunk_16', 'chunk_37', 'chunk_35', 'chunk_36']
+Question 81 (Original Chunk ID: Chunk_39)
 Question: If the trip terminates early for official reasons, is the return journey to the official premises covered by travel expense reimbursement?
+Top-k Chunks Used: ['chunk_39', 'chunk_14', 'chunk_12', 'chunk_34', 'chunk_40', 'chunk_38', 'chunk_16', 'chunk_37', 'chunk_35', 'chunk_36']
 Answer: Yes, according to State Travel Expense Act (LRKG) § , if an official trip is terminated early for official reasons, the return journey from the vacation or stay location to the official premises shall be treated as an official trip for which travel expense reimbursement is granted.
 
-Question 85 (Original Chunk ID: Chunk_39)
-Top-k Chunks Used: ['chunk_50', 'chunk_81', 'chunk_44', 'chunk_66', 'chunk_59', 'chunk_45', 'chunk_58', 'chunk_60', 'chunk_80', 'chunk_85']
-Question: Here's a paraphrase of your question
-Answer: Please provide the question. I need the question to be able to answer it using only the provided context. 
-
-I am ready when you are! Just paste the question here.
-
-Question 86 (Original Chunk ID: Chunk_39)
-Top-k Chunks Used: ['chunk_14', 'chunk_40', 'chunk_39', 'chunk_34', 'chunk_36', 'chunk_7', 'chunk_16', 'chunk_37', 'chunk_55', 'chunk_2']
+Question 82 (Original Chunk ID: Chunk_39)
 Question: Would travel expenses for the return trip be reimbursed if a trip is cut short due to work-related issues?
+Top-k Chunks Used: ['chunk_14', 'chunk_40', 'chunk_39', 'chunk_34', 'chunk_36', 'chunk_7', 'chunk_16', 'chunk_37', 'chunk_55', 'chunk_2']
 Answer: Yes, travel expenses for the return trip would be reimbursed if a trip is cut short due to work-related issues. 
 
-According to State Travel Expense Act (LRKG) § , "If, for official reasons, the early termination of a vacation or another private trip is ordered, the return journey from the vacation or stay location to the official premises shall be treated as an official trip for which travel expense reimbursement is granted."
+According to State Travel Expense Act (LRKG) § , “If, for official reasons, the early termination of a vacation or another private trip is ordered, the return journey from the vacation or stay location to the official premises shall be treated as an official trip for which travel expense reimbursement is granted.”
 
-Question 87 (Original Chunk ID: Chunk_40)
-Top-k Chunks Used: ['chunk_40', 'chunk_34', 'chunk_16', 'chunk_7', 'chunk_36', 'chunk_39', 'chunk_14', 'chunk_35', 'chunk_37', 'chunk_12']
+Question 83 (Original Chunk ID: Chunk_40)
 Question: If a trip is interrupted, are the expenses of persons accompanying me also reimbursed, or only my expenses?
+Top-k Chunks Used: ['chunk_40', 'chunk_34', 'chunk_16', 'chunk_7', 'chunk_36', 'chunk_39', 'chunk_14', 'chunk_35', 'chunk_37', 'chunk_12']
 Answer: According to State Travel Expense Act (LRKG) § Determination of the Travel Expense Reimbursement in Special Cases, expenses of the official traveler **and any accompanying persons** that arise due to the interruption of a trip shall be reimbursed to an appropriate extent.
 
-Question 88 (Original Chunk ID: Chunk_40)
-Top-k Chunks Used: ['chunk_2', 'chunk_48', 'chunk_57', 'chunk_55', 'chunk_18', 'chunk_12', 'chunk_20', 'chunk_13', 'chunk_41', 'chunk_7']
+Question 84 (Original Chunk ID: Chunk_40)
 Question: When a trip is cut short, does coverage extend to the costs of those traveling with me, or just my own?
-Answer: The provided text does **not** contain information about whether travel expense coverage extends to costs for those traveling *with* you when a trip is cut short, or if it only covers your own expenses. It focuses solely on the expenses of the "official traveler" and doesn't address companion costs. 
+Top-k Chunks Used: ['chunk_2', 'chunk_48', 'chunk_57', 'chunk_55', 'chunk_18', 'chunk_12', 'chunk_20', 'chunk_13', 'chunk_41', 'chunk_7']
+Answer: The provided text does **not** contain information about whether travel expense coverage extends to costs for those traveling *with* you when a trip is cut short, or if it only covers your own expenses. It focuses solely on the expenses of the "official traveler." 
 
-Therefore, based on the context, we cannot answer the question.
+The text details reimbursement for the official traveler's:
 
-Question 89 (Original Chunk ID: Chunk_41)
-Top-k Chunks Used: ['chunk_41', 'chunk_55', 'chunk_19', 'chunk_57', 'chunk_36', 'chunk_2', 'chunk_48', 'chunk_18', 'chunk_28', 'chunk_7']
+*   Travel and flight costs (§ )
+*   Mileage allowance (§ )
+*   Per diem allowance (§ G)
+*   Accommodation allowance (§ )
+*   Expenses during extended stays (§ )
+*   Other costs (§ )
+
+There is no mention of coverage for companions or anyone other than the official traveler.
+
+Question 85 (Original Chunk ID: Chunk_41)
 Question: If I get hospitalized during my official trip, will I have to cover the necessary expenses?
+Top-k Chunks Used: ['chunk_41', 'chunk_55', 'chunk_19', 'chunk_57', 'chunk_36', 'chunk_2', 'chunk_48', 'chunk_18', 'chunk_28', 'chunk_7']
 Answer: No, you will not have to cover the necessary expenses if you are hospitalized during your official trip. 
 
 According to State Travel Expense Act (LRKG) § Determination of the Travel Expense Reimbursement in Special Cases, if official travelers fall ill and are admitted to a hospital, the necessary expenses for accommodation at the business location shall be reimbursed for each full calendar day of the hospital stay.
 
-Question 90 (Original Chunk ID: Chunk_41)
-Top-k Chunks Used: ['chunk_41', 'chunk_36', 'chunk_40', 'chunk_31', 'chunk_35', 'chunk_19', 'chunk_21', 'chunk_16', 'chunk_18', 'chunk_8']
+Question 86 (Original Chunk ID: Chunk_41)
 Question: Who is financially responsible for hospital bills incurred while traveling for work?
+Top-k Chunks Used: ['chunk_41', 'chunk_36', 'chunk_40', 'chunk_31', 'chunk_35', 'chunk_19', 'chunk_21', 'chunk_16', 'chunk_18', 'chunk_8']
 Answer: According to State Travel Expense Act (LRKG) § Determination of the Travel Expense Reimbursement in Special Cases, if official travelers fall ill and are admitted to a hospital, the **necessary expenses for accommodation at the business location shall be reimbursed** for each full calendar day of the hospital stay.
 
 The context does not state who pays the *hospital bills* themselves, only that accommodation costs are reimbursed.
 
-Question 91 (Original Chunk ID: Chunk_41)
-Top-k Chunks Used: ['chunk_41', 'chunk_48', 'chunk_5', 'chunk_18', 'chunk_19', 'chunk_55', 'chunk_36', 'chunk_2', 'chunk_7', 'chunk_34']
+Question 87 (Original Chunk ID: Chunk_41)
 Question: What happens with medical costs if I require hospitalization on a business trip?
+Top-k Chunks Used: ['chunk_41', 'chunk_48', 'chunk_5', 'chunk_18', 'chunk_19', 'chunk_55', 'chunk_36', 'chunk_2', 'chunk_7', 'chunk_34']
 Answer: According to State Travel Expense Act (LRKG) § Determination of the Travel Expense Reimbursement in Special Cases, if official travelers fall ill and are admitted to a hospital, the necessary expenses for accommodation at the business location shall be reimbursed for each full calendar day of the hospital stay.
 
 The text *does not* state that medical costs themselves are reimbursed, only accommodation costs.
 
-Question 92 (Original Chunk ID: Chunk_41)
-Top-k Chunks Used: ['chunk_41', 'chunk_7', 'chunk_48', 'chunk_19', 'chunk_2', 'chunk_35', 'chunk_1', 'chunk_55', 'chunk_40', 'chunk_13']
+Question 88 (Original Chunk ID: Chunk_41)
 Question: Will my company/travel insurance cover hospitalization expenses during work travel?
+Top-k Chunks Used: ['chunk_41', 'chunk_7', 'chunk_48', 'chunk_19', 'chunk_2', 'chunk_35', 'chunk_1', 'chunk_55', 'chunk_40', 'chunk_13']
 Answer: Yes, according to State Travel Expense Act (LRKG) § Determination of the Travel Expense Reimbursement in Special Cases, if official travelers fall ill and are admitted to a hospital, the necessary expenses for accommodation at the business location shall be reimbursed for each full calendar day of the hospital stay.
 
 The provided text does *not* mention company or travel insurance covering these expenses, only that the state will reimburse accommodation costs related to the hospitalization.
 
-Question 93 (Original Chunk ID: Chunk_42)
-Top-k Chunks Used: ['chunk_12', 'chunk_16', 'chunk_42', 'chunk_40', 'chunk_39', 'chunk_38', 'chunk_37', 'chunk_13', 'chunk_34', 'chunk_7']
+Question 89 (Original Chunk ID: Chunk_42)
 Question: Will journeys between the residence and the regular official premises be reimbursed?
+Top-k Chunks Used: ['chunk_12', 'chunk_16', 'chunk_42', 'chunk_40', 'chunk_39', 'chunk_38', 'chunk_37', 'chunk_13', 'chunk_34', 'chunk_7']
 Answer: According to State Travel Expense Act (LRKG) § Determination of the Travel Expense Reimbursement in Special Cases (), journeys between the residence and the regular official premises undertaken for a **special official reason** may have their necessary travel costs reimbursed.
 
-Question 94 (Original Chunk ID: Chunk_42)
-Top-k Chunks Used: ['chunk_50', 'chunk_81', 'chunk_44', 'chunk_66', 'chunk_59', 'chunk_45', 'chunk_58', 'chunk_60', 'chunk_80', 'chunk_85']
-Question: Here's a paraphrase of your question
-Answer: Please provide the question. I need the question to be able to answer it using only the provided context. 
-
-I am ready when you are! Just paste the question here.
-
-Question 95 (Original Chunk ID: Chunk_42)
-Top-k Chunks Used: ['chunk_8', 'chunk_9', 'chunk_41', 'chunk_12', 'chunk_43', 'chunk_49', 'chunk_63', 'chunk_71', 'chunk_30', 'chunk_7']
+Question 90 (Original Chunk ID: Chunk_42)
 Question: Is travel between an employee's home and their usual work location eligible for expense coverage?
+Top-k Chunks Used: ['chunk_8', 'chunk_9', 'chunk_41', 'chunk_12', 'chunk_43', 'chunk_49', 'chunk_63', 'chunk_71', 'chunk_30', 'chunk_7']
 Answer: Based on the provided text, travel between an employee's home and their usual work location is **not generally** eligible for expense coverage under the State Travel Expense Act (LRKG). 
 
 Here's why:
 
 * **§ Official Trips and Errands:** Defines official trips as journeys *outside* the usual place of work. Official errands are defined as journeys conducted at the place of work or residence *outside* the official premises.
 * **§ Entitlement to Travel Expense Reimbursement:** States the starting and ending points of an official trip are determined by cost-effectiveness, implying travel *to* a different location for work is what qualifies.
-* **Explanatory Memorandum B regarding §:** Clarifies the definition of "residence" in travel expense law is intended to *avoid* reimbursing privately incurred high travel costs – meaning regular commutes are not the intention of the act.
+* **Explanatory Memorandum B regarding §:** Clarifies the definition of "residence" in travel expense law is intended to *avoid* reimbursement of privately incurred high travel costs – meaning commuting is not the purpose of this act.
 
-Question 96 (Original Chunk ID: Chunk_43)
-Top-k Chunks Used: ['chunk_43', 'chunk_8', 'chunk_47', 'chunk_9', 'chunk_63', 'chunk_64', 'chunk_10', 'chunk_46', 'chunk_45', 'chunk_48']
+Question 91 (Original Chunk ID: Chunk_43)
 Question: What is considered an official trip abroad?
+Top-k Chunks Used: ['chunk_43', 'chunk_8', 'chunk_47', 'chunk_9', 'chunk_63', 'chunk_64', 'chunk_10', 'chunk_46', 'chunk_45', 'chunk_48']
 Answer: According to the State Travel Expense Act (LRKG), an official trip abroad is a trip **between the domestic territory and foreign countries as well as within foreign countries, with at least one business location located abroad.**
 
-Question 97 (Original Chunk ID: Chunk_43)
-Top-k Chunks Used: ['chunk_43', 'chunk_8', 'chunk_64', 'chunk_47', 'chunk_9', 'chunk_63', 'chunk_71', 'chunk_2', 'chunk_10', 'chunk_83']
+Question 92 (Original Chunk ID: Chunk_43)
 Question: Could you please define what qualifies as official international travel?
+Top-k Chunks Used: ['chunk_43', 'chunk_8', 'chunk_64', 'chunk_47', 'chunk_9', 'chunk_63', 'chunk_71', 'chunk_2', 'chunk_10', 'chunk_83']
 Answer: According to the State Travel Expense Act (LRKG) § Official Trips Abroad, official international travel is defined as **trips between the domestic territory and foreign countries as well as within foreign countries, where at least one business location must be located abroad.**
 
-Question 98 (Original Chunk ID: Chunk_46)
-Top-k Chunks Used: ['chunk_46', 'chunk_24', 'chunk_48', 'chunk_45', 'chunk_26', 'chunk_35', 'chunk_25', 'chunk_27', 'chunk_28', 'chunk_55']
+Question 93 (Original Chunk ID: Chunk_46)
 Question: For official trips abroad, which country will the per diem and accommodation allowance be granted for?
+Top-k Chunks Used: ['chunk_46', 'chunk_24', 'chunk_48', 'chunk_45', 'chunk_26', 'chunk_35', 'chunk_25', 'chunk_27', 'chunk_28', 'chunk_55']
 Answer: According to State Travel Expense Act (LRKG) § , the per diem and accommodation allowance shall be granted for the country that the official traveler last reaches before midnight local time. 
 
 If, during an official trip abroad, the domestic territory is reached last before midnight, foreign per diem shall be granted for the country of the last business location abroad.
 
-Question 99 (Original Chunk ID: Chunk_46)
-Top-k Chunks Used: ['chunk_46', 'chunk_48', 'chunk_45', 'chunk_55', 'chunk_2', 'chunk_24', 'chunk_63', 'chunk_28', 'chunk_25', 'chunk_57']
+Question 94 (Original Chunk ID: Chunk_46)
 Question: Could you clarify which nation will have per diem and lodging expenses covered for official international travel?
+Top-k Chunks Used: ['chunk_46', 'chunk_48', 'chunk_45', 'chunk_55', 'chunk_2', 'chunk_24', 'chunk_63', 'chunk_28', 'chunk_25', 'chunk_57']
 Answer: The per diem and accommodation allowance shall be granted for the country that the official traveler **last reaches before midnight local time**. If domestic territory is reached last before midnight during an official trip abroad, foreign per diem shall be granted for the country of the **last business location abroad**.
 
-Question 100 (Original Chunk ID: Chunk_46)
-Top-k Chunks Used: ['chunk_46', 'chunk_24', 'chunk_25', 'chunk_48', 'chunk_26', 'chunk_35', 'chunk_27', 'chunk_45', 'chunk_70', 'chunk_47']
+Question 95 (Original Chunk ID: Chunk_46)
 Question: If I finish my work abroad and then fly home, arriving just before midnight, do I get the per diem rate for the visited country for that last day?
-Answer: Yes, you would get the per diem rate for the visited country for that last day. 
+Top-k Chunks Used: ['chunk_46', 'chunk_24', 'chunk_25', 'chunk_48', 'chunk_26', 'chunk_35', 'chunk_27', 'chunk_45', 'chunk_70', 'chunk_47']
+Answer: Yes, you would get the per diem rate for the visited country for that last day.
 
-According to **State Travel Expense Act (LRKG) § Official Trips Abroad**, the per diem and accommodation allowance shall be granted for the country that the official traveler last reaches before midnight local time. Since you arrive just before midnight, the per diem for the country you flew from will apply.
+According to **State Travel Expense Act (LRKG) § Official Trips Abroad()**, the per diem and accommodation allowance shall be granted for the country that the official traveler last reaches before midnight local time. Since you arrive home *just before midnight*, the foreign per diem applies for the country you last reached abroad.
 
-Question 101 (Original Chunk ID: Chunk_46)
-Top-k Chunks Used: ['chunk_46', 'chunk_47', 'chunk_48', 'chunk_35', 'chunk_30', 'chunk_24', 'chunk_26', 'chunk_55', 'chunk_74', 'chunk_2']
-Question: Are you asking whether you’d still receive the daily allowance for the country you were working in, even if your return flight lands very late on your last day there?
-Answer: Yes, you would still receive the foreign per diem for the country you were working in, even if your return flight lands very late on your last day. 
+Question 96 (Original Chunk ID: Chunk_46)
+Question: Do I still receive the daily allowance for the country I was working in, even if my return flight lands very late on your last day there?
+Top-k Chunks Used: ['chunk_46', 'chunk_47', 'chunk_48', 'chunk_24', 'chunk_30', 'chunk_35', 'chunk_26', 'chunk_45', 'chunk_14', 'chunk_74']
+Answer: Yes, you would still receive the daily allowance for the country you were working in. 
 
-According to **State Travel Expense Act (LRKG) § Official Trips Abroad ()**, the per diem and accommodation allowance are granted for the country the official traveler *last reaches before midnight local time*. This means if your flight lands before midnight, that country counts for per diem purposes, even if it’s your return day.
+According to **State Travel Expense Act (LRKG) § Official Trips Abroad ()**, the per diem and accommodation allowance are granted for the country the official traveler *last reaches before midnight local time*. Since your return flight lands very late on your last day, you haven’t reached domestic territory *before* midnight local time, and therefore the foreign per diem applies.
 
-Question 102 (Original Chunk ID: Chunk_47)
-Top-k Chunks Used: ['chunk_47', 'chunk_64', 'chunk_43', 'chunk_46', 'chunk_30', 'chunk_25', 'chunk_45', 'chunk_12', 'chunk_2', 'chunk_8']
+Question 97 (Original Chunk ID: Chunk_47)
 Question: In case of air travel, when is the country considered to have been reached?
+Top-k Chunks Used: ['chunk_47', 'chunk_64', 'chunk_43', 'chunk_46', 'chunk_30', 'chunk_25', 'chunk_45', 'chunk_12', 'chunk_2', 'chunk_8']
 Answer: According to State Travel Expense Act (LRKG) § Official Trips Abroad (), a country is deemed reached at the time the airplane lands there.
 
-Question 103 (Original Chunk ID: Chunk_47)
-Top-k Chunks Used: ['chunk_47', 'chunk_46', 'chunk_64', 'chunk_25', 'chunk_43', 'chunk_8', 'chunk_30', 'chunk_9', 'chunk_38', 'chunk_12']
+Question 98 (Original Chunk ID: Chunk_47)
 Question: When does arrival in a country officially occur for those traveling by plane?
+Top-k Chunks Used: ['chunk_47', 'chunk_46', 'chunk_64', 'chunk_25', 'chunk_43', 'chunk_8', 'chunk_30', 'chunk_9', 'chunk_38', 'chunk_12']
 Answer: According to State Travel Expense Act (LRKG) § Official Trips Abroad, a country is deemed reached at the time the airplane **lands** there.
 
-Question 104 (Original Chunk ID: Chunk_47)
-Top-k Chunks Used: ['chunk_39', 'chunk_47', 'chunk_34', 'chunk_18', 'chunk_35', 'chunk_14', 'chunk_40', 'chunk_16', 'chunk_2', 'chunk_12']
+Question 99 (Original Chunk ID: Chunk_47)
 Question: Under what condition is an airplane stopover covered by the travel reimbursement act?
+Top-k Chunks Used: ['chunk_39', 'chunk_47', 'chunk_34', 'chunk_18', 'chunk_35', 'chunk_14', 'chunk_40', 'chunk_16', 'chunk_2', 'chunk_12']
 Answer: According to State Travel Expense Act (LRKG) § Official Trips Abroad, a stopover is disregarded *unless* it necessitates an overnight stay. 
 
 Therefore, an airplane stopover is covered by the travel reimbursement act **if it necessitates an overnight stay.**
 
-Question 105 (Original Chunk ID: Chunk_47)
-Top-k Chunks Used: ['chunk_7', 'chunk_2', 'chunk_18', 'chunk_55', 'chunk_40', 'chunk_19', 'chunk_16', 'chunk_34', 'chunk_39', 'chunk_36']
+Question 100 (Original Chunk ID: Chunk_47)
 Question: Could you clarify the circumstances that would qualify an airplane layover for expense coverage under the travel reimbursement act?
+Top-k Chunks Used: ['chunk_7', 'chunk_2', 'chunk_18', 'chunk_55', 'chunk_40', 'chunk_19', 'chunk_16', 'chunk_34', 'chunk_39', 'chunk_36']
 Answer: The provided text doesn't specifically address airplane layovers. However, it does outline the general principles for travel and flight cost reimbursement. Here's what we can infer from the text:
 
 *   **Reimbursement of Travel and Flight Costs (§ ):** "Necessary costs incurred for journeys...shall be reimbursed up to the cost of the lowest travel class." This suggests that costs *directly* related to the journey, including potential costs incurred *during* the journey (like a layover if it involves necessary expenses), would be considered.
@@ -822,129 +787,122 @@ Answer: The provided text doesn't specifically address airplane layovers. Howeve
 
 **Therefore, a layover would likely qualify for expense coverage if it involves "necessary costs" incurred during the journey or results in an interruption to the planned travel.** The specific expenses covered (e.g., meals, accommodation if the layover is extended) would be reimbursed up to the limits outlined in the Act (lowest travel class for flights, per diem allowances, etc.).
 
-Question 106 (Original Chunk ID: Chunk_48)
-Top-k Chunks Used: ['chunk_48', 'chunk_46', 'chunk_25', 'chunk_30', 'chunk_24', 'chunk_35', 'chunk_45', 'chunk_70', 'chunk_26', 'chunk_55']
+Question 101 (Original Chunk ID: Chunk_48)
 Question: Does the foreign per diem change after 14 days of staying at the same business location?
+Top-k Chunks Used: ['chunk_48', 'chunk_46', 'chunk_25', 'chunk_30', 'chunk_24', 'chunk_35', 'chunk_45', 'chunk_70', 'chunk_26', 'chunk_55']
 Answer: Yes, the foreign per diem changes after staying at the same foreign business location for more than 14 days. 
 
 According to State Travel Expense Act (LRKG) § Official Trips Abroad (), if the stay at the same foreign business location (excluding departure and return days) lasts longer than 14 days, the foreign per diem is reduced by a certain percent from the 15th day onward. Additionally, instead of the lump sum accommodation allowance, necessary documented accommodation costs shall be reimbursed from the 15th day onward.
 
-Question 107 (Original Chunk ID: Chunk_48)
-Top-k Chunks Used: ['chunk_50', 'chunk_81', 'chunk_44', 'chunk_66', 'chunk_59', 'chunk_45', 'chunk_58', 'chunk_60', 'chunk_80', 'chunk_85']
-Question: Here's a paraphrase of your question
-Answer: Please provide the question. I need the question to be able to answer it using only the provided context. 
-
-I am ready when you are! Just paste the question here.
-
-Question 108 (Original Chunk ID: Chunk_48)
-Top-k Chunks Used: ['chunk_30', 'chunk_48', 'chunk_49', 'chunk_55', 'chunk_46', 'chunk_2', 'chunk_35', 'chunk_45', 'chunk_29', 'chunk_43']
+Question 102 (Original Chunk ID: Chunk_48)
 Question: If someone remains at the same business location overseas for an extended period, is the daily allowance adjusted?
+Top-k Chunks Used: ['chunk_30', 'chunk_48', 'chunk_49', 'chunk_55', 'chunk_46', 'chunk_2', 'chunk_35', 'chunk_45', 'chunk_29', 'chunk_43']
 Answer: Yes, the daily allowance is adjusted for extended stays at overseas business locations. 
 
 According to **State Travel Expense Act (LRKG) § Official Trips Abroad ()**, if a stay at the same foreign business location (excluding departure and return days) lasts longer than a certain number of days (the number of days is missing from the provided text, but it exists in the original act), the foreign per diem according to paragraph shall be reduced by a certain percentage (also missing from the text) from the specified day onward. Additionally, instead of a lump sum accommodation allowance, documented accommodation costs are reimbursed from that same day onward.
 
-Question 109 (Original Chunk ID: Chunk_48)
-Top-k Chunks Used: ['chunk_48', 'chunk_46', 'chunk_70', 'chunk_24', 'chunk_25', 'chunk_35', 'chunk_26', 'chunk_27', 'chunk_55', 'chunk_45']
+Question 103 (Original Chunk ID: Chunk_48)
 Question: From which day of a long stay abroad does the per diem reduction take effect?
+Top-k Chunks Used: ['chunk_48', 'chunk_46', 'chunk_70', 'chunk_24', 'chunk_25', 'chunk_35', 'chunk_26', 'chunk_27', 'chunk_55', 'chunk_45']
 Answer: According to State Travel Expense Act (LRKG) § Official Trips Abroad (), the foreign per diem is reduced by a certain percent from the **th day** onward (of a stay at the same foreign business location lasting longer than days). 
 
 The exact number of days and the percentage of reduction are not specified in the provided text, only that a reduction begins "from the th day onward."
 
-Question 110 (Original Chunk ID: Chunk_48)
-Top-k Chunks Used: ['chunk_30', 'chunk_48', 'chunk_24', 'chunk_55', 'chunk_35', 'chunk_14', 'chunk_2', 'chunk_57', 'chunk_26', 'chunk_25']
+Question 104 (Original Chunk ID: Chunk_48)
 Question: When traveling for an extended period, on what date does the daily allowance decrease?
+Top-k Chunks Used: ['chunk_30', 'chunk_48', 'chunk_24', 'chunk_55', 'chunk_35', 'chunk_14', 'chunk_2', 'chunk_57', 'chunk_26', 'chunk_25']
 Answer: Here's the answer, based solely on the provided text:
 
-For an extended stay at the same **foreign** business location, the foreign per diem is reduced by a certain percentage from the **third day** onward (excluding departure and return days).
+For an extended stay at the same **foreign** business location, the foreign per diem is reduced by a certain percentage from the **8th day** onward (excluding departure and return days).
 
-For an extended stay at the same **external** business location, the same reimbursement is granted as would be provided in the case of a secondment from the **eighth day** onward.
+For an extended stay at the same **business** location, the same reimbursement is granted as would be provided in the case of a secondment from the **eighth day** onward.
 
-Question 111 (Original Chunk ID: Chunk_49)
-Top-k Chunks Used: ['chunk_49', 'chunk_76', 'chunk_50', 'chunk_35', 'chunk_55', 'chunk_26', 'chunk_48', 'chunk_75', 'chunk_69', 'chunk_82']
+Question 105 (Original Chunk ID: Chunk_49)
 Question: Who can receive a separation allowance?
+Top-k Chunks Used: ['chunk_49', 'chunk_76', 'chunk_50', 'chunk_35', 'chunk_55', 'chunk_26', 'chunk_48', 'chunk_75', 'chunk_69', 'chunk_82']
 Answer: According to the State Travel Expense Act (LRKG), a separation allowance can be received by:
 
 1. **Officials and judges** who are seconded to a location outside their official or residential area without a promise of moving expense reimbursement.
 2. **Officials** experiencing temporary assignments for official reasons to another part of the employment authority or to another institution.
 3. **Officials on probation** in the preparatory service during secondments within the framework of training, or a training/induction period necessary for obtaining qualifications. Specifically, they receive a percentage of the compensation provided in paragraph 1.
 
-Question 112 (Original Chunk ID: Chunk_49)
-Top-k Chunks Used: ['chunk_76', 'chunk_49', 'chunk_50', 'chunk_75', 'chunk_82', 'chunk_55', 'chunk_85', 'chunk_72', 'chunk_69', 'chunk_78']
+Question 106 (Original Chunk ID: Chunk_49)
 Question: What are the eligibility requirements for a separation allowance?
+Top-k Chunks Used: ['chunk_76', 'chunk_49', 'chunk_50', 'chunk_75', 'chunk_82', 'chunk_55', 'chunk_85', 'chunk_72', 'chunk_69', 'chunk_78']
 Answer: According to the State Travel Expense Act (LRKG) §, officials and judges who are seconded to a location outside their official or residential area *without a promise of moving expense reimbursement* shall receive a separation allowance. This also applies to temporary assignments for official reasons to another part of the employment authority or to another institution.
 
 Furthermore, officials on probation in the preparatory service receive a percentage of the allowance during secondments within the framework of training. A secondment is also deemed equivalent to an assignment under § of the Civil Servants Act.
 
-Question 113 (Original Chunk ID: Chunk_49)
-Top-k Chunks Used: ['chunk_76', 'chunk_49', 'chunk_50', 'chunk_75', 'chunk_35', 'chunk_55', 'chunk_80', 'chunk_82', 'chunk_73', 'chunk_71']
+Question 107 (Original Chunk ID: Chunk_49)
 Question: To whom is a separation allowance provided?
+Top-k Chunks Used: ['chunk_76', 'chunk_49', 'chunk_50', 'chunk_75', 'chunk_35', 'chunk_55', 'chunk_80', 'chunk_82', 'chunk_73', 'chunk_71']
 Answer: According to the State Travel Expense Act (LRKG) § , a separation allowance is provided to **officials and judges who are seconded to a location outside their official or residential area without a promise of moving expense reimbursement**. It also applies to **temporary assignments for official reasons to another part of the employment authority and to temporary official duties at another institution than an office**.
 
 Additionally, **officials on probation in the preparatory service** receive a percentage of the compensation provided for secondments within the framework of training (LRKG § ).
 
-Question 114 (Original Chunk ID: Chunk_49)
-Top-k Chunks Used: ['chunk_49', 'chunk_76', 'chunk_50', 'chunk_75', 'chunk_82', 'chunk_69', 'chunk_55', 'chunk_35', 'chunk_71', 'chunk_26']
+Question 108 (Original Chunk ID: Chunk_49)
 Question: Who qualifies for a separation allowance?
+Top-k Chunks Used: ['chunk_49', 'chunk_76', 'chunk_50', 'chunk_75', 'chunk_82', 'chunk_69', 'chunk_55', 'chunk_35', 'chunk_71', 'chunk_26']
 Answer: According to the State Travel Expense Act (LRKG) § , officials and judges who are seconded to a location outside their official or residential area without a promise of moving expense reimbursement qualify for a separation allowance. This also applies to temporary assignments to another part of the employment authority or to another institution.
 
 Additionally, officials on probation in the preparatory service receive a percentage of the compensation provided for secondments within the framework of training.
 
-Question 115 (Original Chunk ID: Chunk_50)
-Top-k Chunks Used: ['chunk_50', 'chunk_49', 'chunk_76', 'chunk_84', 'chunk_35', 'chunk_74', 'chunk_75', 'chunk_82', 'chunk_85', 'chunk_81']
+Question 109 (Original Chunk ID: Chunk_50)
 Question: As an official on probation in the preparatory service, do I receive separation allowance?
+Top-k Chunks Used: ['chunk_50', 'chunk_49', 'chunk_76', 'chunk_84', 'chunk_35', 'chunk_74', 'chunk_75', 'chunk_82', 'chunk_85', 'chunk_81']
 Answer: According to State Travel Expense Act (LRKG) § , officials on probation in the preparatory service receive a percentage of the compensation provided in paragraph in the case of secondments within the framework of training. This implies they *do* receive some form of allowance related to separation during training secondments, though it's not the full separation allowance described in § .
 
 Additionally, sentence also applies in the case of secondments within the framework of training or induction service. This further reinforces that a form of allowance is provided during training.
 
-Question 116 (Original Chunk ID: Chunk_50)
-Top-k Chunks Used: ['chunk_50', 'chunk_49', 'chunk_76', 'chunk_74', 'chunk_84', 'chunk_75', 'chunk_82', 'chunk_29', 'chunk_35', 'chunk_81']
+Question 110 (Original Chunk ID: Chunk_50)
 Question: Are individuals on probationary status within a preparatory service eligible for a separation allowance?
+Top-k Chunks Used: ['chunk_50', 'chunk_49', 'chunk_76', 'chunk_74', 'chunk_84', 'chunk_75', 'chunk_82', 'chunk_29', 'chunk_35', 'chunk_81']
 Answer: According to State Travel Expense Act (LRKG) § , officials on probation in the preparatory service receive a percentage of the compensation provided in paragraph in the case of secondments within the framework of training. This implies they *are* eligible for some form of financial support during secondments for training, which could be related to a separation allowance.
 
-However, § specifically addresses separation allowances for officials and judges seconded *without* a promise of moving expense reimbursement. The text doesn't explicitly state whether probationary officials fall under this category.
+However, § specifically addresses separation allowances for officials and judges seconded *without* a promise of moving expense reimbursement. The text doesn't directly state whether probationary officials fall under this category. 
 
-Therefore, based *solely* on the provided text, it's not definitively clear if probationary officials are eligible for the *full* separation allowance described in § , but they are eligible for some compensation related to secondments for training as outlined in § .
+The most relevant information is that § states sentence also applies in the case of secondments within the framework of training or induction service. This suggests that the provisions regarding separation allowances *can* apply to those on training secondments, even if they are on probationary status.
 
-Question 117 (Original Chunk ID: Chunk_53)
-Top-k Chunks Used: ['chunk_3', 'chunk_5', 'chunk_14', 'chunk_53', 'chunk_54', 'chunk_1', 'chunk_2', 'chunk_40', 'chunk_6', 'chunk_52']
+Question 111 (Original Chunk ID: Chunk_53)
 Question: When will this new travel expense act be applied?
+Top-k Chunks Used: ['chunk_3', 'chunk_5', 'chunk_14', 'chunk_53', 'chunk_54', 'chunk_1', 'chunk_2', 'chunk_40', 'chunk_6', 'chunk_52']
 Answer: According to the State Travel Expense Act (LRKG) § 4 (Entry into Force), this Act shall enter into force on January 1, 2024. At the same time, several previous regulations will lapse.
 
-Question 118 (Original Chunk ID: Chunk_53)
-Top-k Chunks Used: ['chunk_3', 'chunk_5', 'chunk_2', 'chunk_14', 'chunk_54', 'chunk_1', 'chunk_40', 'chunk_53', 'chunk_6', 'chunk_39']
+Question 112 (Original Chunk ID: Chunk_53)
 Question: When does the new travel expense act go into effect?
+Top-k Chunks Used: ['chunk_3', 'chunk_5', 'chunk_2', 'chunk_14', 'chunk_54', 'chunk_1', 'chunk_40', 'chunk_53', 'chunk_6', 'chunk_39']
 Answer: According to the State Travel Expense Act (LRKG) § 8 Entry into Force, the new act shall enter into force on **January 1, 2024**.
 
-Question 119 (Original Chunk ID: Chunk_53)
-Top-k Chunks Used: ['chunk_3', 'chunk_5', 'chunk_14', 'chunk_53', 'chunk_54', 'chunk_2', 'chunk_36', 'chunk_40', 'chunk_6', 'chunk_1']
+Question 113 (Original Chunk ID: Chunk_53)
 Question: What is the effective date of this new travel expense act?
+Top-k Chunks Used: ['chunk_3', 'chunk_5', 'chunk_14', 'chunk_53', 'chunk_54', 'chunk_2', 'chunk_36', 'chunk_40', 'chunk_6', 'chunk_1']
 Answer: According to State Travel Expense Act (LRKG) § Entry into Force, this Act shall enter into force on **January ,**.
 
-Question 120 (Original Chunk ID: Chunk_53)
-Top-k Chunks Used: ['chunk_3', 'chunk_5', 'chunk_2', 'chunk_54', 'chunk_1', 'chunk_6', 'chunk_53', 'chunk_14', 'chunk_52', 'chunk_40']
+Question 114 (Original Chunk ID: Chunk_53)
 Question: When will the new travel expense act be implemented?
+Top-k Chunks Used: ['chunk_3', 'chunk_5', 'chunk_2', 'chunk_54', 'chunk_1', 'chunk_6', 'chunk_53', 'chunk_14', 'chunk_52', 'chunk_40']
 Answer: According to the text, the new travel expense act will enter into force on **January ,**.
 
-Question 121 (Original Chunk ID: Chunk_57)
-Top-k Chunks Used: ['chunk_5', 'chunk_3', 'chunk_2', 'chunk_7', 'chunk_36', 'chunk_4', 'chunk_18', 'chunk_20', 'chunk_13', 'chunk_40']
+Question 115 (Original Chunk ID: Chunk_57)
 Question: Why are there additional costs in the new travel expense act?
+Top-k Chunks Used: ['chunk_5', 'chunk_3', 'chunk_2', 'chunk_7', 'chunk_36', 'chunk_4', 'chunk_18', 'chunk_20', 'chunk_13', 'chunk_40']
 Answer: According to Preliminary Page D, additional costs estimated at , euros result from the **climate compensation payment for officially required flights**.
 
-Question 122 (Original Chunk ID: Chunk_57)
-Top-k Chunks Used: ['chunk_2', 'chunk_57', 'chunk_55', 'chunk_4', 'chunk_54', 'chunk_3', 'chunk_5', 'chunk_1', 'chunk_7', 'chunk_36']
+Question 116 (Original Chunk ID: Chunk_57)
 Question: Could you explain the reasons for the increased expenses outlined in the updated travel policy?
+Top-k Chunks Used: ['chunk_2', 'chunk_57', 'chunk_55', 'chunk_4', 'chunk_54', 'chunk_3', 'chunk_5', 'chunk_1', 'chunk_7', 'chunk_36']
 Answer: According to the provided text, the increased expenses are due to the **statutory anchoring of a climate compensation payment for officially required flights**. 
 
 The documents state that additional costs, estimated at [amount - not specified in the text], result specifically from this climate compensation payment. This is mentioned in both the "Preliminary Page D. Costs for Public Budgets" and the "Explanatory Memorandum A. General Part – Financial Impact" sections.
 
-Question 123 (Original Chunk ID: )
-Top-k Chunks Used: ['chunk_65', 'chunk_57', 'chunk_2', 'chunk_64', 'chunk_81', 'chunk_35', 'chunk_18', 'chunk_24', 'chunk_19', 'chunk_55']
+Question 117 (Original Chunk ID: )
 Question: What is the reason for implementing savings measures like restricted first-class train travel and adjusted per diem reductions?
+Top-k Chunks Used: ['chunk_65', 'chunk_57', 'chunk_2', 'chunk_64', 'chunk_81', 'chunk_35', 'chunk_18', 'chunk_24', 'chunk_19', 'chunk_55']
 Answer: According to Explanatory Memorandum A (General Part – Financial Impact), the savings measures – restriction of eligibility for first-class travel on trains and adjustment of the reduction of the per diem – are implemented to **offset increases in certain compensations** (like mileage allowance and travel cost reimbursement when the trip begins at the residence) **and** to contribute to **savings** overall. Additionally, savings are expected from the **reduction in administrative effort** for travel preparation and settlement.
 
-Question 124 (Original Chunk ID: )
-Top-k Chunks Used: ['chunk_65', 'chunk_84', 'chunk_81', 'chunk_57', 'chunk_23', 'chunk_69', 'chunk_73', 'chunk_76', 'chunk_22', 'chunk_64']
+Question 118 (Original Chunk ID: )
 Question: Could you explain the justification behind changes such as limiting first-class train use and modifying daily allowance amounts?
+Top-k Chunks Used: ['chunk_65', 'chunk_84', 'chunk_81', 'chunk_57', 'chunk_23', 'chunk_69', 'chunk_73', 'chunk_76', 'chunk_22', 'chunk_64']
 Answer: The justification for limiting first-class train use and modifying daily allowance amounts stems from a desire for **administrative simplification and cost reduction**. 
 
 Specifically:
@@ -954,40 +912,26 @@ Specifically:
 
 Additionally, the changes are partially offset by savings in other provisions and a reduction in administrative effort for travel preparation and settlement.
 
-Question 125 (Original Chunk ID: Chunk_57)
-Top-k Chunks Used: ['chunk_27', 'chunk_75', 'chunk_55', 'chunk_26', 'chunk_24', 'chunk_2', 'chunk_70', 'chunk_31', 'chunk_35', 'chunk_57']
+Question 119 (Original Chunk ID: Chunk_57)
 Question: reduction of the per diem in the case of complimentary meals in accordance with tax
+Top-k Chunks Used: ['chunk_27', 'chunk_75', 'chunk_55', 'chunk_26', 'chunk_24', 'chunk_2', 'chunk_70', 'chunk_31', 'chunk_35', 'chunk_57']
 Answer: The adjustment of the reduction of the per diem in the case of complimentary meals is done “to align with tax regulations” and “eliminates the taxation of parts of the per diem.” Additionally, the percentages for withholding per diem when meals are complimentary are specified in § C (LRKG) – a certain percent for breakfast and a certain percent each for lunch and dinner.
 
 The revised version states the adjustment is done “in line with tax law provisions, thereby eliminating the need to tax parts of the per diem.”
 
-Question 126 (Original Chunk ID: Chunk_57)
-Top-k Chunks Used: ['chunk_69', 'chunk_23', 'chunk_57', 'chunk_20', 'chunk_22', 'chunk_65', 'chunk_55', 'chunk_2', 'chunk_81', 'chunk_7']
-Question: Could you explain the potential changes to personal vehicle mileage reimbursement rates?
-Answer: Here's an explanation of the potential changes to personal vehicle mileage reimbursement rates, based solely on the provided text:
+Question 120 (Original Chunk ID: Chunk_57)
+Question: Could you tell me about the previous number of different standard mileage rates?
+Top-k Chunks Used: ['chunk_23', 'chunk_22', 'chunk_69', 'chunk_65', 'chunk_57', 'chunk_64', 'chunk_2', 'chunk_4', 'chunk_5', 'chunk_83']
+Answer: According to the Explanatory Memorandum B. Detailed Explanations Regarding § , there were previously **three** different rates (G, , and cents/km) for mileage reimbursement, depending on engine capacity, compelling reasons for use, and vehicle approval for official travel.
 
-Previously, there were three different rates (G, , and cents/km) dependent on engine capacity, compelling reasons for use, and vehicle approval for official travel. Additionally, vehicle ownership (or common household ownership) was a requirement.
-
-The new regulation introduces **only two rates**:
-
-*   **cents/km** – applied when there is a “significant official interest” in using the vehicle. This includes those previously approved for official travel, those carpooling, and severely disabled employees. The previous additional allowance of cents/km for accompanying persons is eliminated.
-*   **cents/km** – applied in all other cases of motor vehicle use *and* for the use of other vehicles like bicycles or e-bikes. This rate is meant to cover ongoing operating costs.
-
-**Key changes and simplifications:**
-
-*   The formal “approval of one’s own vehicle for official travel” process is eliminated.
-*   The examination of “compelling reasons” for use is no longer necessary.
-*   It is no longer required that the traveler owns the vehicle.
-*   An incentive is created to use bicycles or e-bikes for shorter trips.
-
-Question 127 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_23', 'chunk_22', 'chunk_69', 'chunk_57', 'chunk_65', 'chunk_2', 'chunk_26', 'chunk_55', 'chunk_24', 'chunk_7']
+Question 121 (Original Chunk ID: Chunk_69)
 Question: How many mileage allowance rates were there in the past?
+Top-k Chunks Used: ['chunk_23', 'chunk_22', 'chunk_69', 'chunk_57', 'chunk_65', 'chunk_2', 'chunk_26', 'chunk_55', 'chunk_24', 'chunk_7']
 Answer: According to the Explanatory Memorandum B. Detailed Explanations Regarding § , there were previously **three** different rates (G, , and cents/km) for mileage allowance. These rates depended on engine capacity, compelling reasons for use, and vehicle approval for official travel.
 
-Question 128 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_23', 'chunk_22', 'chunk_69', 'chunk_65', 'chunk_57', 'chunk_64', 'chunk_12', 'chunk_25', 'chunk_70', 'chunk_4']
+Question 122 (Original Chunk ID: Chunk_69)
 Question: What will the number of future mileage rates be?
+Top-k Chunks Used: ['chunk_23', 'chunk_22', 'chunk_69', 'chunk_65', 'chunk_57', 'chunk_64', 'chunk_12', 'chunk_25', 'chunk_70', 'chunk_4']
 Answer: According to the provided text, there will be **two** future mileage rates:
 
 *   **cents** per kilometer if there is a significant official interest in the use of the vehicle.
@@ -995,38 +939,27 @@ Answer: According to the provided text, there will be **two** future mileage rat
 
 The text explicitly states: “In the future, only two rates shall apply…”
 
-Question 129 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_23', 'chunk_22', 'chunk_69', 'chunk_57', 'chunk_65', 'chunk_64', 'chunk_2', 'chunk_25', 'chunk_24', 'chunk_26']
+Question 123 (Original Chunk ID: Chunk_69)
 Question: How many mileage allowance rates will there be in the future?
+Top-k Chunks Used: ['chunk_23', 'chunk_22', 'chunk_69', 'chunk_57', 'chunk_65', 'chunk_64', 'chunk_2', 'chunk_25', 'chunk_24', 'chunk_26']
 Answer: According to the Explanatory Memorandum B. Detailed Explanations Regarding § , in the future, only **two** rates shall apply for mileage allowance:
 
 *   **cents/km** if there is a significant official interest in the use of the vehicle.
 *   **cents/km** in all other cases of motor vehicle use and for the use of another vehicle (for example, bicycle, e-bike).
 
-Question 130 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_69', 'chunk_23', 'chunk_22', 'chunk_67', 'chunk_20', 'chunk_65', 'chunk_5', 'chunk_64', 'chunk_12', 'chunk_79']
+Question 124 (Original Chunk ID: Chunk_69)
 Question: Could you clarify what mileage rate was authorized for official use of a personally owned vehicle that received approval prior to January 1, 2018?
-Answer: According to the provided text, prior to January 1, 2018, there were three different rates (G, , and cents/km) depending on engine capacity, compelling reasons for use, and approval for official travel. Specifically, employees who, *under the law in force until December 31, 2017*, fulfilled the requirements for the approval of their private vehicle for official travel were eligible for a rate of ** cents/km** if there was a significant official interest in the vehicle's use. 
+Top-k Chunks Used: ['chunk_69', 'chunk_23', 'chunk_22', 'chunk_67', 'chunk_20', 'chunk_65', 'chunk_5', 'chunk_64', 'chunk_12', 'chunk_79']
+Answer: According to the provided text, prior to January 1, 2018, there were three different rates (G, , and cents/km) depending on engine capacity, compelling reasons for use, and approval for official travel. Specifically, employees who, *under the law in force until December 31, 2017*, fulfilled the requirements for the approval of their private vehicle for official travel were eligible for a rate of ** cents/km** if there was a significant official interest in the vehicle's use.
 
-The text does *not* state the exact values for G, , and , only that they existed previously. However, it *does* state the new rate for vehicles previously approved is cents/km.
-
-Question 131 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_23', 'chunk_22', 'chunk_69', 'chunk_25', 'chunk_20', 'chunk_12', 'chunk_65', 'chunk_5', 'chunk_2', 'chunk_35']
+Question 125 (Original Chunk ID: Chunk_69)
 Question: My private vehicle has been approved for official travel before the end of 2017, what mileage allowance rate applies to me?
-Answer: According to the Explanatory Memorandum B. Detailed Explanations Regarding § , employees who, under the law in force until December 31, 2017, fulfilled the requirements for the approval of their private vehicle for official travel are now eligible for the **cents** mileage allowance rate (the specific number of cents is not provided in the text). 
+Top-k Chunks Used: ['chunk_23', 'chunk_22', 'chunk_69', 'chunk_25', 'chunk_20', 'chunk_12', 'chunk_65', 'chunk_5', 'chunk_2', 'chunk_35']
+Answer: According to the Explanatory Memorandum B. Detailed Explanations Regarding § , employees who, under the law in force until December 31, 2017, fulfilled the requirements for the approval of their private vehicle for official travel are now eligible for the **cents** mileage allowance (the exact number of cents is not provided in the text, but it refers to the rate for "significant official interest").
 
-This is because the new regulation states this rate “includes employees who, under the law in force until December 31, 2017, fulfilled the requirements for the approval of their private vehicle for official travel.”
-
-Question 132 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_50', 'chunk_81', 'chunk_44', 'chunk_66', 'chunk_59', 'chunk_45', 'chunk_58', 'chunk_60', 'chunk_80', 'chunk_85']
-Question: Here's a paraphrase of your question
-Answer: Please provide the question. I need the question to be able to answer it using only the provided context. 
-
-I am ready when you are! Just paste the question here.
-
-Question 133 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_19', 'chunk_23', 'chunk_22', 'chunk_36', 'chunk_16', 'chunk_12', 'chunk_69', 'chunk_14', 'chunk_18', 'chunk_7']
+Question 126 (Original Chunk ID: Chunk_69)
 Question: What is the mileage reimbursement rate for someone unable to walk due to a leg disability?
+Top-k Chunks Used: ['chunk_19', 'chunk_23', 'chunk_22', 'chunk_36', 'chunk_16', 'chunk_12', 'chunk_69', 'chunk_14', 'chunk_18', 'chunk_7']
 Answer: The context doesn't directly state a specific mileage reimbursement rate for someone unable to walk due to a leg disability. However, it does state the following:
 
 *   **§ 2 LRKG:** For official travelers with a disability degree of at least percent, who are normally reimbursed for the lowest class of travel/flight costs, the expenses for the *next higher class* shall be reimbursed.
@@ -1034,48 +967,46 @@ Answer: The context doesn't directly state a specific mileage reimbursement rate
 
 Therefore, a person with a disability qualifying them for a higher travel class, and a significant official interest in using a vehicle, would receive a mileage allowance of **- cents/km**. The exact number of cents is not provided in the context.
 
-Question 134 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_22', 'chunk_23', 'chunk_19', 'chunk_12', 'chunk_69', 'chunk_26', 'chunk_35', 'chunk_25', 'chunk_16', 'chunk_7']
+Question 127 (Original Chunk ID: Chunk_69)
 Question: I have a severe disability affecting my right leg that prevents me from walking. What mileage allowance applies to me?
+Top-k Chunks Used: ['chunk_22', 'chunk_23', 'chunk_19', 'chunk_12', 'chunk_69', 'chunk_26', 'chunk_35', 'chunk_25', 'chunk_16', 'chunk_7']
 Answer: According to the Explanatory Memorandum B, the mileage allowance of **cents** applies if there is a significant official interest in the use of the vehicle. This includes "severely disabled employees."
 
 Therefore, because you have a severe disability, the **cents per kilometer** mileage allowance applies to you. The exact amount of cents is not provided in the text.
 
-Question 135 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_23', 'chunk_69', 'chunk_22', 'chunk_64', 'chunk_65', 'chunk_20', 'chunk_2', 'chunk_5', 'chunk_1', 'chunk_18']
+Question 128 (Original Chunk ID: Chunk_69)
 Question: Are travelers sharing a ride still subject to a charge of 2 cents per kilometer under this updated rule?
+Top-k Chunks Used: ['chunk_23', 'chunk_69', 'chunk_22', 'chunk_64', 'chunk_65', 'chunk_20', 'chunk_2', 'chunk_5', 'chunk_1', 'chunk_18']
 Answer: No, travelers sharing a ride are **not** subject to a charge of 2 cents per kilometer. 
 
 The Explanatory Memorandum B states: “This includes employees who…carpooling is arranged…– [cents/km rate] if there is a significant official interest in the use of the vehicle.” 
 
 This indicates that carpooling falls under the scenario where a higher mileage allowance is applicable, and the previous additional allowance of 2 cents/km for accompanying persons is eliminated.
 
-Question 136 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_69', 'chunk_23', 'chunk_65', 'chunk_22', 'chunk_20', 'chunk_2', 'chunk_81', 'chunk_49', 'chunk_55', 'chunk_18']
+Question 129 (Original Chunk ID: Chunk_69)
 Question: Does this new regulation still require accompanying persons in the same vehicle to pay 2 cents per kilometer?
+Top-k Chunks Used: ['chunk_69', 'chunk_23', 'chunk_65', 'chunk_22', 'chunk_20', 'chunk_2', 'chunk_81', 'chunk_49', 'chunk_55', 'chunk_18']
 Answer: No, the new regulation eliminates the previous additional allowance of 2 cents/km for accompanying persons. 
 
 The text states: “The previous additional allowance of 2 cents/km for accompanying persons is eliminated.”
 
-Question 137 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_23', 'chunk_7', 'chunk_16', 'chunk_2', 'chunk_69', 'chunk_22', 'chunk_20', 'chunk_19', 'chunk_37', 'chunk_13']
+Question 130 (Original Chunk ID: Chunk_69)
 Question: Are bicycle trips eligible for the same mileage reimbursement rate as other work travel?
+Top-k Chunks Used: ['chunk_23', 'chunk_7', 'chunk_16', 'chunk_2', 'chunk_69', 'chunk_22', 'chunk_20', 'chunk_19', 'chunk_37', 'chunk_13']
 Answer: Yes, bicycle trips are eligible for the same mileage reimbursement rate as other work travel. 
 
 According to the Explanatory Memorandum B, the new regulation establishes a rate of “cents/km in all other cases of motor vehicle use and for the use of another vehicle (for example, bicycle, e-bike).” This indicates bicycles (and e-bikes) are covered under the same rate as other vehicles.
 
-Question 138 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_23', 'chunk_69', 'chunk_22', 'chunk_20', 'chunk_57', 'chunk_13', 'chunk_64', 'chunk_18', 'chunk_24', 'chunk_12']
+Question 131 (Original Chunk ID: Chunk_69)
 Question: Will I get the 25 cents/km rate if I use my bicycle for a short work trip?
+Top-k Chunks Used: ['chunk_23', 'chunk_69', 'chunk_22', 'chunk_20', 'chunk_57', 'chunk_13', 'chunk_64', 'chunk_18', 'chunk_24', 'chunk_12']
 Answer: Yes, you will get the 25 cents/km rate if you use your bicycle for a short work trip. 
 
-The Explanatory Memorandum B states: “This rate [25 cents/km] is intended to cover the ongoing operating costs…[and] an incentive is created to use a bicycle or e-bike for shorter official trips.” 
+The Explanatory Memorandum B states: “This rate [25 cents/km] is intended to cover the ongoing operating costs…an incentive is created to use a bicycle or e-bike for shorter official trips.” This clearly indicates the 25 cents/km rate applies to bicycle use.
 
-This indicates the 25 cents/km rate applies to bicycle use.
-
-Question 139 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_69', 'chunk_8', 'chunk_9', 'chunk_10', 'chunk_20', 'chunk_16', 'chunk_64', 'chunk_52', 'chunk_12', 'chunk_54']
+Question 132 (Original Chunk ID: Chunk_69)
 Question: Are there established procedures for authorizing the use of personally owned vehicles for work-related trips?
+Top-k Chunks Used: ['chunk_69', 'chunk_8', 'chunk_9', 'chunk_10', 'chunk_20', 'chunk_16', 'chunk_64', 'chunk_52', 'chunk_12', 'chunk_54']
 Answer: According to the provided text, previously there was a formal procedure for “approval of one’s own vehicle for official travel” that involved examining whether compelling reasons existed for its use, and depended on engine capacity. However, **the new regulation eliminates this formal procedure and the examination of compelling reasons.**
 
 Now, there are two rates for using a personal vehicle:
@@ -1085,14 +1016,14 @@ Now, there are two rates for using a personal vehicle:
 
 Critically, **it is no longer required that the traveler uses a vehicle they own** to be eligible for mileage allowance.
 
-Question 140 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_69', 'chunk_8', 'chunk_9', 'chunk_10', 'chunk_52', 'chunk_64', 'chunk_3', 'chunk_5', 'chunk_20', 'chunk_14']
+Question 133 (Original Chunk ID: Chunk_69)
 Question: Is there still a formal process to get my personal car approved for official travel?
+Top-k Chunks Used: ['chunk_69', 'chunk_8', 'chunk_9', 'chunk_10', 'chunk_52', 'chunk_64', 'chunk_3', 'chunk_5', 'chunk_20', 'chunk_14']
 Answer: No, the formal procedure for “approval of one’s own vehicle for official travel” is eliminated with the new regulation. The explanatory memorandum states this directly: “With this new regulation, the formal procedure for “approval of one’s own vehicle for official travel” is eliminated…”
 
-Question 141 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_69', 'chunk_20', 'chunk_2', 'chunk_23', 'chunk_1', 'chunk_7', 'chunk_55', 'chunk_3', 'chunk_16', 'chunk_22']
+Question 134 (Original Chunk ID: Chunk_69)
 Question: Are there changes to the requirements for vehicle ownership and mileage reimbursement for work-related travel?
+Top-k Chunks Used: ['chunk_69', 'chunk_20', 'chunk_2', 'chunk_23', 'chunk_1', 'chunk_7', 'chunk_55', 'chunk_3', 'chunk_16', 'chunk_22']
 Answer: Yes, there are significant changes to the requirements for vehicle ownership and mileage reimbursement.
 
 **Previously:**
@@ -1108,87 +1039,80 @@ Answer: Yes, there are significant changes to the requirements for vehicle owner
 *   **It is no longer required that the traveler uses a vehicle they own** to be eligible for mileage allowance.
 *   The formal procedure for “approval of one’s own vehicle for official travel” and the examination of “compelling reasons” have been eliminated.
 
-Question 142 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_20', 'chunk_23', 'chunk_12', 'chunk_22', 'chunk_16', 'chunk_13', 'chunk_7', 'chunk_69', 'chunk_18', 'chunk_11']
+Question 135 (Original Chunk ID: Chunk_69)
 Question: Do I now have to own the vehicle I use for official travel to get mileage reimbursement?
+Top-k Chunks Used: ['chunk_20', 'chunk_23', 'chunk_12', 'chunk_22', 'chunk_16', 'chunk_13', 'chunk_7', 'chunk_69', 'chunk_18', 'chunk_11']
 Answer: No, you do not have to own the vehicle you use for official travel to get mileage reimbursement. 
 
 According to the Explanatory Memorandum B. Detailed Explanations Regarding §, “For the entitlement to mileage allowance, it is no longer required that the traveler uses a vehicle they own.”
 
-Question 143 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_14', 'chunk_12', 'chunk_26', 'chunk_8', 'chunk_30', 'chunk_48', 'chunk_35', 'chunk_36', 'chunk_40', 'chunk_16']
+Question 136 (Original Chunk ID: Chunk_69)
 Question: What's the shortest an official work trip can be to qualify for daily expense reimbursement?
+Top-k Chunks Used: ['chunk_14', 'chunk_12', 'chunk_26', 'chunk_8', 'chunk_30', 'chunk_48', 'chunk_35', 'chunk_36', 'chunk_40', 'chunk_16']
 Answer: According to State Travel Expense Act (LRKG) § C Per Diem Allowance, there is no entitlement to a per diem allowance for official errands lasting *more than eight hours*. However, for errands lasting more than eight hours, necessary documented expenses for meals shall be reimbursed up to the amount of the per diem allowance applicable for an official trip.
 
 Therefore, the shortest an official work trip can be to qualify for daily expense reimbursement is **more than eight hours**.
 
-Question 144 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_25', 'chunk_70', 'chunk_26', 'chunk_24', 'chunk_46', 'chunk_35', 'chunk_48', 'chunk_27', 'chunk_30', 'chunk_14']
+Question 137 (Original Chunk ID: Chunk_69)
 Question: How long does a trip need to be now to get per diem?
+Top-k Chunks Used: ['chunk_25', 'chunk_70', 'chunk_26', 'chunk_24', 'chunk_46', 'chunk_35', 'chunk_48', 'chunk_27', 'chunk_30', 'chunk_14']
 Answer: According to the Explanatory Memorandum B. Detailed Explanations Regarding § C, the minimum duration justifying a claim to per diem has been increased from exactly eight hours to **more than eight hours**.
 
-Question 145 (Original Chunk ID: Chunk_69)
-Top-k Chunks Used: ['chunk_70', 'chunk_25', 'chunk_24', 'chunk_46', 'chunk_26', 'chunk_35', 'chunk_48', 'chunk_55', 'chunk_14', 'chunk_45']
+Question 138 (Original Chunk ID: Chunk_69)
 Question: What is the updated trip duration requirement for per diem eligibility?
+Top-k Chunks Used: ['chunk_70', 'chunk_25', 'chunk_24', 'chunk_46', 'chunk_26', 'chunk_35', 'chunk_48', 'chunk_55', 'chunk_14', 'chunk_45']
 Answer: According to the explanatory memorandum B, the minimum duration justifying a claim to per diem has been increased from exactly eight hours to **more than eight hours**. This change corresponds to the tax regulation and aims to avoid taxing per diem for trips lasting exactly eight hours.
 
 Specifically, State Travel Expense Act (LRKG) § C states that for trips lasting less than a full calendar day, the per diem allowance is granted for a duration of **more than** [a number of] hours, and [another amount] euros for a duration of **more than** [another number of] hours. (The exact hour amounts are not provided in the text).
 
-Question 146 (Original Chunk ID: Chunk_70)
-Top-k Chunks Used: ['chunk_70', 'chunk_25', 'chunk_26', 'chunk_46', 'chunk_24', 'chunk_48', 'chunk_35', 'chunk_55', 'chunk_14', 'chunk_45']
+Question 139 (Original Chunk ID: Chunk_70)
 Question: What is the new minimum length of an official trip required for me to be eligible for the per diem?
+Top-k Chunks Used: ['chunk_70', 'chunk_25', 'chunk_26', 'chunk_46', 'chunk_24', 'chunk_48', 'chunk_35', 'chunk_55', 'chunk_14', 'chunk_45']
 Answer: According to the explanatory memorandum B, the minimum duration justifying a claim to per diem has been increased from exactly eight hours to **more than eight hours**. This change corresponds to the tax regulation and aims to avoid taxing per diems for trips lasting exactly eight hours.
 
 Specifically, State Travel Expense Act (LRKG) § C states that for official errands lasting **more than eight hours**, necessary documented expenses for meals shall be reimbursed up to the amount of the per diem allowance applicable for an official trip.
 
-Question 147 (Original Chunk ID: Chunk_70)
-Top-k Chunks Used: ['chunk_70', 'chunk_25', 'chunk_46', 'chunk_24', 'chunk_48', 'chunk_35', 'chunk_26', 'chunk_55', 'chunk_2', 'chunk_14']
+Question 140 (Original Chunk ID: Chunk_70)
 Question: Could you explain the justification behind lengthening the required time for official travel before per diem can be claimed?
+Top-k Chunks Used: ['chunk_70', 'chunk_25', 'chunk_46', 'chunk_24', 'chunk_48', 'chunk_35', 'chunk_26', 'chunk_55', 'chunk_2', 'chunk_14']
 Answer: According to the Explanatory Memorandum B, the minimum duration justifying a claim to per diem was increased from exactly eight hours to *more than* eight hours “to correspond to the tax regulation and is intended to avoid the administratively burdensome taxation of the per diem when the trip lasts exactly eight hours.” 
 
 Essentially, the change aligns with tax laws and simplifies the process by preventing per diem from being taxed on trips that are precisely eight hours long.
 
-Question 148 (Original Chunk ID: Chunk_70)
-Top-k Chunks Used: ['chunk_70', 'chunk_25', 'chunk_24', 'chunk_26', 'chunk_48', 'chunk_55', 'chunk_46', 'chunk_35', 'chunk_14', 'chunk_2']
+Question 141 (Original Chunk ID: Chunk_70)
 Question: What is the reason for increasing the minimum duration of an official trip required to claim per diem?
+Top-k Chunks Used: ['chunk_70', 'chunk_25', 'chunk_24', 'chunk_26', 'chunk_48', 'chunk_55', 'chunk_46', 'chunk_35', 'chunk_14', 'chunk_2']
 Answer: According to the Explanatory Memorandum B, the minimum duration justifying a claim to per diem was increased “to avoid the administratively burdensome taxation of the per diem when the trip lasts exactly eight hours.” It also states this change “corresponds to the tax regulation.”
 
-Question 149 (Original Chunk ID: Chunk_70)
-Top-k Chunks Used: ['chunk_50', 'chunk_81', 'chunk_44', 'chunk_66', 'chunk_59', 'chunk_45', 'chunk_58', 'chunk_60', 'chunk_80', 'chunk_85']
-Question: Here's a paraphrase of your question
-Answer: Please provide the question. I need the question to be able to answer it using only the provided context. 
-
-I am ready when you are! Just paste the question here.
-
-Question 150 (Original Chunk ID: Chunk_70)
-Top-k Chunks Used: ['chunk_73', 'chunk_2', 'chunk_32', 'chunk_27', 'chunk_55', 'chunk_80', 'chunk_20', 'chunk_7', 'chunk_14', 'chunk_18']
+Question 142 (Original Chunk ID: Chunk_70)
 Question: Why are tax-related amounts not typically expected to happen frequently?
+Top-k Chunks Used: ['chunk_73', 'chunk_2', 'chunk_32', 'chunk_27', 'chunk_55', 'chunk_80', 'chunk_20', 'chunk_7', 'chunk_14', 'chunk_18']
 Answer: According to Explanatory Memorandum B. Detailed Explanations Regarding § C, the previous withholding provisions (related to complimentary meals) were separately regulated. Now, they are adapted to the tax law reduction provisions, “which leads to a significant administrative simplification” because **tax-relevant amounts will occur only in very rare cases.**
 
-Question 151 (Original Chunk ID: Chunk_73)
-Top-k Chunks Used: ['chunk_73', 'chunk_80', 'chunk_2', 'chunk_20', 'chunk_18', 'chunk_27', 'chunk_32', 'chunk_7', 'chunk_36', 'chunk_23']
+Question 143 (Original Chunk ID: Chunk_73)
 Question: What is the main reason we expect to see tax relevant amounts occur only rarely?
+Top-k Chunks Used: ['chunk_73', 'chunk_80', 'chunk_2', 'chunk_20', 'chunk_18', 'chunk_27', 'chunk_32', 'chunk_7', 'chunk_36', 'chunk_23']
 Answer: According to the Explanatory Memorandum B, the previous withholding provisions were adapted to the tax law reduction provisions. This adaptation leads to tax-relevant amounts occurring “only in very rare cases,” and results in a “significant administrative simplification.”
 
-Question 152 (Original Chunk ID: Chunk_73)
-Top-k Chunks Used: ['chunk_75', 'chunk_27', 'chunk_74', 'chunk_28', 'chunk_29', 'chunk_26', 'chunk_55', 'chunk_31', 'chunk_57', 'chunk_2']
+Question 144 (Original Chunk ID: Chunk_73)
 Question: Are meals in the morning covered by the price of the room?
+Top-k Chunks Used: ['chunk_75', 'chunk_27', 'chunk_74', 'chunk_28', 'chunk_29', 'chunk_26', 'chunk_55', 'chunk_31', 'chunk_57', 'chunk_2']
 Answer: According to Explanatory Memorandum B regarding § C, breakfast as a meal component is **no longer** included in the accommodation cost. Instead, a percentage of the full per diem will be withheld to account for breakfast if it's included with accommodation. 
 
 Therefore, meals in the morning (breakfast) are **not** covered by the price of the room; they are accounted for through a reduction in the per diem allowance.
 
-Question 153 (Original Chunk ID: Chunk_75)
-Top-k Chunks Used: ['chunk_75', 'chunk_27', 'chunk_28', 'chunk_29', 'chunk_55', 'chunk_74', 'chunk_57', 'chunk_31', 'chunk_26', 'chunk_2']
+Question 145 (Original Chunk ID: Chunk_75)
 Question: Is breakfast included in the accommodation costs?
+Top-k Chunks Used: ['chunk_75', 'chunk_27', 'chunk_28', 'chunk_29', 'chunk_55', 'chunk_74', 'chunk_57', 'chunk_31', 'chunk_26', 'chunk_2']
 Answer: No, breakfast is **not** included in the accommodation costs. 
 
 According to Explanatory Memorandum B, the regulation for accommodation costs that *included* breakfast is no longer included. Instead, breakfast as a meal component will be accounted for by withholding a percentage of the full per diem.
 
 Additionally, § C LRKG details specific percentages to be withheld from the per diem for breakfast (and other meals) if they are complimentary or provided by a third party. This reinforces that breakfast is considered separately from accommodation costs.
 
-Question 154 (Original Chunk ID: Chunk_75)
-Top-k Chunks Used: ['chunk_75', 'chunk_27', 'chunk_26', 'chunk_24', 'chunk_55', 'chunk_28', 'chunk_74', 'chunk_29', 'chunk_57', 'chunk_31']
+Question 146 (Original Chunk ID: Chunk_75)
 Question: Does the daily allowance include money for breakfast?
+Top-k Chunks Used: ['chunk_75', 'chunk_27', 'chunk_26', 'chunk_24', 'chunk_55', 'chunk_28', 'chunk_74', 'chunk_29', 'chunk_57', 'chunk_31']
 Answer: Yes, the daily allowance (per diem) initially included money for breakfast, but that has changed. 
 
 Here's the relevant information from the provided text:
@@ -1198,37 +1122,38 @@ Here's the relevant information from the provided text:
 
 This demonstrates that breakfast was *previously* part of the per diem, but now a percentage is withheld to account for it, whether eaten or not.
 
-Question 155 (Original Chunk ID: Chunk_75)
-Top-k Chunks Used: ['chunk_27', 'chunk_75', 'chunk_26', 'chunk_24', 'chunk_55', 'chunk_70', 'chunk_46', 'chunk_25', 'chunk_48', 'chunk_2']
+Question 147 (Original Chunk ID: Chunk_75)
 Question: Is breakfast covered by the per diem rate?
+Top-k Chunks Used: ['chunk_27', 'chunk_75', 'chunk_26', 'chunk_24', 'chunk_55', 'chunk_70', 'chunk_46', 'chunk_25', 'chunk_48', 'chunk_2']
 Answer: Yes, breakfast is covered by the per diem rate, but with a reduction. 
 
 Here's the evidence from the text:
 
 * **LRKG § C Per Diem Allowance ()** states that if complimentary meals are received, a percentage of the per diem is withheld.
-* **Explanatory Memorandum B** specifically states that the regulation for accommodation costs *including breakfast* is no longer included separately. Instead, breakfast as a meal component is now accounted for by withholding **20 percent** of the full per diem.
+* **Explanatory Memorandum B** specifically states that the regulation for accommodation costs *including breakfast* is no longer included separately. Instead, breakfast as a meal component shall be taken into account by withholding **20 percent** of the full per diem.
 
-Question 156 (Original Chunk ID: Chunk_75)
-Top-k Chunks Used: ['chunk_27', 'chunk_26', 'chunk_75', 'chunk_24', 'chunk_55', 'chunk_35', 'chunk_31', 'chunk_48', 'chunk_46', 'chunk_7']
+Question 148 (Original Chunk ID: Chunk_75)
 Question: Will the per diem payments include a breakfast expense?
+Top-k Chunks Used: ['chunk_27', 'chunk_26', 'chunk_75', 'chunk_24', 'chunk_55', 'chunk_35', 'chunk_31', 'chunk_48', 'chunk_46', 'chunk_7']
 Answer: Yes, per diem payments will include a breakfast expense, but it will be reduced. 
 
-According to the Explanatory Memorandum B, the regulation for accommodation costs that *include* breakfast is no longer separate. Instead, breakfast as a meal component will be accounted for by withholding **20 percent** of the full per diem.
+Here's how we know from the text:
 
-Additionally, State Travel Expense Act (LRKG) § C Per Diem Allowance () states that if official travelers receive complimentary meals, a percentage of the per diem for breakfast will be withheld.
+* **Explanatory Memorandum B** states: "Finally, the regulation for accommodation costs that include breakfast is no longer included. Breakfast as a meal component shall henceforth be taken into account in the per diem by withholding **20 percent** of the full per diem."
+* **LRKG § C** states that if complimentary meals are received (including breakfast), a percentage of the per diem will be withheld.
 
-Question 157 (Original Chunk ID: Chunk_75)
-Top-k Chunks Used: ['chunk_27', 'chunk_75', 'chunk_26', 'chunk_24', 'chunk_46', 'chunk_70', 'chunk_55', 'chunk_25', 'chunk_48', 'chunk_35']
+Question 149 (Original Chunk ID: Chunk_75)
 Question: Will the per diem consider breakfast?
+Top-k Chunks Used: ['chunk_27', 'chunk_75', 'chunk_26', 'chunk_24', 'chunk_46', 'chunk_70', 'chunk_55', 'chunk_25', 'chunk_48', 'chunk_35']
 Answer: Yes, the per diem will consider breakfast. 
 
 According to Explanatory Memorandum B regarding § C, the regulation for accommodation costs that *include* breakfast is no longer included separately. Instead, breakfast as a meal component will be taken into account by **withholding 20 percent** of the full per diem.
 
-Question 158 (Original Chunk ID: Chunk_75)
-Top-k Chunks Used: ['chunk_76', 'chunk_49', 'chunk_55', 'chunk_35', 'chunk_74', 'chunk_73', 'chunk_57', 'chunk_82', 'chunk_14', 'chunk_2']
+Question 150 (Original Chunk ID: Chunk_75)
 Question: Does the updated policy necessitate a new application to maintain separation allowance payments beyond the initial period?
+Top-k Chunks Used: ['chunk_76', 'chunk_49', 'chunk_55', 'chunk_35', 'chunk_74', 'chunk_73', 'chunk_57', 'chunk_82', 'chunk_14', 'chunk_2']
 Answer: No, the updated policy renders the previous, administratively cumbersome application procedure for extending the period during which separation allowance is received unnecessary. 
 
 This is stated in Explanatory Memorandum B: “With the revision of the State Separation Allowance Regulation, the previously administratively cumbersome application procedure for extending the period during which separation allowance is received is rendered unnecessary.”
 
-Total Correct Answers: 132
+Total Correct Answers: 134
