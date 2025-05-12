@@ -14,7 +14,7 @@ combined_df = pd.concat([pd.read_csv(f) for f in csv_files], ignore_index=True)
 
 # Verify columns are identical
 expected_columns = [
-    "Generation Model", "Question Index", "Question", "Original Chunk", 
+    "Generation Model", "Question Index", "Question", "Type","Source_QID","Original Chunk", 
     "Chunks Retrieved", "Generated Answer", "Reference Answer", 
     "Generation Prompt Used", "Encoding Used"
 ]
