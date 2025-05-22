@@ -43,41 +43,94 @@
 # # plt.show()  # Uncomment this if running locally with GUI support
 
 
+# import matplotlib.pyplot as plt
+# import numpy as np
+# import pandas as pd  # Library to read CSV files
+
+# # CHANGE ACCORDING TO FILE YOU WANT TO PLOT
+# csv_path = "prompt_performance_summary_Qwen3-0.6B_prompt_v2.csv"
+# df = pd.read_csv(csv_path)
+
+# # Extract data
+# prompts = df["prompt"].tolist()
+# metrics = ["correctness", "completeness_reference", "faithfulness", "completeness_question"]
+# x = np.arange(len(prompts))
+# width = 0.2
+
+# # Set up the plot
+# fig, ax = plt.subplots(figsize=(10, 6))
+
+# # Plot each metric as a group of bars
+# for i, metric in enumerate(metrics):
+#     offset = (i - 1.5) * width  # Adjust the offset for grouping
+#     ax.bar(x + offset, df[metric], width, label=metric.replace("_", " ").capitalize())
+
+# # Formatting
+# ax.set_xlabel('Generation Prompt Used')
+# ax.set_ylabel('Score (1 to 5)')
+# ax.set_title('LLM-as-Judge Scores by Prompt')
+# ax.set_xticks(x)
+# ax.set_xticklabels(prompts, rotation=15)
+# ax.set_ylim(1, 5)
+# ax.legend()
+# ax.grid(True, axis='y', linestyle='--', alpha=0.6)
+
+# plt.tight_layout()
+
+
+# plt.savefig("prompt_bargraph_Qwen3-0.6B_prompt_v2.png", dpi=300) # CHANGE OUTPUT FILE NAME
+
+# print("Done!")
+
 import matplotlib.pyplot as plt
 import numpy as np
-import pandas as pd  # Library to read CSV files
+import pandas as pd # Library to read CSV files
+
 
 # CHANGE ACCORDING TO FILE YOU WANT TO PLOT
 csv_path = "prompt_performance_summary_Qwen3-0.6B_prompt_v2.csv"
 df = pd.read_csv(csv_path)
 
-# Extract data
-prompts = df["prompt"].tolist()
+# Reorder prompts manually
+desired_order = ["No_Context_Prompt", "Basic_RAG_Prompt", "COT_Prompt"]
+df = df.set_index("Generation Prompt Used").loc[desired_order].reset_index()
+
+# Add average row
+average_row = {
+    "Generation Prompt Used": "Average",
+}
 metrics = ["correctness", "completeness_reference", "faithfulness", "completeness_question"]
+for metric in metrics:
+    average_row[metric] = df[metric].mean()
+
+df = pd.concat([df, pd.DataFrame([average_row])], ignore_index=True)
+
+# Prepare data for plotting
+prompts = df["Generation Prompt Used"].tolist()
 x = np.arange(len(prompts))
 width = 0.2
 
-# Set up the plot
-fig, ax = plt.subplots(figsize=(10, 6))
+# Create the plot
+fig, ax = plt.subplots(figsize=(12, 6))
+
 
 # Plot each metric as a group of bars
 for i, metric in enumerate(metrics):
-    offset = (i - 1.5) * width  # Adjust the offset for grouping
-    ax.bar(x + offset, df[metric], width, label=metric.replace("_", " ").capitalize())
+    offset = (i - 1.5) * width # Adjust the offset for grouping
+    label = metric.replace("_", " ").capitalize()
+    ax.bar(x + offset, df[metric], width, label=label)
 
 # Formatting
-ax.set_xlabel('Generation Prompt Used')
+ax.set_xlabel('Generation Prompt Used',labelpad=10)
 ax.set_ylabel('Score (1 to 5)')
 ax.set_title('LLM-as-Judge Scores by Prompt')
 ax.set_xticks(x)
-ax.set_xticklabels(prompts, rotation=15)
+ax.set_xticklabels(prompts, rotation=0)
 ax.set_ylim(1, 5)
 ax.legend()
 ax.grid(True, axis='y', linestyle='--', alpha=0.6)
 
 plt.tight_layout()
-
-
-plt.savefig("prompt_bargraph_Qwen3-0.6B_prompt_v2.png", dpi=300) # CHANGE OUTPUT FILE NAME
+plt.savefig("prompt_bargraph_Qwen3-0.6B_prompt_v2.png", dpi=300) # CHANGE OUTPUT FILE NAME ACCORDING TO YOU ARE TESTING
 
 print("Done!")
