@@ -16,7 +16,7 @@ combined_df = pd.concat([pd.read_csv(f) for f in csv_files], ignore_index=True)
 expected_columns = [
     "Generation Model", "Question Index", "Question", "Type", "Source_QID",
     "Original Chunk", "Chunks Retrieved", "Generated Answer",
-    "Reference Answer", "Generation Prompt Used", "Encoding Used"
+    "Reference Answer", "Generation Prompt Used", "Encoding Used", "Enable Thinking"
 ]
 assert combined_df.columns.tolist() == expected_columns, "❌ Column mismatch detected!"
 

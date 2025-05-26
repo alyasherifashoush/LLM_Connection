@@ -88,7 +88,9 @@ import pandas as pd # Library to read CSV files
 
 
 # CHANGE ACCORDING TO FILE YOU WANT TO PLOT
-csv_path = "prompt_performance_summary_Qwen3-0.6B_prompt_v2.csv"
+# csv_path = "prompt_performance_summary_Qwen3-0.6B_prompt_v2.csv"
+csv_path = "prompt_en_performance_summary_Qwen3-0.6B_prompt_v2.csv"
+
 df = pd.read_csv(csv_path)
 
 # Reorder prompts manually
@@ -100,23 +102,21 @@ average_row = {
     "Generation Prompt Used": "Average",
 }
 metrics = ["correctness", "completeness_reference", "faithfulness", "completeness_question"]
-for metric in metrics:
-    average_row[metric] = df[metric].mean()
 
-df = pd.concat([df, pd.DataFrame([average_row])], ignore_index=True)
+# Add column for average score per prompt
+df["Average Score"] = df[metrics].mean(axis=1)
 
 # Prepare data for plotting
 prompts = df["Generation Prompt Used"].tolist()
 x = np.arange(len(prompts))
-width = 0.2
+width = 0.18
 
 # Create the plot
 fig, ax = plt.subplots(figsize=(12, 6))
 
-
 # Plot each metric as a group of bars
-for i, metric in enumerate(metrics):
-    offset = (i - 1.5) * width # Adjust the offset for grouping
+for i, metric in enumerate(metrics + ["Average Score"]):
+    offset = (i - 2) * width  # Center the bars
     label = metric.replace("_", " ").capitalize()
     ax.bar(x + offset, df[metric], width, label=label)
 
@@ -131,6 +131,9 @@ ax.legend()
 ax.grid(True, axis='y', linestyle='--', alpha=0.6)
 
 plt.tight_layout()
-plt.savefig("prompt_bargraph_Qwen3-0.6B_prompt_v2.png", dpi=300) # CHANGE OUTPUT FILE NAME ACCORDING TO YOU ARE TESTING
+
+# CHANGE OUTPUT FILE NAME ACCORDING TO YOU ARE TESTING
+# plt.savefig("prompt_bargraph_Qwen3-0.6B_prompt_v2.png", dpi=300) 
+plt.savefig("prompt_en_bargraph_Qwen3-0.6B_prompt_v2.png", dpi=300) 
 
 print("Done!")

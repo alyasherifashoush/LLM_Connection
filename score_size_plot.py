@@ -49,7 +49,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # CHANGE ACCORDING TO FILE YOU WANT TO PLOT
-df = pd.read_csv('size_performance_summary_Basic_RAG_Prompt_prompt_v3.csv')
+# df = pd.read_csv('size_performance_Qwen3_summary_Basic_RAG_Prompt_prompt_v2.csv')
+# df = pd.read_csv('size_performance_Qwen3_summary_Basic_RAG_Prompt_prompt_v3.csv')
+# df = pd.read_csv('size_performance_Qwen3_summary_Basic_RAG_Prompt_prompt_v2_added_model.csv')
+# df = pd.read_csv('size_performance_Llama-3.2_summary_Basic_RAG_Prompt_prompt_v2.csv')
+df = pd.read_csv('size_en_performance_Qwen3_summary_Basic_RAG_Prompt_prompt_v2.csv')
 
 # Clean model names for x-axis labels (optional)
 df['Model'] = df['Generation Model'].apply(lambda x: x.split('/')[-1])
@@ -86,11 +90,17 @@ plt.xlabel('Model Size')
 plt.ylabel('Score (1 to 5)')
 plt.title('LLM-as-Judge Scores by Model Size')
 plt.ylim(1, 5)
+plt.margins(x=0.1)
 plt.grid(True)
-plt.legend()
+plt.legend(loc='lower left')
 plt.tight_layout()
 
+# CHANGE OUTPUT FILE NAME
 # Save plot
-plt.savefig('size_graph_Basic_RAG_Prompt_prompt_v3.png', dpi=300) # CHANGE OUTPUT FILE NAME
+# plt.savefig('size_Qwen3_graph_Basic_RAG_Prompt_prompt_v2.png', dpi=300)
+# plt.savefig('size_Qwen3_graph_Basic_RAG_Prompt_prompt_v3.png', dpi=300) 
+# plt.savefig('size_Qwen3_graph_Basic_RAG_Prompt_prompt_v2_added_model.png', dpi=300) 
+# plt.savefig('size_Llama-3.2_graph_Basic_RAG_Prompt_prompt_v2.png', dpi=300) 
+plt.savefig('size_en_Qwen3_graph_Basic_RAG_Prompt_prompt_v2.png', dpi=300) 
 
 print("Done!")
