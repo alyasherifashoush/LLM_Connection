@@ -53,10 +53,22 @@ import numpy as np
 # df = pd.read_csv('size_performance_Qwen3_summary_Basic_RAG_Prompt_prompt_v3.csv')
 # df = pd.read_csv('size_performance_Qwen3_summary_Basic_RAG_Prompt_prompt_v2_added_model.csv')
 # df = pd.read_csv('size_performance_Llama-3.2_summary_Basic_RAG_Prompt_prompt_v2.csv')
-df = pd.read_csv('size_en_performance_Qwen3_summary_Basic_RAG_Prompt_prompt_v2.csv')
+# df = pd.read_csv('size_en_performance_Qwen3_summary_Basic_RAG_Prompt_prompt_v2.csv')
+df = pd.read_csv('size_performance_Phi-3_summary_Basic_RAG_Prompt_prompt_v2.csv')
 
 # Clean model names for x-axis labels (optional)
 df['Model'] = df['Generation Model'].apply(lambda x: x.split('/')[-1])
+
+# Enforce desired model order
+desired_order = [
+    "Phi-3-mini-128k-instruct",
+    "Phi-3-small-128k-instruct",
+    "Phi-3-medium-128k-instruct"
+]
+df = df[df['Model'].isin(desired_order)]
+df['Model'] = pd.Categorical(df['Model'], categories=desired_order, ordered=True)
+df = df.sort_values('Model')
+
 
 # Rename columns for display
 metric_mapping = {
@@ -101,6 +113,7 @@ plt.tight_layout()
 # plt.savefig('size_Qwen3_graph_Basic_RAG_Prompt_prompt_v3.png', dpi=300) 
 # plt.savefig('size_Qwen3_graph_Basic_RAG_Prompt_prompt_v2_added_model.png', dpi=300) 
 # plt.savefig('size_Llama-3.2_graph_Basic_RAG_Prompt_prompt_v2.png', dpi=300) 
-plt.savefig('size_en_Qwen3_graph_Basic_RAG_Prompt_prompt_v2.png', dpi=300) 
+# plt.savefig('size_en_Qwen3_graph_Basic_RAG_Prompt_prompt_v2.png', dpi=300) 
+plt.savefig('size_Phi-3_graph_Basic_RAG_Prompt_prompt_v2.png', dpi=300) 
 
 print("Done!")

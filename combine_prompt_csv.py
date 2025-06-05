@@ -1,12 +1,50 @@
 import pandas as pd
 
+# # ====== USER INPUT =======================================================
+# csv_files = [
+#     "RQ2_RAG_Answers_Basic_RAG_Prompt_Qwen3-0.6B.csv",
+#     "RQ2_RAG_Answers_COT_Prompt_Qwen3-0.6B.csv",
+#     "RQ2_RAG_Answers_No_Context_Prompt_Qwen3-0.6B.csv",
+# ]
+# model_name = "Qwen3-0.6B"  # ✅ Set the model name manually
+# # ============================================================================
+
+# # ====== USER INPUT =======================================================
+# csv_files = [
+#     "RQ2_RAG_Answers_Basic_RAG_Prompt_Qwen3-4B.csv",
+#     "RQ2_RAG_Answers_COT_Prompt_Qwen3-4B.csv",
+#     "RQ2_RAG_Answers_No_Context_Prompt_Qwen3-4B.csv",
+# ]
+# model_name = "Qwen3-4B"  # ✅ Set the model name manually
+# # ============================================================================
+
+
+# # ====== USER INPUT =======================================================
+# csv_files = [
+#     "RQ2_RAG_Answers_Basic_RAG_Prompt_Llama-3.2-3B-Instruct.csv",
+#     "RQ2_RAG_Answers_COT_Prompt_Llama-3.2-3B-Instruct.csv",
+#     "RQ2_RAG_Answers_No_Context_Prompt_Llama-3.2-3B-Instruct.csv",
+# ]
+# model_name = "Llama-3.2-3B-Instruct"  # ✅ Set the model name manually
+# # ============================================================================
+
+# # ====== USER INPUT =======================================================
+# csv_files = [
+#     "RQ2_RAG_Answers_Basic_RAG_Prompt_Phi-3-mini-4k-instruct.csv",
+#     "RQ2_RAG_Answers_COT_Prompt_Phi-3-mini-4k-instruct.csv",
+#     "RQ2_RAG_Answers_No_Context_Prompt_Phi-3-mini-4k-instruct.csv",
+# ]
+# model_name = "Phi-3-mini-4k-instruct"  # ✅ Set the model name manually
+# # ============================================================================
+
+
 # ====== USER INPUT =======================================================
 csv_files = [
-    "RQ2_RAG_Answers_Basic_RAG_Prompt_Qwen3-0.6B.csv",
-    "RQ2_RAG_Answers_COT_Prompt_Qwen3-0.6B.csv",
-    "RQ2_RAG_Answers_No_Context_Prompt_Qwen3-0.6B.csv",
+    "RQ2_RAG_Answers_Basic_RAG_Prompt_Phi-3-mini-128k-instruct.csv",
+    "RQ2_RAG_Answers_COT_Prompt_Phi-3-mini-128k-instruct.csv",
+    "RQ2_RAG_Answers_No_Context_Prompt_Phi-3-mini-128k-instruct.csv",
 ]
-model_name = "Qwen3-0.6B"  # ✅ Set the model name manually
+model_name = "Phi-3-mini-128k-instruct"  # ✅ Set the model name manually
 # ============================================================================
 
 # Read and concatenate all CSVs

@@ -89,7 +89,10 @@ import pandas as pd # Library to read CSV files
 
 # CHANGE ACCORDING TO FILE YOU WANT TO PLOT
 # csv_path = "prompt_performance_summary_Qwen3-0.6B_prompt_v2.csv"
-csv_path = "prompt_en_performance_summary_Qwen3-0.6B_prompt_v2.csv"
+# csv_path = "prompt_en_performance_summary_Qwen3-0.6B_prompt_v2.csv"
+# csv_path = "prompt_performance_summary_Qwen3-4B_prompt_v2.csv"
+# csv_path = "prompt_performance_summary_Llama-3.2-3B-Instruct_prompt_v2.csv"
+csv_path = "prompt_performance_summary_mini-128k-instruct_prompt_v2.csv"
 
 df = pd.read_csv(csv_path)
 
@@ -134,6 +137,8 @@ plt.tight_layout()
 
 # CHANGE OUTPUT FILE NAME ACCORDING TO YOU ARE TESTING
 # plt.savefig("prompt_bargraph_Qwen3-0.6B_prompt_v2.png", dpi=300) 
-plt.savefig("prompt_en_bargraph_Qwen3-0.6B_prompt_v2.png", dpi=300) 
-
+# plt.savefig("prompt_en_bargraph_Qwen3-0.6B_prompt_v2.png", dpi=300) 
+# plt.savefig("prompt_bargraph_Qwen3-4B_prompt_v2.png", dpi=300) 
+# plt.savefig("prompt_bargraph_Llama-3.2-3B-Instruct_prompt_v2.png", dpi=300)
+plt.savefig("prompt_bargraph_mini-128k-instruct_prompt_v2.png", dpi=300)
 print("Done!")

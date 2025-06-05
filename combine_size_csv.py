@@ -9,13 +9,21 @@ import pandas as pd
 #     "RQ1_RAG_Answers_Basic_RAG_Prompt_Qwen3-14B.csv",
 # ]
 
+# csv_files = [
+#     "RQ1_RAG_Answers_Basic_RAG_Prompt_Llama-3.2-1B-Instruct.csv",
+#     "RQ1_RAG_Answers_Basic_RAG_Prompt_Llama-3.2-3B-Instruct.csv",
+# ]
+
 csv_files = [
-    "RQ1_RAG_Answers_Basic_RAG_Prompt_Llama-3.2-1B-Instruct.csv",
-    "RQ1_RAG_Answers_Basic_RAG_Prompt_Llama-3.2-3B-Instruct.csv",
+    "RQ1_RAG_Answers_Basic_RAG_Prompt_Phi-3-mini-128k-instruct.csv",
+    "RQ1_RAG_Answers_Basic_RAG_Prompt_Phi-3-small-128k-instruct.csv",
+    "RQ1_RAG_Answers_Basic_RAG_Prompt_Phi-3-medium-128k-instruct.csv",
 ]
 
+
 # family_name = "Qwen3"  # ✅ Set the family name manually
-family_name = "Llama-3.2"  # ✅ Set the family name manually
+# family_name = "Llama-3.2"  # ✅ Set the family name manually
+family_name = "Phi-3"  # ✅ Set the family name manually
 
 prompt_id = "Basic_RAG_Prompt"  # ✅ Set the prompt name manually
 # ============================================================================
