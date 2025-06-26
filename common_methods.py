@@ -44,7 +44,8 @@ def get_top_matching_chunks(query, k):
     model = SentenceTransformer("all-mpnet-base-v2") # around 7% better 
 
     # This line uses the read_csv function from the pandas library to load data from a CSV file named "chunks.csv" into a DataFrame called df
-    df = pd.read_csv("chunks.csv") 
+    # df = pd.read_csv("chunks.csv") 
+    df = pd.read_csv("NEW_chunks.csv") 
 
     # Extract data from indicated columns from the DataFrame into Python lists
     chunk_ids = df["chunk_id"].tolist()

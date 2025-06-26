@@ -1,0 +1,48 @@
+import pandas as pd
+import os
+
+def verify_csv_file(file_path):
+    """Verify which CSV file you're actually reading"""
+    
+    print(f"🔍 Checking file: {file_path}")
+    
+    # Check if file exists
+    if not os.path.exists(file_path):
+        print(f"❌ ERROR: File does not exist at path: {file_path}")
+        return None
+    
+    # Get absolute path
+    abs_path = os.path.abspath(file_path)
+    print(f"📁 Absolute path: {abs_path}")
+    
+    # Get file size
+    file_size = os.path.getsize(file_path)
+    print(f"📊 File size: {file_size} bytes")
+    
+    # Get modification time
+    mod_time = os.path.getmtime(file_path)
+    print(f"⏰ Last modified: {pd.to_datetime(mod_time, unit='s')}")
+    
+    # Read and inspect the CSV
+    try:
+        df = pd.read_csv(file_path)
+        print(f"📋 Number of rows: {len(df)}")
+        print(f"📋 Number of columns: {len(df.columns)}")
+        print(f"📋 Columns: {df.columns.tolist()}")
+        
+        # Show first few characters of first few responses
+        if 'Generated Answer' in df.columns:
+            print(f"\n🔍 First 3 'Generated Answer' samples:")
+            for i in range(min(3, len(df))):
+                answer = str(df.iloc[i]['Generated Answer'])
+                print(f"  Row {i}: {answer[:100]}...")
+        
+        return df
+        
+    except Exception as e:
+        print(f"❌ ERROR reading CSV: {e}")
+        return None
+
+# Test with your file
+file_path = "NEW_combined_size_Phi-3_outputs_Basic_RAG_Prompt.csv"
+df = verify_csv_file(file_path)

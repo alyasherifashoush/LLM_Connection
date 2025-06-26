@@ -19,20 +19,52 @@ import pandas as pd
 # =====================================================================================================================
 
 
-# ======  Testing enabling thinking with different prompts=========================================================
 
-# USER INPUT
-csv_files = [
-     "RQ3_prompt_RAG_Answers_Basic_RAG_Prompt_Qwen3-0.6B.csv",
-     "RQ3_prompt_RAG_Answers_COT_Prompt_Qwen3-0.6B.csv",
-     "RQ3_prompt_RAG_Answers_No_Context_Prompt_Qwen3-0.6B.csv",
-]
+# ======  Testing enabling thinking with different model sizes=========================================================
 
+# # USER INPUT
+# csv_files = [
+#      "NEW_RQ3_size_RAG_Answers_Basic_RAG_Prompt_Qwen3-0.6B.csv",
+#      "NEW_RQ3_size_RAG_Answers_Basic_RAG_Prompt_Qwen3-1.7B.csv",
+#      "NEW_RQ3_size_RAG_Answers_Basic_RAG_Prompt_Qwen3-4B.csv",
+#      "NEW_RQ3_size_RAG_Answers_Basic_RAG_Prompt_Qwen3-8B.csv",
+#      "NEW_RQ3_size_RAG_Answers_Basic_RAG_Prompt_Qwen3-14B.csv",
 
-model_name = "Qwen3-0.6B" # ✅ Set the model name manually
+# ]
+
+# family_name = "Qwen3"  # ✅ Set the family name manually
+# prompt_id = "Basic_RAG_Prompt"  # ✅ Set the prompt name manually
 
 # =====================================================================================================================
 
+# # ======  Testing enabling thinking with different prompts=========================================================
+
+# # USER INPUT
+# csv_files = [
+#      "RQ3_prompt_RAG_Answers_Basic_RAG_Prompt_Qwen3-0.6B.csv",
+#      "RQ3_prompt_RAG_Answers_COT_Prompt_Qwen3-0.6B.csv",
+#      "RQ3_prompt_RAG_Answers_No_Context_Prompt_Qwen3-0.6B.csv",
+# ]
+
+
+# model_name = "Qwen3-0.6B" # ✅ Set the model name manually
+
+# # =====================================================================================================================
+
+
+# # ======  Testing enabling thinking with different prompts=========================================================
+
+# USER INPUT
+csv_files = [
+     "NEW_RQ3_prompt_RAG_Answers_Basic_RAG_Prompt_Qwen3-4B.csv",
+     "NEW_RQ3_prompt_RAG_Answers_COT_Prompt_Qwen3-4B.csv",
+     "NEW_RQ3_prompt_RAG_Answers_No_Context_Prompt_Qwen3-4B.csv",
+]
+
+
+model_name = "Qwen3-4B" # ✅ Set the model name manually
+
+# # =====================================================================================================================
 
 # =========================== COMMON PART=================================================================
 # Read and concatenate all CSVs
@@ -55,12 +87,24 @@ assert combined_df.columns.tolist() == expected_columns, "Column mismatch detect
 
 #========================================================================================================================
 
-# ======  Testing enabling thinking with different prompts ========================================================
+# ======  Testing enabling thinking with different model sizes=========================================================
 
-output_filename = f"combined_en_prompt_outputs_{model_name}.csv"
+# output_filename = f"NEW_combined_en_size_{family_name}_outputs_{prompt_id}.csv"
 
 #========================================================================================================================
 
 
+
+# ======  Testing enabling thinking with different prompts ========================================================
+
+# output_filename = f"combined_en_prompt_outputs_{model_name}.csv"
+
+#========================================================================================================================
+
+# ======  Testing enabling thinking with different prompts ========================================================
+
+output_filename = f"NEW_combined_en_prompt_outputs_{model_name}.csv"
+
+#========================================================================================================================
 combined_df.to_csv(output_filename, index=False)
 print(f"✅ Combined CSV saved as '{output_filename}'")

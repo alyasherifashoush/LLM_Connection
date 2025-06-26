@@ -1,0 +1,4 @@
+Generation Prompt Used,correctness,completeness_reference,faithfulness,completeness_question
+Basic_RAG_Prompt,4.666666666666667,4.18,4.786666666666667,4.8
+COT_Prompt,4.8533333333333335,4.586666666666667,4.88,4.9
+No_Context_Prompt,2.74,1.9066666666666667,3.046666666666667,3.9066666666666667

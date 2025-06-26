@@ -1,0 +1,24 @@
+import pandas as pd
+from transformers import AutoTokenizer
+
+# Load your CSV file
+df = pd.read_csv("NEW_combined_size_Phi-3_outputs_Basic_RAG_Prompt.csv")
+
+# Initialize tokenizer (GPT-2 used as a proxy for Phi-3)
+tokenizer = AutoTokenizer.from_pretrained("gpt2")
+
+# Set token limit
+max_tokens = 4096  # or adjust if you're using a different model
+
+# Collect rows where prompt is too long
+too_long_rows = []
+for idx, row in df.iterrows():
+    prompt = row['Generation Prompt Used']
+    token_count = len(tokenizer.encode(str(prompt)))
+    if token_count > max_tokens:
+        too_long_rows.append((idx, token_count, row['Question Index'], row['Question'][:100]))
+
+# Print summary
+print(f"{len(too_long_rows)} rows exceed {max_tokens} tokens.")
+for idx, tokens, qid, question_preview in too_long_rows:
+    print(f"Row {idx} | Question Index: {qid} | {tokens} tokens | Question Start: \"{question_preview}\"")

@@ -1,0 +1,3 @@
+Generation Model,correctness,completeness_reference,faithfulness,completeness_question
+meta-llama/Llama-3.2-1B-Instruct,3.7466666666666666,3.1333333333333333,4.226666666666667,4.166666666666667
+meta-llama/Llama-3.2-3B-Instruct,4.506666666666667,4.126666666666667,4.72,4.593333333333334

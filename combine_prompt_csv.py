@@ -18,12 +18,29 @@ import pandas as pd
 # model_name = "Qwen3-4B"  # ✅ Set the model name manually
 # # ============================================================================
 
+# # ====== USER INPUT =======================================================
+# csv_files = [
+#     "NEW_RQ2_RAG_Answers_Basic_RAG_Prompt_Qwen3-4B.csv",
+#     "NEW_RQ2_RAG_Answers_COT_Prompt_Qwen3-4B.csv",
+#     "NEW_RQ2_RAG_Answers_No_Context_Prompt_Qwen3-4B.csv",
+# ]
+# model_name = "Qwen3-4B"  # ✅ Set the model name manually
+# # ============================================================================
 
 # # ====== USER INPUT =======================================================
 # csv_files = [
 #     "RQ2_RAG_Answers_Basic_RAG_Prompt_Llama-3.2-3B-Instruct.csv",
 #     "RQ2_RAG_Answers_COT_Prompt_Llama-3.2-3B-Instruct.csv",
 #     "RQ2_RAG_Answers_No_Context_Prompt_Llama-3.2-3B-Instruct.csv",
+# ]
+# model_name = "Llama-3.2-3B-Instruct"  # ✅ Set the model name manually
+# # ============================================================================
+
+# # ====== USER INPUT =======================================================
+# csv_files = [
+#     "NEW_RQ2_RAG_Answers_Basic_RAG_Prompt_Llama-3.2-3B-Instruct.csv",
+#     "NEW_RQ2_RAG_Answers_COT_Prompt_Llama-3.2-3B-Instruct.csv",
+#     "NEW_RQ2_RAG_Answers_No_Context_Prompt_Llama-3.2-3B-Instruct.csv",
 # ]
 # model_name = "Llama-3.2-3B-Instruct"  # ✅ Set the model name manually
 # # ============================================================================
@@ -38,11 +55,21 @@ import pandas as pd
 # # ============================================================================
 
 
+# # ====== USER INPUT =======================================================
+# csv_files = [
+#     "RQ2_RAG_Answers_Basic_RAG_Prompt_Phi-3-mini-128k-instruct.csv",
+#     "RQ2_RAG_Answers_COT_Prompt_Phi-3-mini-128k-instruct.csv",
+#     "RQ2_RAG_Answers_No_Context_Prompt_Phi-3-mini-128k-instruct.csv",
+# ]
+# model_name = "Phi-3-mini-128k-instruct"  # ✅ Set the model name manually
+# # ============================================================================
+
+
 # ====== USER INPUT =======================================================
 csv_files = [
-    "RQ2_RAG_Answers_Basic_RAG_Prompt_Phi-3-mini-128k-instruct.csv",
-    "RQ2_RAG_Answers_COT_Prompt_Phi-3-mini-128k-instruct.csv",
-    "RQ2_RAG_Answers_No_Context_Prompt_Phi-3-mini-128k-instruct.csv",
+    "NEW_RQ2_RAG_Answers_Basic_RAG_Prompt_Phi-3-mini-128k-instruct.csv",
+    "NEW_RQ2_RAG_Answers_COT_Prompt_Phi-3-mini-128k-instruct.csv",
+    "NEW_RQ2_RAG_Answers_No_Context_Prompt_Phi-3-mini-128k-instruct.csv",
 ]
 model_name = "Phi-3-mini-128k-instruct"  # ✅ Set the model name manually
 # ============================================================================
@@ -59,7 +86,8 @@ expected_columns = [
 assert combined_df.columns.tolist() == expected_columns, "❌ Column mismatch detected!"
 
 # Generate output filename
-output_filename = f"combined_prompt_outputs_{model_name}.csv"
+# output_filename = f"combined_prompt_outputs_{model_name}.csv"
+output_filename = f"NEW_combined_prompt_outputs_{model_name}.csv"
 combined_df.to_csv(output_filename, index=False)
 
 print(f"✅ Combined CSV saved as '{output_filename}'")
