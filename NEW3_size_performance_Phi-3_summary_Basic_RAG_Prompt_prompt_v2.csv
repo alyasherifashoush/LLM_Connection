@@ -1,0 +1,4 @@
+Generation Model,correctness,completeness_reference,faithfulness,completeness_question
+microsoft/Phi-3-medium-128k-instruct,4.7,4.453333333333333,4.8933333333333335,4.8
+microsoft/Phi-3-mini-128k-instruct,4.5,4.1066666666666665,4.766666666666667,4.7
+microsoft/Phi-3-small-128k-instruct,4.633333333333334,4.346666666666667,4.8533333333333335,4.773333333333333

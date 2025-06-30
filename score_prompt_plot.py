@@ -100,7 +100,12 @@ import pandas as pd # Library to read CSV files
 # csv_path = "NEW2_prompt_en_performance_summary_Qwen3-4B_prompt_v2.csv"
 # csv_path = "NEW2_prompt_performance_summary_Qwen3-4B_prompt_v2.csv"
 # csv_path = "NEW2_prompt_performance_summary_Llama-3.2-3B-Instruct_prompt_v2.csv"
-csv_path = "NEW2_prompt_performance_summary_mini-128k-instruct_prompt_v2.csv"
+# csv_path = "NEW2_prompt_performance_summary_mini-128k-instruct_prompt_v2.csv"
+# csv_path = "NEW3_prompt_performance_summary_mini-128k-instruct_prompt_v2.csv"
+# csv_path = "NEW3_prompt_en_performance_summary_Qwen3-4B_prompt_v2.csv"
+# csv_path = "NEW3_prompt_performance_summary_Qwen3-4B_prompt_v2.csv"
+# csv_path = "NEW3_prompt_performance_summary_Llama-3.2-3B-Instruct_prompt_v2.csv"
+csv_path = "NEW4_prompt_performance_summary_mini-128k-instruct_prompt_v2.csv"
 
 df = pd.read_csv(csv_path)
 
@@ -156,6 +161,11 @@ plt.tight_layout()
 # plt.savefig("NEW2_prompt_en_bargraph_Qwen3-4B_prompt_v2.png", dpi=300) 
 # plt.savefig("NEW2_prompt_bargraph_Qwen3-4B_prompt_v2.png", dpi=300) 
 # plt.savefig("NEW2_prompt_bargraph_Llama-3.2-3B-Instruct_prompt_v2.png", dpi=300)
-plt.savefig("NEW2_prompt_bargraph_mini-128k-instruct_prompt_v2.png", dpi=300)
+# plt.savefig("NEW2_prompt_bargraph_mini-128k-instruct_prompt_v2.png", dpi=300)
+# plt.savefig("NEW3_prompt_bargraph_mini-128k-instruct_prompt_v2.png", dpi=300)
+# plt.savefig("NEW3_prompt_en_bargraph_Qwen3-4B_prompt_v2.png", dpi=300) 
+# plt.savefig("NEW3_prompt_bargraph_Qwen3-4B_prompt_v2.png", dpi=300) 
+# plt.savefig("NEW3_prompt_bargraph_Llama-3.2-3B-Instruct_prompt_v2.png", dpi=300)
+plt.savefig("NEW4_prompt_bargraph_mini-128k-instruct_prompt_v2.png", dpi=300)
 
 print("Done!")
